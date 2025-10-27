@@ -282,7 +282,10 @@ scholar:
   join_strings: true
 
   details_dir: bibliography
+  details_layout: bibtex.html
   details_link: Details
+  repository: publications
+  allow_fields: [image, type, url]
 
   query: "@*"
   group_by: year
