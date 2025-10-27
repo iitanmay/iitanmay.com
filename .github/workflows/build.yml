@@ -10,19 +10,29 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # Checkout your repository
       - uses: actions/checkout@v4
+
+      # Set up Ruby environment
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.2'
           bundler-cache: true
 
+      # Install Ruby dependencies
       - name: Install dependencies
         run: bundle install
 
+      # Install Jupyter (needed by jekyll-jupyter-notebook)
+      - name: Install Jupyter
+        run: pip install jupyter
+
+      # Build your Jekyll site
       - name: Build site with Jekyll
         run: bundle exec jekyll build
 
+      # Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
