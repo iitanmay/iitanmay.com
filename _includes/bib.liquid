@@ -1,0 +1,35 @@
+<div class="publication-entry" style="display:flex; align-items:flex-start; margin-bottom:2rem;">
+  {% if entry.image %}
+    <div class="pub-image" style="flex:0 0 120px; margin-right:1rem;">
+      <img src="{{ entry.image | relative_url }}" alt="{{ entry.title }}" style="width:120px; border-radius:8px;">
+    </div>
+  {% endif %}
+
+  <div class="pub-info" style="flex:1;">
+    <strong>
+      {% if entry.url %}
+        <a href="{{ entry.url }}" target="_blank" rel="noopener noreferrer">{{ entry.title }}</a>
+      {% else %}
+        {{ entry.title }}
+      {% endif %}
+    </strong><br>
+
+    <span class="pub-authors">{{ entry.author }}</span><br>
+
+    {% if entry.journal %}
+      <em>{{ entry.journal }}</em>,
+    {% endif %}
+    {% if entry.booktitle %}
+      <em>{{ entry.booktitle }}</em>,
+    {% endif %}
+    {% if entry.year %}
+      {{ entry.year }}
+    {% endif %}
+
+    {% if entry.type %}
+      <span class="pub-type" style="background:#eee; border-radius:4px; padding:0.1em 0.4em; margin-left:0.5em; font-size:0.85em;">
+        {{ entry.type }}
+      </span>
+    {% endif %}
+  </div>
+</div>
