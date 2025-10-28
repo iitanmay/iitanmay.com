@@ -1,9 +1,9 @@
 Journal:
-  color: "#4CAF50"     # Green
+  color: "#4CAF50" # Green
   url: https://en.wikipedia.org/wiki/Academic_journal
 Conference:
-  color: "#2196F3"     # Blue
+  color: "#2196F3" # Blue
   url: https://en.wikipedia.org/wiki/Conference_paper
 Book\ Chapter:
-  color: "#FF9800"     # Orange
+  color: "#FF9800" # Orange
   url: https://en.wikipedia.org/wiki/Book_chapter
