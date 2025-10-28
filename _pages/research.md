@@ -19,18 +19,18 @@ horizontal: false
   </a>
   {% assign categorized_research = site.research | where: "category", category %}
   {% assign sorted_research = categorized_research | sort: "importance" %}
-  <!-- Generate cards for each project -->
+  <!-- Generate cards for each research -->
   {% if page.horizontal %}
   <div class="container">
     <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_research %}
+    {% for research in sorted_research %}
       {% include research_horizontal.liquid %}
     {% endfor %}
     </div>
   </div>
   {% else %}
   <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_research %}
+    {% for research in sorted_research %}
       {% include research.liquid %}
     {% endfor %}
   </div>
@@ -43,20 +43,20 @@ horizontal: false
 
 {% assign sorted_research = site.research | sort: "importance" %}
 
-  <!-- Generate cards for each project -->
+  <!-- Generate cards for each research -->
 
 {% if page.horizontal %}
 
   <div class="container">
     <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_research %}
+    {% for research in sorted_research %}
       {% include research_horizontal.liquid %}
     {% endfor %}
     </div>
   </div>
   {% else %}
   <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_research %}
+    {% for research in sorted_research %}
       {% include research.liquid %}
     {% endfor %}
   </div>
