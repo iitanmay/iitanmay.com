@@ -223,6 +223,13 @@ defaults:
     values:
       sitemap: false
 
+  # Research collection defaults
+  - scope:
+      path: ""
+      type: research
+    values:
+      layout: research
+
 sass:
   style: compressed
 
