@@ -5,6 +5,7 @@ permalink: /research/
 description: A growing collection of your cool research.
 nav: true
 nav_order: 1
+display_categories: [environmental flows, stratified turbulence, wall-bounded flows , computational fluid dynamics]
 horizontal: false
 ---
 
