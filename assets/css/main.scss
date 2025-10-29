@@ -23,3 +23,12 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
+
+//
+// CUSTOM STYLES
+//
+
+// Add vertical margin to the top of each research category title
+.projects h2.category {
+  margin-top: 2.5rem !important;
+}
