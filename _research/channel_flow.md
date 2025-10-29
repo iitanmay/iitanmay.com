@@ -1,6 +1,6 @@
 ---
 layout: research
-title: channel flow  # Your project title
+title: channel flow # Your project title
 description: A description of my research on channel flow.
 img: assets/img/12.jpg
 importance: 1

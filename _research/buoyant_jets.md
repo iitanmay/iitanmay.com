@@ -1,6 +1,6 @@
 ---
 layout: research
-title: buoyant jets  # Your project title
+title: buoyant jets # Your project title
 description: A description of my research on buoyant jets.
 img: assets/img/12.jpg
 importance: 1

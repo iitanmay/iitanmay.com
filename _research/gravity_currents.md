@@ -1,6 +1,6 @@
 ---
 layout: research
-title: gravity currents  # Your project title
+title: gravity currents # Your project title
 description: A description of my research on gravity currents.
 img: assets/img/12.jpg
 importance: 1

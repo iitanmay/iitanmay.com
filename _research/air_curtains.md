@@ -1,9 +1,9 @@
 ---
 layout: research
-title: air curtains  # Your project title
+title: air curtains # Your project title
 description: A description of my research on air curtains.
 img: assets/img/12.jpg
-importance: 1
+importance: 2
 category: environmental flows
 related_publications: true
 ---

@@ -1,6 +1,6 @@
 ---
 layout: research
-title: multigrid methods  # Your project title
+title: multigrid methods # Your project title
 description: A description of my research on multigrid methods.
 img: assets/img/12.jpg
 importance: 1

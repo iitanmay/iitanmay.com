@@ -62,10 +62,7 @@
       "startDate": "2013-05-01",
       "endDate": "2013-07-31",
       "summary": "Worked as an intern at the computational fluid dynamics laboratory. Developed two-dimensional parallel solvers based on lattice Boltzmann method using CUDA-C to simulate incompressible fluid flows on graphic processing unit (GPU).",
-      "highlights": [
-        "Validated solver with lid-driven cavity flow",
-        "Extended solver for flow over a cylinder using immersed boundary method (IBM)"
-      ]
+      "highlights": ["Validated solver with lid-driven cavity flow", "Extended solver for flow over a cylinder using immersed boundary method (IBM)"]
     }
   ],
   "volunteer": [
@@ -110,12 +107,7 @@
       "startDate": "2021",
       "endDate": "2025",
       "score": "9.78/10",
-      "courses": [
-        "Physics of turbulent flows",
-        "Turbulence and its modeling",
-        "Experimental methods",
-        "Computational fluid dynamics"
-      ]
+      "courses": ["Physics of turbulent flows", "Turbulence and its modeling", "Experimental methods", "Computational fluid dynamics"]
     },
     {
       "institution": "The University of Melbourne",
@@ -272,16 +264,7 @@
       "name": "Analysis & Design Tools",
       "level": "Master",
       "icon": "fa-solid fa-screwdriver-wrench",
-      "keywords": [
-        "MATLAB",
-        "Autodesk Inventor",
-        "Visit",
-        "Python",
-        "Tecplot",
-        "LaTeX",
-        "Adobe Illustrator",
-        "Adobe Premiere Pro"
-      ]
+      "keywords": ["MATLAB", "Autodesk Inventor", "Visit", "Python", "Tecplot", "LaTeX", "Adobe Illustrator", "Adobe Premiere Pro"]
     }
   ],
   "languages": [
@@ -300,22 +283,12 @@
     {
       "name": "Running",
       "icon": "fa-solid fa-person-running",
-      "keywords": [
-        "Half-marathon",
-        "10K",
-        "5K",
-        "Pacing",
-        "Relay"
-      ]
+      "keywords": ["Half-marathon", "10K", "5K", "Pacing", "Relay"]
     },
     {
       "name": "Online Education",
       "icon": "fa-brands fa-youtube",
-      "keywords": [
-        "Thermofluids",
-        "Design",
-        "Content Creation"
-      ]
+      "keywords": ["Thermofluids", "Design", "Content Creation"]
     }
   ],
   "references": [
