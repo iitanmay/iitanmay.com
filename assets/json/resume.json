@@ -1,1 +1,321 @@
-{"basics":{"name":"Tanmay Agrawal","label":"PhD in Applied Mechanics","image":"","email":"iitanmay[at]proton[dot]me","phone":"","url":"https://iitanmay.com","summary":"PhD in Applied Mechanics from IIT Delhi specializing in experimental and computational fluid dynamics, with a focus on fluid transport, air curtains, and gravity currents.","location":{"address":"","postalCode":"","city":"New Delhi","countryCode":"IN","region":"India"},"profiles":[{"network":"LinkedIn","username":"","url":"https://www.linkedin.com/..."},{"network":"Google Scholar","username":"","url":"https://scholar.google.com/..."}]},"work":[{"name":"Indian Institute of Technology Delhi","position":"Teaching Assistant","url":"","startDate":"2021-01-01","endDate":"2024-01-01","summary":"Assisted teaching fluid mechanics (UG & PG), computational fluid dynamics (PG), environmental fluid mechanics (PG) & Engineering mechanics (UG).","highlights":[]},{"name":"The University of Melbourne","position":"Teaching Assistant","url":"","startDate":"2018-01-01","endDate":"2020-01-01","summary":"Conducted workshops and laboratory sessions for the courses on civil hydraulics (PG), fluid mechanics (UG).","highlights":[]},{"name":"National Tsing Hua University","position":"Graduate Teaching Assistant","url":"","startDate":"2015-01-01","endDate":"2016-01-01","summary":"Graduate teaching assistant for the course on gas dynamics (UG). Conducted tutorials and graded assignments and exams.","highlights":[]},{"name":"National Tsing Hua University","position":"Intern","url":"","startDate":"2013-05-01","endDate":"2013-07-31","summary":"Worked as an intern at the computational fluid dynamics laboratory. Developed two-dimensional parallel solvers based on lattice Boltzmann method using CUDA-C to simulate incompressible fluid flows on graphic processing unit (GPU).","highlights":["Validated solver with lid-driven cavity flow","Extended solver for flow over a cylinder using immersed boundary method (IBM)"]}],"volunteer":[{"organization":"Mechanical Engineering Research Student Association (MERSA), The University of Melbourne","location":"","position":"President","url":"","startDate":"2018-01-01","endDate":"2020-01-01","summary":"In-charge for organization of multiple academic and fun events such as technical workshops, outdoor trips etc. to enhance interaction between various research groups.","highlights":[]},{"organization":"Running Community","location":"","position":"Runner and Training Assistant","url":"","startDate":"","endDate":"","summary":"Participated in many running events (individual and relay) with distances varying from 1 mile to 105 KM. Assisted as pacer in many 5K and 10K races.","highlights":[]},{"organization":"YouTube","location":"","position":"YouTube Educator","url":"","startDate":"","endDate":"","summary":"Teaching on the online platform, primarily in the field of thermofluids and design, and having a student base of more than 14,500.","highlights":[]}],"education":[{"institution":"Indian Institute of Technology Delhi","location":"India","url":"","area":"Applied Mechanics","studyType":"Ph.D.","startDate":"2021","endDate":"2025","score":"9.78/10","courses":["Physics of turbulent flows","Turbulence and its modeling","Experimental methods","Computational fluid dynamics"]},{"institution":"The University of Melbourne","location":"Australia","url":"","area":"Mechanical Engineering","studyType":"M. Phil.","startDate":"2017","endDate":"2020","score":"","courses":[]},{"institution":"National Tsing Hua University","location":"Taiwan","url":"","area":"Mechanical Engineering","studyType":"M. S.","startDate":"2014","endDate":"2016","score":"4.19/4.30","courses":[]},{"institution":"National Institute of Technology Hamirpur","location":"India","url":"","area":"Mechanical Engineering","studyType":"B. Tech.","startDate":"2010","endDate":"2014","score":"8.96/10","courses":[]}],"awards":[{"title":"Research Excellent Travel Award","date":"2024","awarder":"Indian Institute of Technology Delhi","url":"","summary":"Monetary assistance (INR 2,00,000) provided to selected PhD students in the institute towards presenting in an international conference."},{"title":"Prime Minister Research Fellowship","date":"2022","awarder":"Government of India","url":"","summary":"Highly competitive PhD fellowship that includes a research grant (INR 2,00,000 per year) followed by a rigorous annual review. (2022-2024)"},{"title":"SERB International Travel Support","date":"2023","awarder":"Government of India","url":"","summary":"Financial assistance (INR 1,75,000) towards attending summer school at University of Cambridge, UK."},{"title":"Melbourne Postgraduate Research Scholarship","date":"2017","awarder":"The University of Melbourne","url":"","summary":"Scholarship for meritorious international students to pursue a research degree. (2017-2020)"},{"title":"NTHU International Student Scholarship","date":"2014","awarder":"National Tsing Hua University","url":"","summary":"Fully-funded postgraduate scholarship to undertake a master degree. (2014-2016)"}],"publications":[{"name":"Performance and flow dynamics of heavy air curtains using experiments and numerical simulations","publisher":"Environmental Fluid Mechanics","releaseDate":"2024","url":"","summary":"Authors: Tanmay Agrawal, Shresth Agarwal, Vamsi K. Chalamalla and Narsing K. Jha"},{"name":"Numerical investigation of air curtain flows in the doorway of a building using RANS and LES","publisher":"Computers & Fluids","releaseDate":"2023","url":"","summary":"Authors: Tanmay Agrawal, Narsing K. Jha and Vamsi K. Chalamalla"},{"name":"Dynamics of a buoyant gravity current propagating in a linearly stratified medium","publisher":"Physics of Fluids","releaseDate":"2022","url":"","summary":"Authors: Tanmay Agrawal, Siva Heramb Peddada and Vamsi K. Chalamalla"},{"name":"Probing the high mixing efficiency events in a lock-exchange flow through simultaneous velocity and temperature measurements","publisher":"Physics of Fluids","releaseDate":"2021","url":"","summary":"Authors: Tanmay Agrawal, Bhaarath Ramesh, Spencer J Zimmerman, Jimmy Philip and Joseph C Klewicki. (Selected as Editor's Picks)"},{"name":"A parallel nonlinear multigrid solver for unsteady incompressible flow simulation on multi-GPU cluster","publisher":"Journal of Computational Physics","releaseDate":"2020","url":"","summary":"Authors: Xiaolei Shi, Tanmay Agrawal, Chao-An Lin, Feng-Nan Hwang and Tzu-Hsuan Chiu"},{"name":"Solar Absorption Refrigeration System for Air-Conditioning of a Classroom Building in Northern India","publisher":"Journal of The Institution of Engineers: Series C","releaseDate":"2015","url":"","summary":"Authors: Tanmay Agrawal, Varun and Anoop Kumar"},{"name":"On the equivalence of top and bottom gravity currents in a linearly stratified channel","publisher":"AGU Books (Book Chapter)","releaseDate":"","summary":"Accepted for publication by AGU Books in the monograph series focussed on Particulate Gravity Currents. Authors: Tanmay Agrawal, Marius Ungarish and Vamsi K. Chalamalla"}],"skills":[{"name":"Experimental Fluid Mechanics","level":"Master","icon":"fa-solid fa-vial","keywords":["Particle Image Velocimetry (PIV)","Molecular Tagging Velocimetry (MTV)","Molecular Tagging Thermometry (MTT)","Shadowgraphy","Flow visualization (PLIF)","LabVIEW","Hot-wire anemometry"]},{"name":"Computational Fluid Dynamics","level":"Master","icon":"fa-solid fa-laptop-code","keywords":["Solver development (C, C++, CUDA-C)","ANSYS Fluent","SOMAR (LES solver)","DNS","Multigrid method","Immersed boundary method","Lattice Boltzmann method","GPU computing"]},{"name":"Analysis & Design Tools","level":"Master","icon":"fa-solid fa-screwdriver-wrench","keywords":["MATLAB","Autodesk Inventor","Visit","Python","Tecplot","LaTeX","Adobe Illustrator","Adobe Premiere Pro"]}],"languages":[{"language":"English","fluency":"Fluent","icon":""},{"language":"Hindi","fluency":"Native speaker","icon":""}],"interests":[{"name":"Running","icon":"fa-solid fa-person-running","keywords":["Half-marathon","10K","5K","Pacing","Relay"]},{"name":"Online Education","icon":"fa-brands fa-youtube","keywords":["Thermofluids","Design","Content Creation"]}],"references":[{"name":"Prof. Narsing K. Jha","icon":"fa-solid fa-envelope","reference":"Indian Institute of Technology Delhi: narsingjha[at]am[dot]iitd[dot]ac[dot]in"},{"name":"Prof. Vamsi K. Chalamalla","icon":"fa-solid fa-envelope","reference":"Indian Institute of Technology Delhi: vchalama[at]am[dot]iitd[dot]ac[dot]in"},{"name":"Prof. Joe Klewicki","icon":"fa-solid fa-envelope","reference":"The University of Melbourne, Australia: klewicki[at]unimelb[dot]edu[dot]au"},{"name":"Prof. Jimmy Philip","icon":"fa-solid fa-envelope","reference":"The University of Melbourne, Australia: jimmyp[at]unimelb[dot]edu[dot]au"},{"name":"Prof. Chao-An Lin","icon":"fa-solid fa-envelope","reference":"National Tsing Hua University, Taiwan: calin[at]pme[dot]nthu[dot]edu[dot]tw"}]}
+{
+  "basics": {
+    "name": "Tanmay Agrawal",
+    "label": "PhD in Applied Mechanics",
+    "image": "",
+    "email": "iitanmay[at]proton[dot]me",
+    "phone": "",
+    "url": "https://iitanmay.com",
+    "summary": "PhD in Applied Mechanics from IIT Delhi specializing in experimental and computational fluid dynamics, with a focus on fluid transport, air curtains, and gravity currents.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "New Delhi",
+      "countryCode": "IN",
+      "region": "India"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "",
+        "url": "https://www.linkedin.com/..."
+      },
+      {
+        "network": "Google Scholar",
+        "username": "",
+        "url": "https://scholar.google.com/..."
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Indian Institute of Technology Delhi",
+      "position": "Teaching Assistant",
+      "url": "",
+      "startDate": "2021-01-01",
+      "endDate": "2024-01-01",
+      "summary": "Assisted teaching fluid mechanics (UG & PG), computational fluid dynamics (PG), environmental fluid mechanics (PG) & Engineering mechanics (UG).",
+      "highlights": []
+    },
+    {
+      "name": "The University of Melbourne",
+      "position": "Teaching Assistant",
+      "url": "",
+      "startDate": "2018-01-01",
+      "endDate": "2020-01-01",
+      "summary": "Conducted workshops and laboratory sessions for the courses on civil hydraulics (PG), fluid mechanics (UG).",
+      "highlights": []
+    },
+    {
+      "name": "National Tsing Hua University",
+      "position": "Graduate Teaching Assistant",
+      "url": "",
+      "startDate": "2015-01-01",
+      "endDate": "2016-01-01",
+      "summary": "Graduate teaching assistant for the course on gas dynamics (UG). Conducted tutorials and graded assignments and exams.",
+      "highlights": []
+    },
+    {
+      "name": "National Tsing Hua University",
+      "position": "Intern",
+      "url": "",
+      "startDate": "2013-05-01",
+      "endDate": "2013-07-31",
+      "summary": "Worked as an intern at the computational fluid dynamics laboratory. Developed two-dimensional parallel solvers based on lattice Boltzmann method using CUDA-C to simulate incompressible fluid flows on graphic processing unit (GPU).",
+      "highlights": ["Validated solver with lid-driven cavity flow", "Extended solver for flow over a cylinder using immersed boundary method (IBM)"]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Mechanical Engineering Research Student Association (MERSA), The University of Melbourne",
+      "location": "",
+      "position": "President",
+      "url": "",
+      "startDate": "2018-01-01",
+      "endDate": "2020-01-01",
+      "summary": "In-charge for organization of multiple academic and fun events such as technical workshops, outdoor trips etc. to enhance interaction between various research groups.",
+      "highlights": []
+    },
+    {
+      "organization": "Running Community",
+      "location": "",
+      "position": "Runner and Training Assistant",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Participated in many running events (individual and relay) with distances varying from 1 mile to 105 KM. Assisted as pacer in many 5K and 10K races.",
+      "highlights": []
+    },
+    {
+      "organization": "YouTube",
+      "location": "",
+      "position": "YouTube Educator",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Teaching on the online platform, primarily in the field of thermofluids and design, and having a student base of more than 14,500.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Indian Institute of Technology Delhi",
+      "location": "India",
+      "url": "",
+      "area": "Applied Mechanics",
+      "studyType": "Ph.D.",
+      "startDate": "2021",
+      "endDate": "2025",
+      "score": "9.78/10",
+      "courses": ["Physics of turbulent flows", "Turbulence and its modeling", "Experimental methods", "Computational fluid dynamics"]
+    },
+    {
+      "institution": "The University of Melbourne",
+      "location": "Australia",
+      "url": "",
+      "area": "Mechanical Engineering",
+      "studyType": "M. Phil.",
+      "startDate": "2017",
+      "endDate": "2020",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "National Tsing Hua University",
+      "location": "Taiwan",
+      "url": "",
+      "area": "Mechanical Engineering",
+      "studyType": "M. S.",
+      "startDate": "2014",
+      "endDate": "2016",
+      "score": "4.19/4.30",
+      "courses": []
+    },
+    {
+      "institution": "National Institute of Technology Hamirpur",
+      "location": "India",
+      "url": "",
+      "area": "Mechanical Engineering",
+      "studyType": "B. Tech.",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "8.96/10",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Research Excellent Travel Award",
+      "date": "2024",
+      "awarder": "Indian Institute of Technology Delhi",
+      "url": "",
+      "summary": "Monetary assistance (INR 2,00,000) provided to selected PhD students in the institute towards presenting in an international conference."
+    },
+    {
+      "title": "Prime Minister Research Fellowship",
+      "date": "2022",
+      "awarder": "Government of India",
+      "url": "",
+      "summary": "Highly competitive PhD fellowship that includes a research grant (INR 2,00,000 per year) followed by a rigorous annual review. (2022-2024)"
+    },
+    {
+      "title": "SERB International Travel Support",
+      "date": "2023",
+      "awarder": "Government of India",
+      "url": "",
+      "summary": "Financial assistance (INR 1,75,000) towards attending summer school at University of Cambridge, UK."
+    },
+    {
+      "title": "Melbourne Postgraduate Research Scholarship",
+      "date": "2017",
+      "awarder": "The University of Melbourne",
+      "url": "",
+      "summary": "Scholarship for meritorious international students to pursue a research degree. (2017-2020)"
+    },
+    {
+      "title": "NTHU International Student Scholarship",
+      "date": "2014",
+      "awarder": "National Tsing Hua University",
+      "url": "",
+      "summary": "Fully-funded postgraduate scholarship to undertake a master degree. (2014-2016)"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Performance and flow dynamics of heavy air curtains using experiments and numerical simulations",
+      "publisher": "Environmental Fluid Mechanics",
+      "releaseDate": "2024",
+      "url": "",
+      "summary": "Authors: Tanmay Agrawal, Shresth Agarwal, Vamsi K. Chalamalla and Narsing K. Jha"
+    },
+    {
+      "name": "Numerical investigation of air curtain flows in the doorway of a building using RANS and LES",
+      "publisher": "Computers & Fluids",
+      "releaseDate": "2023",
+      "url": "",
+      "summary": "Authors: Tanmay Agrawal, Narsing K. Jha and Vamsi K. Chalamalla"
+    },
+    {
+      "name": "Dynamics of a buoyant gravity current propagating in a linearly stratified medium",
+      "publisher": "Physics of Fluids",
+      "releaseDate": "2022",
+      "url": "",
+      "summary": "Authors: Tanmay Agrawal, Siva Heramb Peddada and Vamsi K. Chalamalla"
+    },
+    {
+      "name": "Probing the high mixing efficiency events in a lock-exchange flow through simultaneous velocity and temperature measurements",
+      "publisher": "Physics of Fluids",
+      "releaseDate": "2021",
+      "url": "",
+      "summary": "Authors: Tanmay Agrawal, Bhaarath Ramesh, Spencer J Zimmerman, Jimmy Philip and Joseph C Klewicki. (Selected as Editor's Picks)"
+    },
+    {
+      "name": "A parallel nonlinear multigrid solver for unsteady incompressible flow simulation on multi-GPU cluster",
+      "publisher": "Journal of Computational Physics",
+      "releaseDate": "2020",
+      "url": "",
+      "summary": "Authors: Xiaolei Shi, Tanmay Agrawal, Chao-An Lin, Feng-Nan Hwang and Tzu-Hsuan Chiu"
+    },
+    {
+      "name": "Solar Absorption Refrigeration System for Air-Conditioning of a Classroom Building in Northern India",
+      "publisher": "Journal of The Institution of Engineers: Series C",
+      "releaseDate": "2015",
+      "url": "",
+      "summary": "Authors: Tanmay Agrawal, Varun and Anoop Kumar"
+    },
+    {
+      "name": "On the equivalence of top and bottom gravity currents in a linearly stratified channel",
+      "publisher": "AGU Books (Book Chapter)",
+      "releaseDate": "",
+      "summary": "Accepted for publication by AGU Books in the monograph series focussed on Particulate Gravity Currents. Authors: Tanmay Agrawal, Marius Ungarish and Vamsi K. Chalamalla"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Experimental Fluid Mechanics",
+      "level": "Master",
+      "icon": "fa-solid fa-vial",
+      "keywords": [
+        "Particle Image Velocimetry (PIV)",
+        "Molecular Tagging Velocimetry (MTV)",
+        "Molecular Tagging Thermometry (MTT)",
+        "Shadowgraphy",
+        "Flow visualization (PLIF)",
+        "LabVIEW",
+        "Hot-wire anemometry"
+      ]
+    },
+    {
+      "name": "Computational Fluid Dynamics",
+      "level": "Master",
+      "icon": "fa-solid fa-laptop-code",
+      "keywords": [
+        "Solver development (C, C++, CUDA-C)",
+        "ANSYS Fluent",
+        "SOMAR (LES solver)",
+        "DNS",
+        "Multigrid method",
+        "Immersed boundary method",
+        "Lattice Boltzmann method",
+        "GPU computing"
+      ]
+    },
+    {
+      "name": "Analysis & Design Tools",
+      "level": "Master",
+      "icon": "fa-solid fa-screwdriver-wrench",
+      "keywords": ["MATLAB", "Autodesk Inventor", "Visit", "Python", "Tecplot", "LaTeX", "Adobe Illustrator", "Adobe Premiere Pro"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent",
+      "icon": ""
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Native speaker",
+      "icon": ""
+    }
+  ],
+  "interests": [
+    {
+      "name": "Running",
+      "icon": "fa-solid fa-person-running",
+      "keywords": ["Half-marathon", "10K", "5K", "Pacing", "Relay"]
+    },
+    {
+      "name": "Online Education",
+      "icon": "fa-brands fa-youtube",
+      "keywords": ["Thermofluids", "Design", "Content Creation"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Prof. Narsing K. Jha",
+      "icon": "fa-solid fa-envelope",
+      "reference": "Indian Institute of Technology Delhi: narsingjha[at]am[dot]iitd[dot]ac[dot]in"
+    },
+    {
+      "name": "Prof. Vamsi K. Chalamalla",
+      "icon": "fa-solid fa-envelope",
+      "reference": "Indian Institute of Technology Delhi: vchalama[at]am[dot]iitd[dot]ac[dot]in"
+    },
+    {
+      "name": "Prof. Joe Klewicki",
+      "icon": "fa-solid fa-envelope",
+      "reference": "The University of Melbourne, Australia: klewicki[at]unimelb[dot]edu[dot]au"
+    },
+    {
+      "name": "Prof. Jimmy Philip",
+      "icon": "fa-solid fa-envelope",
+      "reference": "The University of Melbourne, Australia: jimmyp[at]unimelb[dot]edu[dot]au"
+    },
+    {
+      "name": "Prof. Chao-An Lin",
+      "icon": "fa-solid fa-envelope",
+      "reference": "National Tsing Hua University, Taiwan: calin[at]pme[dot]nthu[dot]edu[dot]tw"
+    }
+  ]
+}
