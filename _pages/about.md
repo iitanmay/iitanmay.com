@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD in Applied Mechanics
+subtitle: Fluid Dynamics Researcher
 
 profile:
   align: right
@@ -21,11 +21,11 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I recently completed my PhD in Applied Mechanics from IIT Delhi, specializing in experimental and computational fluid dynamics. My research focuses on fluid transport, air curtains, and gravity currents.
+I recently completed my PhD in Applied Mechanics from IIT Delhi, specializing in fluid dynamics. I work in the broad area of fluid dynamics which encompasses understanding the nature of fluid flows through experimental and computational measures.
 
 This website serves as my professional portfolio, detailing my research interests, publications, and past projects.
