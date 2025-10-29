@@ -416,36 +416,41 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "research-research-1",
-          title: 'research 1',
-          description: "with background image",
+          section: "News",},{id: "research-air-curtains",
+          title: 'air curtains',
+          description: "A description of my research on air curtains.",
           section: "Research",handler: () => {
-              window.location.href = "/research/1_research/";
-            },},{id: "research-research-2",
-          title: 'research 2',
-          description: "a research with a background image and giscus comments",
+              window.location.href = "/research/air_curtains/";
+            },},{id: "research-buoyant-jets",
+          title: 'buoyant jets',
+          description: "A description of my research on buoyant jets.",
           section: "Research",handler: () => {
-              window.location.href = "/research/2_research/";
-            },},{id: "research-research-3-with-very-long-name",
-          title: 'research 3 with very long name',
-          description: "a research that redirects to another website",
+              window.location.href = "/research/buoyant_jets/";
+            },},{id: "research-channel-flow",
+          title: 'channel flow',
+          description: "A description of my research on channel flow.",
           section: "Research",handler: () => {
-              window.location.href = "/research/3_research/";
-            },},{id: "research-research-4",
-          title: 'research 4',
-          description: "another without an image",
+              window.location.href = "/research/channel_flow/";
+            },},{id: "research-gravity-currents",
+          title: 'gravity currents',
+          description: "A description of my research on gravity currents.",
           section: "Research",handler: () => {
-              window.location.href = "/research/4_research/";
-            },},{id: "research-research-5",
-          title: 'research 5',
-          description: "a research with a background image",
+              window.location.href = "/research/gravity_currents/";
+            },},{id: "research-mixing",
+          title: 'mixing',
+          description: "A description of my research on mixing.",
           section: "Research",handler: () => {
-              window.location.href = "/research/5_research/";
-            },},{id: "research-research-6",
-          title: 'research 6',
-          description: "a research with no image",
+              window.location.href = "/research/mixing/";
+            },},{id: "research-multigrid-methods",
+          title: 'multigrid methods',
+          description: "A description of my research on multigrid methods.",
           section: "Research",handler: () => {
-              window.location.href = "/research/6_research/";
+              window.location.href = "/research/multigrid_methods/";
+            },},{id: "research-parallel-computing",
+          title: 'parallel computing',
+          description: "A description of my research on parallel computing.",
+          section: "Research",handler: () => {
+              window.location.href = "/research/parallel_computing/";
             },},{
         id: 'social-email',
         title: 'email',
