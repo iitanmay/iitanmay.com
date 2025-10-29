@@ -1,11 +1,11 @@
 ---
-layout: page
-title: research 3 with very long name
-description: a research that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
-importance: 3
-category: work
+layout: research
+title: parallel computing  # Your project title
+description: A description of my research on parallel computing.
+img: assets/img/12.jpg
+importance: 1
+category: computational fluid dynamics
+related_publications: true
 ---
 
 Every research has a beautiful feature showcase page.

@@ -1,10 +1,11 @@
 ---
-layout: page
-title: research 6
-description: a research with no image
-img:
-importance: 4
-category: fun
+layout: research
+title: gravity currents  # Your project title
+description: A description of my research on gravity currents.
+img: assets/img/12.jpg
+importance: 1
+category: stratified turbulence
+related_publications: true
 ---
 
 Every research has a beautiful feature showcase page.

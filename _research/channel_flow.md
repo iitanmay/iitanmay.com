@@ -1,10 +1,10 @@
 ---
-layout: page
-title: research 1
-description: with background image
+layout: research
+title: channel flow  # Your project title
+description: A description of my research on channel flow.
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: wall-bounded flows
 related_publications: true
 ---
 
@@ -44,8 +44,8 @@ To give your research a background in the portfolio page, just add the img tag t
     This image can also have a caption. It's like magic.
 </div>
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your research before you posted the rest of the images.
+You can also put regular text between your rows of images.
+Say you wanted to write a little bit about your research before you posted the rest of the images.
 You describe how you toiled, sweated, _bled_ for your research, and then... you reveal its glory in the next row of images.
 
 <div class="row justify-content-sm-center">

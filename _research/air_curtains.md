@@ -1,10 +1,11 @@
 ---
-layout: page
-title: research 4
-description: another without an image
-img:
-importance: 3
-category: fun
+layout: research
+title: air curtains  # Your project title
+description: A description of my research on air curtains.
+img: assets/img/12.jpg
+importance: 1
+category: environmental flows
+related_publications: true
 ---
 
 Every research has a beautiful feature showcase page.

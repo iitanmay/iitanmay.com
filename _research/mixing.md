@@ -1,11 +1,11 @@
 ---
-layout: page
-title: research 2
-description: a research with a background image and giscus comments
-img: assets/img/3.jpg
-importance: 2
-category: work
-giscus_comments: true
+layout: research
+title: mixing  # Your project title
+description: A description of my research on mixing.
+img: assets/img/12.jpg
+importance: 1
+category: stratified turbulence
+related_publications: true
 ---
 
 Every research has a beautiful feature showcase page.
