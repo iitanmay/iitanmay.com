@@ -51,3 +51,7 @@ body.sticky-bottom-footer {
 *****************************************************************************/
 
 // TODO: redefine projects layout.
+// Add vertical margin to the top of each research category title
+.projects h2.category {
+  margin-top: 2rem;
+}
