@@ -405,18 +405,22 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+            },},{id: "news-measurements-conducted-in-vande-bharat-to-assess-thermal-comfort-and-iaq",
+          title: 'Measurements conducted in Vande Bharat to assess thermal comfort and IAQ',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+              window.location.href = "/news/vande_bharat_iaq/";
+            },},{id: "news-animesh-completed-his-internship-in-the-fluid-mechanics-lab",
+          title: 'Animesh completed his internship in the fluid mechanics lab',
           description: "",
-          section: "News",},{id: "research-air-curtains",
+          section: "News",handler: () => {
+              window.location.href = "/news/animesh_internship/";
+            },},{id: "news-tanmay-defended-his-phd-thesis-at-iit-delhi",
+          title: 'Tanmay defended his PhD thesis at IIT Delhi',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/phd_defense/";
+            },},{id: "research-air-curtains",
           title: 'air curtains',
           description: "A description of my research on air curtains.",
           section: "Research",handler: () => {
