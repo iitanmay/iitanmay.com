@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Fluid Dynamics Researcher
+subtitle: PhD in Applied Mechanics
 
 profile:
   align: right
@@ -21,11 +21,13 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: false
+  enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I recently completed my PhD in Applied Mechanics from IIT Delhi, specializing in fluid dynamics. I work in the broad area of fluid dynamics which encompasses understanding the nature of fluid flows through experimental and computational measures.
+I completed my PhD in Applied Mechanics from IIT Delhi under the supervision of [Prof. Narsing K. Jha](https://narsingjha.github.io/) and [Prof. Vamsi K. Chalamalla](https://sites.google.com/site/vkchalama/). I worked in the broad area of environmental fluid dynamics which encompasses understanding the nature of environmental and geophysical flows through experimental and computational measures. My PhD thesis aimed to provide a better understanding of the transport dynamics of buoyant jets with application in air curtains which are generally installed in shopping complexes, restaurants, food cabinets etc.
+
+Prior to the PhD, I pursued an MPhil at the University of Melbourne (Supervisors: [Prof. Joe Klewicki](https://findanexpert.unimelb.edu.au/profile/370500-joseph-klewicki) and [Prof. Jimmy Philip](https://findanexpert.unimelb.edu.au/profile/382360-jimmy-philip)) and an MS at National Tsing Hua University (Advisor: [Prof. Chao-An Lin](https://pme.site.nthu.edu.tw/p/406-1308-73995,r4027.php?Lang=en)) in Taiwan. My undergraduate degree was from National Institute of Technology Hamirpur (India).
 
 This website serves as my professional portfolio, detailing my research interests, publications, and past projects.
