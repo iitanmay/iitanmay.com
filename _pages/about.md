@@ -2,15 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD in Applied Mechanics
+subtitle: Researcher, Educator and Learner
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>New Delhi, India</p>
-    <p>iitanmay[at]proton[dot]me</p>
+  more_info: #
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -28,6 +26,6 @@ latest_posts:
 
 I completed my PhD in Applied Mechanics from IIT Delhi under the supervision of [Prof. Narsing K. Jha](https://narsingjha.github.io/) and [Prof. Vamsi K. Chalamalla](https://sites.google.com/site/vkchalama/). I worked in the broad area of environmental fluid dynamics which encompasses understanding the nature of environmental and geophysical flows through experimental and computational measures. My PhD thesis aimed to provide a better understanding of the transport dynamics of buoyant jets with application in air curtains which are generally installed in shopping complexes, restaurants, food cabinets etc.
 
-Prior to the PhD, I pursued an MPhil at the University of Melbourne (Supervisors: [Prof. Joe Klewicki](https://findanexpert.unimelb.edu.au/profile/370500-joseph-klewicki) and [Prof. Jimmy Philip](https://findanexpert.unimelb.edu.au/profile/382360-jimmy-philip)) and an MS at National Tsing Hua University (Advisor: [Prof. Chao-An Lin](https://pme.site.nthu.edu.tw/p/406-1308-73995,r4027.php?Lang=en)) in Taiwan. My undergraduate degree was from National Institute of Technology Hamirpur (India).
+Prior to the PhD, I pursued an MPhil at the University of Melbourne (Supervisors: [Prof. Joe Klewicki](https://findanexpert.unimelb.edu.au/profile/370500-joseph-klewicki) and [Prof. Jimmy Philip](https://findanexpert.unimelb.edu.au/profile/382360-jimmy-philip)) and an MS at National Tsing Hua University (Advisor: [Prof. Chao-An Lin](https://pme.site.nthu.edu.tw/p/406-1308-73995,r4027.php?Lang=en)) in Taiwan. Earlier, I had completed an undergraduate degree from National Institute of Technology (NIT) Hamirpur India.
 
 This website serves as my professional portfolio, detailing my research interests, publications, and past projects.
