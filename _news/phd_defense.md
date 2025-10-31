@@ -6,8 +6,27 @@ inline: false
 related_posts: false
 ---
 
-On 3 September 2025, I successfully defended my PhD thesis titled **"Role of fluid transport on sealing effectiveness of air curtains"** at IIT Delhi.
+On September 3 2025, I successfully defended my PhD thesis titled **"Role of fluid transport on sealing effectiveness of air curtains"** in the Department of Applied Mechanics at IIT Delhi. The slides I used during my viva-voce are also provided for reference.
 
-More details, presentation slides, and a full-text version of the thesis will be available here soon.
+---
 
-_(You can add your text, images, and embed your PDF/PPT iframe here directly.)_
+#### PhD Defense Slides
+
+<iframe
+  src="/assets/pdf/PhD_Defense_Slides.pdf"
+  width="100%"
+  height="500px"
+  frameborder="0"
+>
+This browser does not support PDFs. Please download the PDF to view it:
+</iframe>
+
+<a href="/assets/pdf/phd_slides.pdf" target="_blank" rel="noopener noreferrer">
+[Download Slides (PDF)]
+</a>
+
+---
+
+Any PhD defense is incomplete without a photo with the supervisors and the examiner!
+
+{% include figure.liquid path="assets/img/defense_photo.jpg" width="75%" caption="From left: Prof. Vamsi Chalamalla, Yours Truly, Prof. Narsing Kumar Jha, Prof. Alakesh Chandra Mandal (IIT Kanpur))" %}
