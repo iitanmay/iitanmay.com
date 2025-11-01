@@ -1,7 +1,7 @@
 ---
 layout: research
 title: channel flow # Your project title
-description: A description of my research on channel flow.
+description:
 img: assets/img/Channel_Flow.png
 importance: 1
 category: wall-bounded flows

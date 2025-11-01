@@ -1,7 +1,7 @@
 ---
 layout: research
 title: multigrid methods # Your project title
-description: A description of my research on multigrid methods.
+description:
 img: assets/img/Multigrid_Methods.png
 importance: 1
 category: computational fluid dynamics

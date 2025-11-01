@@ -1,7 +1,7 @@
 ---
 layout: research
 title: parallel computing # Your project title
-description: A description of my research on parallel computing.
+description:
 img: assets/img/Parallel_Computing.png
 importance: 2
 category: computational fluid dynamics

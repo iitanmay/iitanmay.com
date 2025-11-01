@@ -1,7 +1,7 @@
 ---
 layout: research
 title: mixing # Your project title
-description: A description of my research on mixing.
+description:
 img: assets/img/Mixing.png
 importance: 2
 category: stratified turbulence

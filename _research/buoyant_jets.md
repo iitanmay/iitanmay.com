@@ -1,7 +1,7 @@
 ---
 layout: research
 title: buoyant jets # Your project title
-description: A description of my research on buoyant jets.
+description:
 img: assets/img/Buoyant_Jets.png
 importance: 1
 category: environmental flows

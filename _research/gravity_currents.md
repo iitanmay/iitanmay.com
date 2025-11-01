@@ -1,7 +1,7 @@
 ---
 layout: research
 title: gravity currents # Your project title
-description: A description of my research on gravity currents.
+description:
 img: assets/img/Gravity_Currents.png
 importance: 1
 category: stratified turbulence
