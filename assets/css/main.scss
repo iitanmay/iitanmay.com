@@ -43,7 +43,9 @@ $max-content-width: {{ site.max_width }};
   object-fit: cover;  // Crop the image to fit (no stretching)
 }
 
-// Center-align all figure captions
-figure figcaption {
-  text-align: center !important;
+// Center-align all figures and their captions
+figure {
+  margin-left: auto;   // Centers the figure block
+  margin-right: auto;  // Centers the figure block
+  text-align: center; // Centers the caption text inside
 }
