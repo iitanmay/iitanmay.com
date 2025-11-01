@@ -45,5 +45,5 @@ $max-content-width: {{ site.max_width }};
 
 // Center-align all figure captions
 figure figcaption {
-  text-align: center;
+  text-align: center !important;
 }
