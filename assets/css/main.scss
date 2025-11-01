@@ -29,7 +29,7 @@ $max-content-width: {{ site.max_width }};
 //
 
 // Style research category headings for better separation
-.projects h2.category {
+.research h2.category {
   margin-top: 3rem !important;      // Adds significant space *above* the title
   margin-bottom: 1.5rem !important;  // Adds space *below* the title (before the cards)
   padding-bottom: 0.5rem !important; // Adds space between text and the new border
