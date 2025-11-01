@@ -80,7 +80,7 @@
       "releaseDate": "2025",
       "summary": "Authors: Tanmay Agrawal, Marius Ungarish and Vamsi K. Chalamalla"
     },
-	{
+    {
       "name": "Performance and flow dynamics of heavy air curtains using experiments and numerical simulations",
       "publisher": "Environmental Fluid Mechanics",
       "releaseDate": "2024",
@@ -121,7 +121,7 @@
       "releaseDate": "2015",
       "url": "",
       "summary": "Authors: Tanmay Agrawal, Varun and Anoop Kumar"
-    },
+    }
   ],
   "skills": [
     {
@@ -187,7 +187,7 @@
       "endDate": "2016-01-01",
       "summary": "Graduate teaching assistant for the course on gas dynamics (UG). Conducted tutorials and graded assignments and exams.",
       "highlights": []
-    },
+    }
   ],
   "awards": [
     {
@@ -226,7 +226,7 @@
       "summary": "Fully-funded postgraduate scholarship to undertake a master degree. (2014-2016)"
     }
   ],
-	"Internships": [
+  "Internships": [
     {
       "name": "National Tsing Hua University",
       "position": "Intern",
