@@ -427,32 +427,32 @@ ninja.data = [{
               window.location.href = "/research/air_curtains/";
             },},{id: "research-buoyant-jets",
           title: 'buoyant jets',
-          description: "",
+          description: "A description of my research on buoyant jets.",
           section: "Research",handler: () => {
               window.location.href = "/research/buoyant_jets/";
             },},{id: "research-channel-flow",
           title: 'channel flow',
-          description: "",
+          description: "A description of my research on channel flow.",
           section: "Research",handler: () => {
               window.location.href = "/research/channel_flow/";
             },},{id: "research-gravity-currents",
           title: 'gravity currents',
-          description: "",
+          description: "A description of my research on gravity currents.",
           section: "Research",handler: () => {
               window.location.href = "/research/gravity_currents/";
             },},{id: "research-mixing",
           title: 'mixing',
-          description: "",
+          description: "A description of my research on mixing.",
           section: "Research",handler: () => {
               window.location.href = "/research/mixing/";
             },},{id: "research-multigrid-methods",
           title: 'multigrid methods',
-          description: "",
+          description: "A description of my research on multigrid methods.",
           section: "Research",handler: () => {
               window.location.href = "/research/multigrid_methods/";
             },},{id: "research-parallel-computing",
           title: 'parallel computing',
-          description: "",
+          description: "A description of my research on parallel computing.",
           section: "Research",handler: () => {
               window.location.href = "/research/parallel_computing/";
             },},{
