@@ -2,7 +2,7 @@
 layout: research
 title: channel flow # Your project title
 description: A description of my research on channel flow.
-img: assets/img/12.jpg
+img: assets/img/Channel_Flow.png
 importance: 1
 category: wall-bounded flows
 related_publications: true
@@ -18,7 +18,7 @@ To give your research a background in the portfolio page, just add the img tag t
     layout: page
     title: research
     description: a research with a background image
-    img: /assets/img/12.jpg
+    img: /assets/img/Channel_Flow.png
     ---
 
 <div class="row">

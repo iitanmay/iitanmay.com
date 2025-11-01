@@ -2,7 +2,7 @@
 layout: research
 title: air curtains # Your project title
 description: A description of my research on air curtains.
-img: assets/img/12.jpg
+img: assets/img/Air_Curtains.png
 importance: 2
 category: environmental flows
 related_publications: true
@@ -18,7 +18,7 @@ To give your research a background in the portfolio page, just add the img tag t
     layout: page
     title: research
     description: a research with a background image
-    img: /assets/img/12.jpg
+    img: /assets/img/Air_Curtains.png
     ---
 
 <div class="row">

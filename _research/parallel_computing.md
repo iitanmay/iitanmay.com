@@ -2,7 +2,7 @@
 layout: research
 title: parallel computing # Your project title
 description: A description of my research on parallel computing.
-img: assets/img/12.jpg
+img: assets/img/Parallel_Computing.png
 importance: 2
 category: computational fluid dynamics
 related_publications: true
@@ -18,7 +18,7 @@ To give your research a background in the portfolio page, just add the img tag t
     layout: page
     title: research
     description: a research with a background image
-    img: /assets/img/12.jpg
+    img: /assets/img/Parallel_Computing.png
     ---
 
 <div class="row">

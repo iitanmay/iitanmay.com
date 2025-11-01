@@ -2,7 +2,7 @@
 layout: research
 title: buoyant jets # Your project title
 description: A description of my research on buoyant jets.
-img: assets/img/12.jpg
+img: assets/img/Buoyant_Jets.png
 importance: 1
 category: environmental flows
 related_publications: true
@@ -18,7 +18,7 @@ To give your research a background in the portfolio page, just add the img tag t
     layout: page
     title: research
     description: a research with a background image
-    img: /assets/img/12.jpg
+    img: /assets/img/Buoyant_Jets.png
     ---
 
 <div class="row">
