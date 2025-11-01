@@ -42,10 +42,3 @@ $max-content-width: {{ site.max_width }};
   height: 200px;      // Set a fixed height for all thumbnails
   object-fit: cover;  // Crop the image to fit (no stretching)
 }
-
-// Center-align all figures and their captions
-figure {
-  margin-left: auto;   // Centers the figure block
-  margin-right: auto;  // Centers the figure block
-  text-align: center; // Centers the caption text inside
-}
