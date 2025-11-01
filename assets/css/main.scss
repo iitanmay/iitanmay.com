@@ -28,7 +28,10 @@ $max-content-width: {{ site.max_width }};
 // CUSTOM STYLES
 //
 
-// Add vertical margin to the top of each research category title
+// Style research category headings for better separation
 .projects h2.category {
-  margin-top: 2.5rem !important;
+  margin-top: 3rem !important;      // Adds significant space *above* the title
+  margin-bottom: 1.5rem !important;  // Adds space *below* the title (before the cards)
+  padding-bottom: 0.5rem !important; // Adds space between text and the new border
+  border-bottom: 2px solid var(--global-divider-color); // Adds a clean horizontal line
 }
