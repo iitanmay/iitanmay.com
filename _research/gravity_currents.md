@@ -2,7 +2,7 @@
 layout: research
 title: gravity currents # Your project title
 description: A description of my research on gravity currents.
-img: assets/img/Gravity_Current.png
+img: assets/img/Gravity_Currents.png
 importance: 1
 category: stratified turbulence
 related_publications: true
@@ -18,7 +18,7 @@ To give your research a background in the portfolio page, just add the img tag t
     layout: page
     title: research
     description: a research with a background image
-    img: /assets/img/Gravity_Current.png
+    img: /assets/img/Gravity_Currents.png
     ---
 
 <div class="row">
