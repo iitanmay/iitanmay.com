@@ -18,85 +18,15 @@
       {
         "network": "LinkedIn",
         "username": "",
-        "url": "https://www.linkedin.com/..."
+        "url": "https://www.linkedin.com/tanmay-agrawal-65422b2a7"
       },
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/..."
+        "url": "https://scholar.google.com/Jum9p6sAAAAJ"
       }
     ]
   },
-  "work": [
-    {
-      "name": "Indian Institute of Technology Delhi",
-      "position": "Teaching Assistant",
-      "url": "",
-      "startDate": "2021-01-01",
-      "endDate": "2024-01-01",
-      "summary": "Assisted teaching fluid mechanics (UG & PG), computational fluid dynamics (PG), environmental fluid mechanics (PG) & Engineering mechanics (UG).",
-      "highlights": []
-    },
-    {
-      "name": "The University of Melbourne",
-      "position": "Teaching Assistant",
-      "url": "",
-      "startDate": "2018-01-01",
-      "endDate": "2020-01-01",
-      "summary": "Conducted workshops and laboratory sessions for the courses on civil hydraulics (PG), fluid mechanics (UG).",
-      "highlights": []
-    },
-    {
-      "name": "National Tsing Hua University",
-      "position": "Graduate Teaching Assistant",
-      "url": "",
-      "startDate": "2015-01-01",
-      "endDate": "2016-01-01",
-      "summary": "Graduate teaching assistant for the course on gas dynamics (UG). Conducted tutorials and graded assignments and exams.",
-      "highlights": []
-    },
-    {
-      "name": "National Tsing Hua University",
-      "position": "Intern",
-      "url": "",
-      "startDate": "2013-05-01",
-      "endDate": "2013-07-31",
-      "summary": "Worked as an intern at the computational fluid dynamics laboratory. Developed two-dimensional parallel solvers based on lattice Boltzmann method using CUDA-C to simulate incompressible fluid flows on graphic processing unit (GPU).",
-      "highlights": ["Validated solver with lid-driven cavity flow", "Extended solver for flow over a cylinder using immersed boundary method (IBM)"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Mechanical Engineering Research Student Association (MERSA), The University of Melbourne",
-      "location": "",
-      "position": "President",
-      "url": "",
-      "startDate": "2018-01-01",
-      "endDate": "2020-01-01",
-      "summary": "In-charge for organization of multiple academic and fun events such as technical workshops, outdoor trips etc. to enhance interaction between various research groups.",
-      "highlights": []
-    },
-    {
-      "organization": "Running Community",
-      "location": "",
-      "position": "Runner and Training Assistant",
-      "url": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "Participated in many running events (individual and relay) with distances varying from 1 mile to 105 KM. Assisted as pacer in many 5K and 10K races.",
-      "highlights": []
-    },
-    {
-      "organization": "YouTube",
-      "location": "",
-      "position": "YouTube Educator",
-      "url": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "Teaching on the online platform, primarily in the field of thermofluids and design, and having a student base of more than 14,500.",
-      "highlights": []
-    }
-  ],
   "education": [
     {
       "institution": "Indian Institute of Technology Delhi",
@@ -143,45 +73,14 @@
       "courses": []
     }
   ],
-  "awards": [
-    {
-      "title": "Research Excellent Travel Award",
-      "date": "2024",
-      "awarder": "Indian Institute of Technology Delhi",
-      "url": "",
-      "summary": "Monetary assistance (INR 2,00,000) provided to selected PhD students in the institute towards presenting in an international conference."
-    },
-    {
-      "title": "Prime Minister Research Fellowship",
-      "date": "2022",
-      "awarder": "Government of India",
-      "url": "",
-      "summary": "Highly competitive PhD fellowship that includes a research grant (INR 2,00,000 per year) followed by a rigorous annual review. (2022-2024)"
-    },
-    {
-      "title": "SERB International Travel Support",
-      "date": "2023",
-      "awarder": "Government of India",
-      "url": "",
-      "summary": "Financial assistance (INR 1,75,000) towards attending summer school at University of Cambridge, UK."
-    },
-    {
-      "title": "Melbourne Postgraduate Research Scholarship",
-      "date": "2017",
-      "awarder": "The University of Melbourne",
-      "url": "",
-      "summary": "Scholarship for meritorious international students to pursue a research degree. (2017-2020)"
-    },
-    {
-      "title": "NTHU International Student Scholarship",
-      "date": "2014",
-      "awarder": "National Tsing Hua University",
-      "url": "",
-      "summary": "Fully-funded postgraduate scholarship to undertake a master degree. (2014-2016)"
-    }
-  ],
   "publications": [
     {
+      "name": "On the equivalence of top and bottom gravity currents in a linearly stratified channel",
+      "publisher": "AGU Books (Book Chapter)",
+      "releaseDate": "2025",
+      "summary": "Authors: Tanmay Agrawal, Marius Ungarish and Vamsi K. Chalamalla"
+    },
+	{
       "name": "Performance and flow dynamics of heavy air curtains using experiments and numerical simulations",
       "publisher": "Environmental Fluid Mechanics",
       "releaseDate": "2024",
@@ -223,12 +122,6 @@
       "url": "",
       "summary": "Authors: Tanmay Agrawal, Varun and Anoop Kumar"
     },
-    {
-      "name": "On the equivalence of top and bottom gravity currents in a linearly stratified channel",
-      "publisher": "AGU Books (Book Chapter)",
-      "releaseDate": "",
-      "summary": "Accepted for publication by AGU Books in the monograph series focussed on Particulate Gravity Currents. Authors: Tanmay Agrawal, Marius Ungarish and Vamsi K. Chalamalla"
-    }
   ],
   "skills": [
     {
@@ -267,6 +160,115 @@
       "keywords": ["MATLAB", "Autodesk Inventor", "Visit", "Python", "Tecplot", "LaTeX", "Adobe Illustrator", "Adobe Premiere Pro"]
     }
   ],
+  "work": [
+    {
+      "name": "Indian Institute of Technology Delhi",
+      "position": "Teaching Assistant",
+      "url": "",
+      "startDate": "2021-01-01",
+      "endDate": "2024-01-01",
+      "summary": "Assisted teaching fluid mechanics (UG & PG), computational fluid dynamics (PG), environmental fluid mechanics (PG) & Engineering mechanics (UG).",
+      "highlights": []
+    },
+    {
+      "name": "The University of Melbourne",
+      "position": "Teaching Assistant",
+      "url": "",
+      "startDate": "2018-01-01",
+      "endDate": "2020-01-01",
+      "summary": "Conducted workshops and laboratory sessions for the courses on civil hydraulics (PG), fluid mechanics (UG).",
+      "highlights": []
+    },
+    {
+      "name": "National Tsing Hua University",
+      "position": "Graduate Teaching Assistant",
+      "url": "",
+      "startDate": "2015-01-01",
+      "endDate": "2016-01-01",
+      "summary": "Graduate teaching assistant for the course on gas dynamics (UG). Conducted tutorials and graded assignments and exams.",
+      "highlights": []
+    },
+  ],
+  "awards": [
+    {
+      "title": "Research Excellent Travel Award",
+      "date": "2024",
+      "awarder": "Indian Institute of Technology Delhi",
+      "url": "",
+      "summary": "Monetary assistance (INR 2,00,000) provided to selected PhD students in the institute towards presenting in an international conference."
+    },
+    {
+      "title": "Prime Minister Research Fellowship",
+      "date": "2022",
+      "awarder": "Government of India",
+      "url": "",
+      "summary": "Highly competitive PhD fellowship that includes a research grant (INR 2,00,000 per year) followed by a rigorous annual review. (2022-2024)"
+    },
+    {
+      "title": "SERB International Travel Support",
+      "date": "2023",
+      "awarder": "Government of India",
+      "url": "",
+      "summary": "Financial assistance (INR 1,75,000) towards attending summer school at University of Cambridge, UK."
+    },
+    {
+      "title": "Melbourne Postgraduate Research Scholarship",
+      "date": "2017",
+      "awarder": "The University of Melbourne",
+      "url": "",
+      "summary": "Scholarship for meritorious international students to pursue a research degree. (2017-2020)"
+    },
+    {
+      "title": "NTHU International Student Scholarship",
+      "date": "2014",
+      "awarder": "National Tsing Hua University",
+      "url": "",
+      "summary": "Fully-funded postgraduate scholarship to undertake a master degree. (2014-2016)"
+    }
+  ],
+	"Internships": [
+    {
+      "name": "National Tsing Hua University",
+      "position": "Intern",
+      "url": "",
+      "startDate": "2013-05-01",
+      "endDate": "2013-07-31",
+      "summary": "Worked as an intern at the computational fluid dynamics laboratory. Developed two-dimensional parallel solvers based on lattice Boltzmann method using CUDA-C to simulate incompressible fluid flows on graphic processing unit (GPU).",
+      "highlights": ["Validated solver with lid-driven cavity flow", "Extended solver for flow over a cylinder using immersed boundary method (IBM)"]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Mechanical Engineering Research Student Association (MERSA), The University of Melbourne",
+      "location": "",
+      "position": "President",
+      "url": "",
+      "startDate": "2018-01-01",
+      "endDate": "2020-01-01",
+      "summary": "In-charge for organization of multiple academic and fun events such as technical workshops, outdoor trips etc. to enhance interaction between various research groups.",
+      "highlights": []
+    },
+    {
+      "organization": "Running Community",
+      "location": "",
+      "position": "Runner and Training Assistant",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Participated in many running events (individual and relay) with distances varying from 1 mile to 105 KM. Assisted as pacer in many 5K and 10K races.",
+      "highlights": []
+    },
+    {
+      "organization": "YouTube",
+      "location": "",
+      "position": "YouTube Educator",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Teaching on the online platform, primarily in the field of thermofluids and design, and having a student base of more than 14,500.",
+      "highlights": []
+    }
+  ],
   "languages": [
     {
       "language": "English",
@@ -288,7 +290,7 @@
     {
       "name": "Online Education",
       "icon": "fa-brands fa-youtube",
-      "keywords": ["Thermofluids", "Design", "Content Creation"]
+      "keywords": ["Thermofluids", "CFD", "Content Creation"]
     }
   ],
   "references": [

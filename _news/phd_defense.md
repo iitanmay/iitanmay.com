@@ -29,4 +29,4 @@ This browser does not support PDFs. Please download the PDF to view it:
 
 Any PhD defense is incomplete without a photo with the supervisors and the examiner!
 
-{% include figure.liquid path="assets/img/defense_photo.jpg" width="75%" caption="From left: Prof. Vamsi Chalamalla, Yours Truly, Prof. Narsing Kumar Jha, Prof. Alakesh Chandra Mandal (IIT Kanpur))" %}
+{% include figure.liquid path="assets/img/defense_photo.jpg" width="75%" caption="From left: Prof. Vamsi Chalamalla, Yours Truly, Prof. Narsing Kumar Jha, Prof. Alakesh Chandra Mandal (Examiner from IIT Kanpur)" %}
