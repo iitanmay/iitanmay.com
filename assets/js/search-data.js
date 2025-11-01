@@ -422,7 +422,7 @@ ninja.data = [{
               window.location.href = "/news/phd_defense/";
             },},{id: "research-air-curtains",
           title: 'air curtains',
-          description: "",
+          description: "A description of my research on air curtains.",
           section: "Research",handler: () => {
               window.location.href = "/research/air_curtains/";
             },},{id: "research-buoyant-jets",
