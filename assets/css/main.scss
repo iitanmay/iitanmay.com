@@ -35,3 +35,10 @@ $max-content-width: {{ site.max_width }};
   padding-bottom: 0.5rem !important; // Adds space between text and the new border
   border-bottom: 2px solid var(--global-divider-color); // Adds a clean horizontal line
 }
+
+// Force all research thumbnails to the same height
+.research .card img {
+  width: 100%;       // Make sure it fills the card horizontally
+  height: 200px;      // Set a fixed height for all thumbnails
+  object-fit: cover;  // Crop the image to fit (no stretching)
+}
