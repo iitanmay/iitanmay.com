@@ -126,13 +126,6 @@ ninja.data = [{
           section: "Research",handler: () => {
               window.location.href = "/research/parallel_computing/";
             },},{
-        id: 'social-email',
-        title: 'email',
-        section: 'Socials',
-        handler: () => {
-          window.open("mailto:%69%69%74%61%6E%6D%61%79 [%61%74] %70%72%6F%74%6F%6E [%64%6F%74] %6D%65", "_blank");
-        },
-      },{
         id: 'social-github',
         title: 'GitHub',
         section: 'Socials',
