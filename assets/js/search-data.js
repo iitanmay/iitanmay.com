@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-research",
           title: "research",
-          description: "A growing collection of your cool research.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/research/";
@@ -32,10 +32,17 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
+          },
+        },{id: "nav-contact",
+          title: "Contact",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/contact/";
           },
         },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
         
