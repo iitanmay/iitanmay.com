@@ -2,6 +2,8 @@
 layout: page
 title: Contact
 permalink: /contact/
+nav: true
+nav_order: 5
 ---
 
 Have a question or want to get in touch? Please fill out the form below, and I'll get back to you as soon as I can.
