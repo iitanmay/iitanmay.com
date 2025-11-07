@@ -3,10 +3,10 @@
     "name": "Tanmay Agrawal",
     "label": "PhD in Applied Mechanics",
     "image": "",
-    "email": "iitanmay[at]proton[dot]me",
+    "email": "",
     "phone": "",
     "url": "https://iitanmay.com",
-    "summary": "PhD in Applied Mechanics from IIT Delhi specializing in experimental and computational fluid dynamics, with a focus on fluid transport, air curtains, and gravity currents.",
+    "summary": "PhD in Applied Mechanics from IIT Delhi specializing in experimental and computational fluid dynamics.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -36,8 +36,7 @@
       "studyType": "Ph.D.",
       "startDate": "2021",
       "endDate": "2025",
-      "score": "9.78/10",
-      "courses": ["Physics of turbulent flows", "Turbulence and its modeling", "Experimental methods", "Computational fluid dynamics"]
+      "score": "9.78/10"
     },
     {
       "institution": "The University of Melbourne",
@@ -198,18 +197,18 @@
       "summary": "Monetary assistance (INR 2,00,000) provided to selected PhD students in the institute towards presenting in an international conference."
     },
     {
-      "title": "Prime Minister Research Fellowship",
-      "date": "2022",
-      "awarder": "Government of India",
-      "url": "",
-      "summary": "Highly competitive PhD fellowship that includes a research grant (INR 2,00,000 per year) followed by a rigorous annual review. (2022-2024)"
-    },
-    {
       "title": "SERB International Travel Support",
       "date": "2023",
       "awarder": "Government of India",
       "url": "",
       "summary": "Financial assistance (INR 1,75,000) towards attending summer school at University of Cambridge, UK."
+    },
+    {
+      "title": "Prime Minister Research Fellowship",
+      "date": "2022",
+      "awarder": "Government of India",
+      "url": "",
+      "summary": "Highly competitive PhD fellowship that includes a research grant (INR 2,00,000 per year) followed by a rigorous annual review. (2022-2024)"
     },
     {
       "title": "Melbourne Postgraduate Research Scholarship",
@@ -279,18 +278,6 @@
       "language": "Hindi",
       "fluency": "Native speaker",
       "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Running",
-      "icon": "fa-solid fa-person-running",
-      "keywords": ["Half-marathon", "10K", "5K", "Pacing", "Relay"]
-    },
-    {
-      "name": "Online Education",
-      "icon": "fa-brands fa-youtube",
-      "keywords": ["Thermofluids", "CFD", "Content Creation"]
     }
   ],
   "references": [
