@@ -18,7 +18,7 @@ Have a question or want to get in touch? Please fill out the form below, and I'l
   <div class="form-group">
     <label>
       Your message:
-      <textarea name="message" class="form-control" rows="5" required></textarea>
+      <textarea name="message" class="form-control" rows="5" required pattern=".*\S.*" title="Please enter a message. This field cannot be empty or just spaces."></textarea>
     </label>
   </div>
   <button type="submit" class="btn btn-primary">Send</button>
