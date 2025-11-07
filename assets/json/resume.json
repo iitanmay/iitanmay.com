@@ -6,7 +6,6 @@
     "email": "",
     "phone": "",
     "url": "https://iitanmay.com",
-    "summary": "PhD in Applied Mechanics from IIT Delhi specializing in experimental and computational fluid dynamics.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -77,48 +76,49 @@
       "name": "On the equivalence of top and bottom gravity currents in a linearly stratified channel",
       "publisher": "AGU Books (Book Chapter)",
       "releaseDate": "2025",
+      "url": "https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/9781394216727.ch6",
       "summary": "Authors: Tanmay Agrawal, Marius Ungarish and Vamsi K. Chalamalla"
     },
     {
       "name": "Performance and flow dynamics of heavy air curtains using experiments and numerical simulations",
       "publisher": "Environmental Fluid Mechanics",
       "releaseDate": "2024",
-      "url": "",
+      "url": "https://link.springer.com/article/10.1007/s10652-023-09948-8",
       "summary": "Authors: Tanmay Agrawal, Shresth Agarwal, Vamsi K. Chalamalla and Narsing K. Jha"
     },
     {
       "name": "Numerical investigation of air curtain flows in the doorway of a building using RANS and LES",
       "publisher": "Computers & Fluids",
       "releaseDate": "2023",
-      "url": "",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0045793023001731?via%3Dihub",
       "summary": "Authors: Tanmay Agrawal, Narsing K. Jha and Vamsi K. Chalamalla"
     },
     {
       "name": "Dynamics of a buoyant gravity current propagating in a linearly stratified medium",
       "publisher": "Physics of Fluids",
       "releaseDate": "2022",
-      "url": "",
+      "url": "https://pubs.aip.org/aip/pof/article-abstract/34/7/076605/2847554/Dynamics-of-a-buoyant-gravity-current-propagating",
       "summary": "Authors: Tanmay Agrawal, Siva Heramb Peddada and Vamsi K. Chalamalla"
     },
     {
       "name": "Probing the high mixing efficiency events in a lock-exchange flow through simultaneous velocity and temperature measurements",
       "publisher": "Physics of Fluids",
       "releaseDate": "2021",
-      "url": "",
+      "url": "https://pubs.aip.org/aip/pof/article-abstract/33/1/016605/1061197/Probing-the-high-mixing-efficiency-events-in-a",
       "summary": "Authors: Tanmay Agrawal, Bhaarath Ramesh, Spencer J Zimmerman, Jimmy Philip and Joseph C Klewicki. (Selected as Editor's Picks)"
     },
     {
       "name": "A parallel nonlinear multigrid solver for unsteady incompressible flow simulation on multi-GPU cluster",
       "publisher": "Journal of Computational Physics",
       "releaseDate": "2020",
-      "url": "",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0021999120302217",
       "summary": "Authors: Xiaolei Shi, Tanmay Agrawal, Chao-An Lin, Feng-Nan Hwang and Tzu-Hsuan Chiu"
     },
     {
       "name": "Solar Absorption Refrigeration System for Air-Conditioning of a Classroom Building in Northern India",
       "publisher": "Journal of The Institution of Engineers: Series C",
       "releaseDate": "2015",
-      "url": "",
+      "url": "https://link.springer.com/article/10.1007/s40032-015-0180-2",
       "summary": "Authors: Tanmay Agrawal, Varun and Anoop Kumar"
     }
   ],
