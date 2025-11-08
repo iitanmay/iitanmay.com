@@ -1,5 +1,5 @@
 ---
-layout: research
+layout: page
 title: gravity currents # Your project title
 description:
 img: assets/img/Gravity_Currents.png
