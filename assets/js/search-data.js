@@ -55,12 +55,7 @@ ninja.data = [{
             window.location.href = "/blog/2015/code/";
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "news-measurements-conducted-in-vande-bharat-to-assess-thermal-comfort-and-iaq",
+      },{id: "news-measurements-conducted-in-vande-bharat-to-assess-thermal-comfort-and-iaq",
           title: 'Measurements conducted in Vande Bharat to assess thermal comfort and IAQ',
           description: "",
           section: "News",handler: () => {
@@ -75,41 +70,6 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/phd_defense/";
-            },},{id: "research-air-curtains",
-          title: 'air curtains',
-          description: "",
-          section: "Research",handler: () => {
-              window.location.href = "/research/air_curtains/";
-            },},{id: "research-buoyant-jets",
-          title: 'buoyant jets',
-          description: "",
-          section: "Research",handler: () => {
-              window.location.href = "/research/buoyant_jets/";
-            },},{id: "research-channel-flow",
-          title: 'channel flow',
-          description: "",
-          section: "Research",handler: () => {
-              window.location.href = "/research/channel_flow/";
-            },},{id: "research-gravity-currents",
-          title: 'gravity currents',
-          description: "",
-          section: "Research",handler: () => {
-              window.location.href = "/research/gravity_currents/";
-            },},{id: "research-mixing",
-          title: 'mixing',
-          description: "",
-          section: "Research",handler: () => {
-              window.location.href = "/research/mixing/";
-            },},{id: "research-multigrid-methods",
-          title: 'multigrid methods',
-          description: "",
-          section: "Research",handler: () => {
-              window.location.href = "/research/multigrid_methods/";
-            },},{id: "research-parallel-computing",
-          title: 'parallel computing',
-          description: "",
-          section: "Research",handler: () => {
-              window.location.href = "/research/parallel_computing/";
             },},{
         id: 'social-github',
         title: 'GitHub',
