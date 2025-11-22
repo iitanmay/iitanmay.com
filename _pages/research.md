@@ -31,23 +31,23 @@ horizontal: false
 
   <h3>Flow structures and fluid transport</h3>
   <p>
-    My research investigates the dynamics of turbulent fountains, particularly when subjected to a lateral density stratification. This configuration is directly relevant to engineering applications like air curtains and underwater bubble screens. Using a synergistic approach of experiments and high-fidelity numerical simulations, I explore how lateral buoyancy alters flow structures and the associated fluid transport. We have observed that the interaction between the fountain and the stratified ambient creates unique structural asymmetries that significantly impact the spreading direction and long-range transport of the fluid.
+    My research investigates the dynamics of turbulent fountains, particularly when subjected to a lateral density stratification. This configuration is directly relevant to engineering applications like air curtains and underwater bubble screens. Using a synergistic approach of experiments and high-fidelity numerical simulations, I explore how lateral buoyancy alters flow structures and the associated fluid transport. We have observed that the interaction between the fountain and the stratified ambient creates unique structural asymmetries that significantly impact the spreading behavior. I am also interested to look at the transport characteristics from a Lagrangian perspective where the motion of individual fluid particle is tracked, giving insights into the mechanism of fluid motion.
   </p>
 
   <h3>Statistics and entrainment dynamics</h3>
   <p>
-    A key focus of my work is characterizing the statistical behavior and entrainment dynamics of these flows. We specifically look at the entrainment behavior as a function of the source Froude number ($Fr_0$). Our results reveal that lateral stratification enhances fluid entrainment by up to 20% compared to uniform environments. This increase is driven by the baroclinic torque generated at the interface, which intensifies the turbulent mixing and modifies the mass flux profiles along the trajectory of the fountain.
+    A key focus of my work is characterizing the statistical behavior and entrainment dynamics of these flows. We specifically look at the entrainment behavior of turbulent fountains as a function of the source Froude number ($Fr_0$). Our results reveal that when a lateral stratification is imposed, it enhances the fluid entrainment by up to 20% compared to uniform environments. This increase is driven by the the lateral forcing which modifies the volume flux along the trajectory of the fountain.
   </p>
 
   <div style="width: 70%; margin: 0 auto; text-align: center;">
     {% include figure.liquid
-       path="assets/img/Buoyant_Jets.png"
+       path="assets/img/Research_Fountain_1.png.png"
        class="img-fluid rounded z-depth-1"
        title="Research Figure: Buoyant Jets"
        alt="Research results showing fountain dynamics"
     %}
     <div class="caption">
-      Visualization of buoyant jets and their interaction with the ambient environment.
+      Influence of a lateral density stratification on the fountain trajectory. Subscripts $d$ and $l$ represent dense and light fluids.
     </div>
   </div>
 </div>
