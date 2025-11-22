@@ -8,14 +8,14 @@ horizontal: false
 ---
 
 <div class="research-section">
-  <h2>1. Turbulent jets and fountains</h2>
+  <h2>1. Free shear flows (jets, fountains) </h2>
   <br>
 
   <p>
     Turbulent jets and fountains are free shear flows observed widely in nature, from volcanic eruptions to hydrothermal vents, and in industrial applications like HVAC systems. While jets are purely momentum-driven, fountains possess an opposing buoyancy flux that eventually halts their vertical motion, causing them to reverse direction and spread laterally. Understanding their interaction with complex environments is crucial for predicting mass transport and mixing characteristics.
   </p>
 
-  <div style="width: 80%; margin: 0 auto; text-align: center;">
+  <div style="width: 70%; margin: 0 auto; text-align: center;">
     {% include video.liquid 
        path="assets/video/Turbulent_Fountain_Schematic.mp4" 
        class="img-fluid rounded z-depth-1" 
@@ -54,10 +54,13 @@ horizontal: false
 <hr>
 
 <div class="research-section">
-  <h2>2. Mixing in gravity currents</h2>
+  <h2>2. Stratified flows (gravity currents) </h2>
   <br>
 
-  <div style="width: 80%; margin: 0 auto; text-align: center;">
+  <p>
+    Gravity currents are buoyancy-driven flows where a fluid of one density spreads horizontally into a fluid of a different density. Ubiquitous in nature, manifesting as sea-breeze fronts, turbidity currents, or avalanches, these flows play a vital role in environmental mass transport. The fundamental "lock-exchange" configuration serves as a canonical model to study the propagation dynamics and the complex turbulent mixing that occurs at the interface of the two fluids.
+  </p>
+  <div style="width: 70%; margin: 0 auto; text-align: center;">
     {% include video.liquid
        path="assets/video/gc_schematic.mp4"
        class="img-fluid rounded z-depth-1"
@@ -71,18 +74,14 @@ horizontal: false
     </div>
   </div>
 
-  <p>
-    Gravity currents are buoyancy-driven flows where a fluid of one density spreads horizontally into a fluid of a different density. Ubiquitous in nature—manifesting as sea-breeze fronts, turbidity currents, or avalanches—these flows play a vital role in environmental mass transport. The fundamental "lock-exchange" configuration serves as a canonical model to study the propagation dynamics and the complex turbulent mixing that occurs at the interface of the two fluids.
-  </p>
-
   <h3>Propagation characteristics</h3>
   <p>
-    I investigate how ambient stratification fundamentally alters flow dynamics and propagation speed. We established that the flow regime—<strong>supercritical</strong> (characterized by solitary wave generation) or <strong>subcritical</strong> (dominated by internal wave radiation)—is governed by the interplay between the current's buoyancy and the ambient stratification strength. These findings, validated against dye visualization experiments, provide robust scaling laws for predicting propagation speeds in complex, stratified environments.
+    I investigate how ambient stratification alters the flow dynamics and propagation speed of these currents. We established the flow regimes as either supercritical (characterized by solitary wave generation) or subcritical (dominated by internal waves) which is governed by the interplay between the current's buoyancy and the ambient stratification strength. These findings, validated against dye visualization experiments, provide robust scaling laws for predicting propagation speeds in complex, stratified environments.
   </p>
 
-  <h3>Small-scale mixing</h3>
+  <h3>Small-scale turbulent mixing</h3>
   <p>
-    My work also focuses on the turbulent mixing mechanisms within these currents using a dual approach of <strong>Large Eddy Simulations (LES)</strong> and advanced laboratory experiments. We utilized <strong>Molecular Tagging Velocimetry (MTV)</strong> and <strong>Thermometry (MTT)</strong> to obtain simultaneous, high-resolution measurements of velocity and density fields. Analyzing this data through the <strong>background potential energy (BPE) framework</strong> allowed us to quantify mixing efficiency and identify "vortical overturns" as key precursors to irreversible mixing events.
+    My work also focuses on the turbulent mixing within these currents using a dual approach of LES and advanced laboratory experiments. We utilized Molecular Tagging Velocimetry (MTV) and Thermometry (MTT) to obtain simultaneous, high-resolution measurements of velocity and density fields. Analyzing this data through the background potential energy (BPE) framework allowed us to quantify an irreversible mixing efficiency and identify that "vortical overturns" usually act as key precursors to high mixing efficiency events.
   </p>
 
   <div style="width: 70%; margin: 0 auto; text-align: center;">
