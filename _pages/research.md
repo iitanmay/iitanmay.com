@@ -65,7 +65,7 @@ horizontal: false
        path="assets/video/Gravity_Current.avi"
        class="img-fluid rounded z-depth-1"
        controls=true 
-       autoplay=true 
+       autoplay=false 
        loop=true 
        muted=true
     %}
@@ -78,12 +78,6 @@ horizontal: false
   <p>
     I investigate how ambient stratification alters the flow dynamics and propagation speed of these currents. We established the flow regimes as either supercritical (characterized by solitary wave generation) or subcritical (dominated by internal waves) which is governed by the interplay between the current's buoyancy and the ambient stratification strength. These findings, validated against dye visualization experiments, provide robust scaling laws for predicting propagation speeds in complex, stratified environments.
   </p>
-
-  <h3>Small-scale turbulent mixing</h3>
-  <p>
-    My work also focuses on the turbulent mixing within these currents using a dual approach of LES and advanced laboratory experiments. We utilized Molecular Tagging Velocimetry (MTV) and Thermometry (MTT) to obtain simultaneous, high-resolution measurements of velocity and density fields. Analyzing this data through the background potential energy (BPE) framework allowed us to quantify an irreversible mixing efficiency and identify that "vortical overturns" usually act as key precursors to high mixing efficiency events.
-  </p>
-
   <div style="width: 70%; margin: 0 auto; text-align: center;">
     {% include figure.liquid
        path="assets/img/publication_preview/agrawal2022dynamics.png"
@@ -95,47 +89,11 @@ horizontal: false
       Large Eddy Simulation (LES) of a buoyant gravity current in a stratified medium, showing density contours and the generation of internal waves (Agrawal et al., 2022).
     </div>
   </div>
+
+  <h3>Small-scale turbulent mixing</h3>
+  <p>
+    My work also focuses on the turbulent mixing within these currents using a dual approach of LES and advanced laboratory experiments. We utilized Molecular Tagging Velocimetry (MTV) and Thermometry (MTT) to obtain simultaneous, high-resolution measurements of velocity and density fields. Analyzing this data through the background potential energy (BPE) framework allowed us to quantify an irreversible mixing efficiency and identify that "vortical overturns" usually act as key precursors to high mixing efficiency events.
+  </p>
 </div>
 
 <hr>
-
-<div class="research-section">
-  <h2>3. Computational Fluid Dynamics</h2>
-  <br>
-
-  <p>
-    High-fidelity numerical simulations are the backbone of my research into environmental flows. To capture the intricate physics of turbulence and stratification, I work on developing and optimizing robust numerical solvers. This involves addressing the challenges of solving partial differential equations (PDEs) for incompressible flows with high accuracy and computational efficiency on modern supercomputing architectures.
-  </p>
-
-  <h3>Multigrid methods</h3>
-  <div style="width: 70%; margin: 0 auto; text-align: center;">
-    {% include figure.liquid
-       path="assets/img/Multigrid_Methods.png"
-       class="img-fluid rounded z-depth-1"
-       title="Multigrid Methods"
-       alt="Schematic of multigrid cycles"
-    %}
-    <div class="caption">
-      Illustration of multigrid restriction and prolongation operations for accelerating convergence.
-    </div>
-  </div>
-  <p>
-    The pressure Poisson equation is often the most computationally expensive bottleneck in incompressible flow solvers. To address this, I utilize geometric multigrid methods that accelerate convergence by solving the error equation on a hierarchy of coarser grids. By effectively smoothing out low-frequency error modes that standard iterative solvers (like Gauss-Seidel) struggle with, multigrid algorithms significantly reduce the computational time required for each time step, enabling long-duration simulations of complex flows.
-  </p>
-
-  <h3>Incompressible flow solvers</h3>
-  <div style="width: 70%; margin: 0 auto; text-align: center;">
-    {% include figure.liquid
-       path="assets/img/Parallel_Computing.png"
-       class="img-fluid rounded z-depth-1"
-       title="Parallel Computing"
-       alt="Domain decomposition for parallel computing"
-    %}
-    <div class="caption">
-      Domain decomposition strategy for parallelizing flow solvers on HPC clusters.
-    </div>
-  </div>
-  <p>
-    My work involves the development and application of advanced algorithms for variable-density incompressible flows, such as the projection method used in the SOMAR solver. We employ energy-conserving discretization schemes and efficient time-stepping methods (e.g., Runge-Kutta) to ensure stability and accuracy. Furthermore, ensuring scalability on high-performance computing (HPC) clusters through MPI parallelization is critical, allowing us to perform Direct Numerical Simulations (DNS) and Large Eddy Simulations (LES) with millions of degrees of freedom.
-  </p>
-</div>
