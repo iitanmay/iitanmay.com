@@ -62,7 +62,7 @@ horizontal: false
   </p>
   <div style="width: 70%; margin: 0 auto; text-align: center;">
     {% include video.liquid
-       path="assets/video/gc_schematic.mp4"
+       path="assets/video/Gravity_Current.avi"
        class="img-fluid rounded z-depth-1"
        controls=true 
        autoplay=true 
