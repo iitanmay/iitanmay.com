@@ -11,20 +11,36 @@ horizontal: false
   <h2>1. Turbulent jets and fountains</h2>
   <br>
   
-  {% include figure.liquid 
-     path="assets/img/Buoyant_Jets.png" 
+  {% include video.liquid 
+     path="assets/video/jets_schematic.mp4" 
      class="img-fluid rounded z-depth-1" 
-     title="Turbulent jets and fountains" 
-     alt="Turbulent jets and fountains visualization" 
+     controls=true 
+     autoplay=true 
+     loop=true 
+     muted=true
   %}
-  
   <div class="caption">
-    Visualization of buoyant jets.
+    Schematic representation of a turbulent line fountain in a stratified environment.
   </div>
 
   <p>
-    Research description regarding turbulent jets and fountains goes here. This area explores the dynamics of buoyant jets in various environmental conditions...
+    Turbulent jets and fountains are fundamental shear flows observed widely in nature, from volcanic eruptions to hydrothermal vents, and in industrial applications like HVAC systems and waste disposal. While jets are purely momentum-driven, fountains possess an opposing buoyancy flux that eventually halts their vertical rise, causing them to reverse direction and spread. Understanding their interaction with complex environments is crucial for predicting mass transport and mixing efficiency.
   </p>
+
+  <p>
+    My research investigates the dynamics of turbulent line fountains, particularly when subjected to a lateral density stratification—a configuration directly relevant to engineering applications like air curtains and underwater bubble screens. Using a synergistic approach of <strong>Time-Resolved Particle Image Velocimetry (TR-PIV)</strong> and high-fidelity <strong>Large-Eddy Simulations (LES)</strong>, I explore how lateral buoyancy alters flow structures and statistical behavior. We discovered a novel trajectory scaling law ($x_{cl} \propto z^2$) that is distinct from canonical jets in crossflow, driven by bi-directional baroclinic forcing and adverse pressure gradients. A key focus of my work is characterizing the <strong>entrainment behavior</strong> as a function of the source <strong>Froude number ($Fr_0$)</strong>. Our results reveal that lateral stratification enhances fluid entrainment by up to 20% compared to uniform environments. Furthermore, quantitative analysis of the turbulence statistics demonstrates that lateral stratification actively energizes the flow's natural low-frequency flapping mode, leading to distinct anisotropy in the Reynolds stresses.
+  </p>
+
+{% include figure.liquid
+     path="assets/img/Buoyant_Jets.png"
+     class="img-fluid rounded z-depth-1"
+     title="Research Figure: Buoyant Jets"
+     alt="Research results showing fountain dynamics"
+  %}
+
+  <div class="caption">
+    Visualization of buoyant jets and their interaction with the ambient environment.
+  </div>
 </div>
 
 <hr>
@@ -33,77 +49,35 @@ horizontal: false
   <h2>2. Mixing in gravity currents</h2>
   <br>
 
-{% include figure.liquid
-     path="assets/img/Gravity_Currents.png"
+{% include video.liquid
+     path="assets/video/gc_schematic.mp4"
      class="img-fluid rounded z-depth-1"
-     title="Gravity Currents"
-     alt="Gravity currents visualization"
+     controls=true
+     autoplay=true
+     loop=true
+     muted=true
   %}
 
-  <br>
+  <div class="caption">
+    Schematic of a lock-exchange gravity current propagation.
+  </div>
 
   <p>
-    A gravity current is a flow driven by a density (or buoyancy) difference between two fluids, which causes the denser fluid to spread horizontally along a surface. These flows are ubiquitous in nature and industry, from cold air spreading when you open a refrigerator door to large-scale phenomena like katabatic winds, undersea avalanches (turbidity currents), and volcanic pyroclastic flows.
+    Gravity currents are buoyancy-driven flows where a fluid of one density spreads horizontally into a fluid of a different density. Ubiquitous in nature—manifesting as sea-breeze fronts, turbidity currents, or avalanches—these flows play a vital role in environmental mass transport. The fundamental "lock-exchange" configuration serves as a canonical model to study the propagation dynamics and the complex turbulent mixing that occurs at the interface of the two fluids.
   </p>
 
   <p>
-    The most fundamental setup to study them is the "lock-exchange" flow, where a barrier (or "lock") separating two fluids of different densities is suddenly removed. The denser fluid flows under the lighter one, and the lighter fluid flows over the denser one, creating two propagating "fronts."
+    My work focuses on the turbulent mixing and propagation characteristics of these currents using a dual approach of <strong>Large Eddy Simulations (LES)</strong> and advanced laboratory experiments. We utilized <strong>Molecular Tagging Velocimetry (MTV)</strong> and <strong>Thermometry (MTT)</strong> to obtain simultaneous, high-resolution measurements of velocity and density fields. Analyzing this data through the <strong>background potential energy (BPE) framework</strong> allowed us to quantify mixing efficiency and identify "vortical overturns" as key precursors to irreversible mixing events. Furthermore, I investigated how ambient stratification fundamentally alters flow dynamics. We established that the flow regime—<strong>supercritical</strong> (characterized by solitary wave generation) or <strong>subcritical</strong> (dominated by internal wave radiation)—is governed by the interplay between the current's buoyancy and the ambient stratification strength. These findings, validated against dye visualization experiments, provide robust scaling laws for predicting propagation speeds in complex, stratified environments.
   </p>
 
 {% include figure.liquid
-  path="assets/img/research_gravity_current/gc_sample.png"
-  class="img-fluid rounded z-depth-1"
-  caption="Experimental visualization of a lock-exchange flow (Agrawal et al., 2021). The current is generated by a temperature difference, and the flow is visualized using dye. Green line denotes the location of the nose of the front."
+     path="assets/img/publication_preview/agrawal2022dynamics.png"
+     class="img-fluid rounded z-depth-1"
+     title="Research Figure: Gravity Currents"
+     alt="LES simulation of gravity current"
   %}
 
-  <p>
-    My research focuses on two critical aspects of these flows: their propagation characteristics and the turbulent mixing they induce. I investigate these phenomena using a dual approach of high-fidelity numerical simulations (like LES) and advanced, high-resolution experiments.
-  </p>
-
-  <h3>Probing Turbulent Mixing in Lock-Exchange Flows</h3>
-
-  <p>
-    In a classic lock-exchange flow (uniform ambient), a key question is "how efficient is the mixing?" Understanding this is vital for predicting the dilution of pollutants or the transport of nutrients in an ocean.
-  </p>
-
-  <p>
-    To answer this, we used novel experimental techniques: <strong>Molecular Tagging Velocimetry (MTV)</strong> and <strong>Thermometry (MTT)</strong>. This powerful combination allowed us to simultaneously measure both the velocity and temperature (density) fields at very small scales, capturing the intricate details of the turbulent flow.
-  </p>
-
-  <p>
-    Using this high-resolution data, we analyzed the flow through the <strong>background potential energy (BPE) framework</strong>. This method helps quantify the <em>irreversible</em> mixing—the portion of energy that actually goes into mixing the two fluids, rather than just stirring the fluid or being dissipated as heat. Our work successfully identified specific "vortical overturns," that are precursors to moments of high mixing efficiency.
-  </p>
-
-  <h3>Propagation Dynamics in a Stratified Environment</h3>
-
-  <p>
-    In nature, the ambient fluid is rarely uniform; it's often <em>stratified</em> (e.g., density changes with depth in the ocean or height in the atmosphere). My more recent work explores how this stratification changes the flow.
-  </p>
-
-  <p>
-    Using <strong>Large Eddy Simulations (LES)</strong>, we studied buoyant currents propagating at the top surface of a linearly stratified medium. We found that the ambient stratification dramatically alters the flow dynamics.
-  </p>
-
-{% include figure.liquid
-  path="assets/img/publication_preview/agrawal2022dynamics.png"
-  class="img-fluid rounded z-depth-1"
-  caption="Large Eddy Simulation (LES) of a buoyant gravity current in a stratified medium, showing density contours and the generation of internal waves (Agrawal et al., 2022)."
-  %}
-
-  <p>
-    The flow's behavior is controlled by the relative strength of the current's buoyancy and the ambient stratification.
-  </p>
-
-  <ul>
-    <li><strong>Supercritical Flow:</strong> When stratification is weak, the current moves faster than the internal wave speed, generating a prominent solitary wave at its front.</li>
-    <li><strong>Subcritical Flow:</strong> When stratification is strong, the current is slower and generates a field of vertically propagating internal waves, which "drain" energy from the flow.</li>
-  </ul>
-
-  <p>
-    This computational work was complemented by laboratory experiments using <strong>dye visualization</strong> to track the current's front, allowing us to validate the propagation speed scaling laws we developed from the simulations.
-  </p>
-
-  <p>
-    By combining these experimental and computational approaches, my research aims to build a more complete physical model of how gravity currents propagate, mix, and transport mass in both simple and complex environmental settings.
-  </p>
+  <div class="caption">
+    Large Eddy Simulation (LES) of a buoyant gravity current in a stratified medium, showing density contours and the generation of internal waves (Agrawal et al., 2022).
+  </div>
 </div>
