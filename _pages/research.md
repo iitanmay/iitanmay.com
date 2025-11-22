@@ -54,7 +54,7 @@ horizontal: false
 <hr>
 
 <div class="research-section">
-  <h2>2. Stratified flows (gravity currents) </h2>
+  <h2>2. Stratified turbulent flows (gravity currents) </h2>
   <br>
 
   <p>
@@ -62,7 +62,7 @@ horizontal: false
   </p>
   <div style="width: 70%; margin: 0 auto; text-align: center;">
     {% include video.liquid
-       path="assets/video/Gravity_Current.avi"
+       path="assets/video/Gravity_Current.mp4"
        class="img-fluid rounded z-depth-1"
        controls=true 
        autoplay=false 
