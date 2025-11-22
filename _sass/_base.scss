@@ -19,6 +19,12 @@ strong {
   color: var(--global-text-color);
 }
 
+p {
+  text-align: justify;
+  // Optional: Adds hyphenation to prevent large gaps between words
+  hyphens: auto;
+}
+
 hr {
   border-top: 1px solid var(--global-divider-color);
 }
