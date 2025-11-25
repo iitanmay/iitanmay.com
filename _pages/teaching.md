@@ -9,7 +9,7 @@ nav_order: 4
 
 ## YouTube Courses
 
-I create educational content on fluid dynamics and computational methods. You can find my full catalog on my [YouTube Channel](https://www.youtube.com/@TanmayAgrawal7/playlists).
+I create educational content covering the domains of fluid dynamics and computational methods. You can find the full range of videos on my [YouTube Channel](https://www.youtube.com/@TanmayAgrawal7/).
 
 <div class="container">
   <div class="row">
@@ -22,7 +22,7 @@ I create educational content on fluid dynamics and computational methods. You ca
         <div class="card-body p-2 text-center">
           <h5 class="card-title mb-0">
             <a href="https://www.youtube.com/watch?v=VwGFw_TWZQA&list=PLieOygzXkXb7XQO9574i5b9TqG5V7tCg_" target="_blank" class="text-decoration-none">
-              MATLAB Oriented CFD Course
+              Using MATLAB for fluid dynamics
             </a>
           </h5>
         </div>
@@ -37,7 +37,7 @@ I create educational content on fluid dynamics and computational methods. You ca
         <div class="card-body p-2 text-center">
           <h5 class="card-title mb-0">
             <a href="https://www.youtube.com/watch?v=omI4e2LA18k&list=PLieOygzXkXb5CA659aEu9IXYu_kyjk22n" target="_blank" class="text-decoration-none">
-              Simulating Flows Using Python
+              Simulating fluid flows using python
             </a>
           </h5>
         </div>
@@ -47,7 +47,7 @@ I create educational content on fluid dynamics and computational methods. You ca
     <div class="col-sm-12 col-md-4 mb-4">
       <div class="card h-100 border-0 bg-transparent">
         <a href="https://www.youtube.com/watch?v=2u1j0b5nKwA&list=PLieOygzXkXb593Jz6qj_7C3A9S7Q5q5_" target="_blank">
-          <img src="https://img.youtube.com/vi/2u1j0b5nKwA/hqdefault.jpg" class="card-img-top rounded z-depth-1" alt="ANSYS Fluent Tutorials">
+          <img src="https://img.youtube.com/vi/2u1j0b5nKwA/hqdefault.jpg" class="card-img-top rounded z-depth-1" alt="Tutorials on ANSYS Fluent">
         </a>
         <div class="card-body p-2 text-center">
           <h5 class="card-title mb-0">
@@ -66,13 +66,14 @@ I create educational content on fluid dynamics and computational methods. You ca
 
 ## Teaching Assistant Experience
 
-### Indian Institute of Technology Delhi
+**Indian Institute of Technology Delhi**
 
-- **2023**: Applied Fluid Mechanics (AML 713)
-- **2022**: Computational Fluid Dynamics (APL 720)
-- **2021**: Fluid Mechanics (APL 107)
+- **2024**: Experimental Fluid Mechanics (APL390)
+- **2023**: Applied Fluid Mechanics (AML713)
+- **2022**: Computational Fluid Dynamics (APL720)
+- **2021**: Fluid Mechanics (APL107)
 
-### The University of Melbourne
+**The University of Melbourne**
 
-- **2018 – 2020**: Civil Hydraulics (CVEN 90051)
-- **2018 – 2019**: Fluid Mechanics (ENGR 30002)
+- **2018 – 2020**: Civil Hydraulics (CVEN90051)
+- **2018 – 2019**: Fluid Mechanics (ENGR30002)
