@@ -12,7 +12,7 @@ horizontal: false
   <div class="card">
     <div class="card-header" id="headingOne">
       <h2 class="mb-0">
-        <button class="btn btn-link btn-block text-left text-decoration-none" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+        <button class="btn btn-link btn-block text-left collapsed text-decoration-none" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
           <span style="font-size: 1.5rem; color: var(--global-theme-color); font-weight: bold;">
             &bull; &nbsp; Free shear flows (jets, fountains)
           </span>
@@ -20,7 +20,7 @@ horizontal: false
       </h2>
     </div>
 
-    <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#researchAccordion">
+    <div id="collapseOne" class="collapse" aria-labelledby="headingOne">
       <div class="card-body">
 
         <p>
@@ -78,7 +78,8 @@ horizontal: false
         </button>
       </h2>
     </div>
-    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#researchAccordion">
+    
+    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo">
       <div class="card-body">
 
         <p>
