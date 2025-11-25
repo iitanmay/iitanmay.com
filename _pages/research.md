@@ -2,10 +2,13 @@
 layout: page
 title: research
 permalink: /research/
+description: Broad areas in which I have devoted some time
 nav: true
 nav_order: 1
 horizontal: false
 ---
+
+<hr>
 
 <div class="accordion">
 
