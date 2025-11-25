@@ -73,7 +73,7 @@ horizontal: false
       <h2 class="mb-0">
         <button class="btn btn-link btn-block text-left collapsed text-decoration-none" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
           <span style="font-size: 1.5rem; color: var(--global-theme-color); font-weight: bold; text-transform: none;">
-            &bull; &nbsp; Stratified turbulent flows (gravity currents)
+            &bull; &nbsp; Stratified turbulence (gravity currents, mixing)
           </span>
         </button>
       </h2>
@@ -96,7 +96,7 @@ horizontal: false
              muted=true
           %}
           <div class="caption">
-            Schematic of a lock-exchange gravity current propagation.
+            Evolution of a typical gravity current in a finite-sized domain.
           </div>
         </div>
 
