@@ -22,18 +22,18 @@ horizontal: false
 
     <div id="collapseOne" class="collapse" aria-labelledby="headingOne">
       <div class="card-body">
-        
+
         <p>
           Turbulent jets and fountains are free shear flows observed widely in nature, from volcanic eruptions to hydrothermal vents, and in industrial applications like HVAC systems. While jets are purely momentum-driven, fountains possess an opposing buoyancy flux that eventually halts their vertical motion, causing them to reverse direction and spread laterally. Understanding their interaction with complex environments is crucial for predicting mass transport and mixing characteristics.
         </p>
 
         <div style="width: 70%; margin: 0 auto; text-align: center;">
-          {% include video.liquid 
-             path="assets/video/Turbulent_Fountain_Schematic.mp4" 
-             class="img-fluid rounded z-depth-1" 
-             controls=true 
-             autoplay=false 
-             loop=true 
+          {% include video.liquid
+             path="assets/video/Turbulent_Fountain_Schematic.mp4"
+             class="img-fluid rounded z-depth-1"
+             controls=true
+             autoplay=false
+             loop=true
              muted=true
           %}
           <div class="caption">
@@ -45,7 +45,7 @@ horizontal: false
         <p>
           My research investigates the dynamics of turbulent fountains, particularly when subjected to a lateral density stratification. This configuration is directly relevant to engineering applications like air curtains and underwater bubble screens. Using a synergistic approach of experiments and high-fidelity numerical simulations, I explore how lateral buoyancy alters flow structures and the associated fluid transport. We have observed that the interaction between the fountain and the stratified ambient creates unique structural asymmetries that significantly impact the spreading behavior. I am also interested to look at the transport characteristics from a Lagrangian perspective where the motion of individual fluid particle is tracked, giving insights into the mechanism of fluid motion.
         </p>
-        
+
         <div style="width: 70%; margin: 0 auto; text-align: center;">
           {% include figure.liquid
              path="assets/img/Research_Fountain_1.png"
@@ -65,6 +65,7 @@ horizontal: false
 
       </div>
     </div>
+
   </div>
 
   <div class="card">
@@ -89,9 +90,9 @@ horizontal: false
           {% include video.liquid
              path="assets/video/Gravity_Current.mp4"
              class="img-fluid rounded z-depth-1"
-             controls=true 
-             autoplay=false 
-             loop=true 
+             controls=true
+             autoplay=false
+             loop=true
              muted=true
           %}
           <div class="caption">
@@ -123,6 +124,7 @@ horizontal: false
 
       </div>
     </div>
+
   </div>
 
 </div>
