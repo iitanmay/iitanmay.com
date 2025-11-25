@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-# description: Materials for courses you taught. Replace this text with your description.
+description: My efforts towards dissemination of the accumulated knowledge
 nav: true
 nav_order: 4
 ---
@@ -22,7 +22,7 @@ I create educational content covering the domains of fluid dynamics and computat
         <div class="card-body p-2 text-center">
           <h5 class="card-title mb-0">
             <a href="https://www.youtube.com/watch?v=VwGFw_TWZQA&list=PLieOygzXkXb7XQO9574i5b9TqG5V7tCg_" target="_blank" class="text-decoration-none">
-              Using MATLAB for fluid dynamics
+              Using MATLAB for Fluid Dynamics
             </a>
           </h5>
         </div>
@@ -37,7 +37,7 @@ I create educational content covering the domains of fluid dynamics and computat
         <div class="card-body p-2 text-center">
           <h5 class="card-title mb-0">
             <a href="https://www.youtube.com/watch?v=omI4e2LA18k&list=PLieOygzXkXb5CA659aEu9IXYu_kyjk22n" target="_blank" class="text-decoration-none">
-              Simulating fluid flows using python
+              Simulating Fluid Flows Using Python
             </a>
           </h5>
         </div>
@@ -52,7 +52,7 @@ I create educational content covering the domains of fluid dynamics and computat
         <div class="card-body p-2 text-center">
           <h5 class="card-title mb-0">
             <a href="https://www.youtube.com/watch?v=2u1j0b5nKwA&list=PLieOygzXkXb593Jz6qj_7C3A9S7Q5q5_" target="_blank" class="text-decoration-none">
-              ANSYS Fluent Tutorials
+              Tutorials on ANSYS Fluent
             </a>
           </h5>
         </div>
