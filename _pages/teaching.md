@@ -7,6 +7,8 @@ nav: true
 nav_order: 4
 ---
 
+<hr>
+
 ## YouTube Courses
 
 I create educational content covering the domains of fluid dynamics and computational methods. You can find the full range of videos on my [YouTube Channel](https://www.youtube.com/@TanmayAgrawal7/).
