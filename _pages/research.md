@@ -16,7 +16,7 @@ horizontal: false
     <div class="card-header" id="headingOne">
       <h2 class="mb-0">
         <button class="btn btn-link btn-block text-left collapsed text-decoration-none" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-          <span style="font-size: 1.5rem; color: var(--global-theme-color); font-weight: bold; text-transform: none;">
+          <span style="font-size: 1.5rem; color: var(--global-theme-color); text-transform: none;">
             &bull; &nbsp; Free shear flows (jets, fountains)
           </span>
         </button>
@@ -75,7 +75,7 @@ horizontal: false
     <div class="card-header" id="headingTwo">
       <h2 class="mb-0">
         <button class="btn btn-link btn-block text-left collapsed text-decoration-none" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-          <span style="font-size: 1.5rem; color: var(--global-theme-color); font-weight: bold; text-transform: none;">
+          <span style="font-size: 1.5rem; color: var(--global-theme-color); text-transform: none;">
             &bull; &nbsp; Stratified turbulence (gravity currents, mixing)
           </span>
         </button>
@@ -134,7 +134,7 @@ horizontal: false
     <div class="card-header" id="headingThree">
       <h2 class="mb-0">
         <button class="btn btn-link btn-block text-left collapsed text-decoration-none" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-          <span style="font-size: 1.5rem; color: var(--global-theme-color); font-weight: bold; text-transform: none;">
+          <span style="font-size: 1.5rem; color: var(--global-theme-color); text-transform: none;">
             &bull; &nbsp; Wall-bounded flows (channel flow, impinging jets)
           </span>
         </button>
