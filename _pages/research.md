@@ -27,7 +27,7 @@ horizontal: false
       <div class="card-body">
 
         <p>
-          During my PhD, I conducted laboratory experiments and numerical simulations to study the dynamics of turbulent jets and fountains. These free shear flows are widely observed in nature, from volcanic eruptions (forced plume) to hydrothermal vents, and in industrial applications like HVAC systems. Jets are purely momentum-driven, whereas fountains are opposed by buoyancy forces that eventually halt their vertical motion, causing them to reverse direction and spread laterally. Figure 1 shows the different classes of turbulent fountains which is determined by the comparative magnitude of buoyancy and momentum fluxes at the fountain souce. Understanding their interaction in complex environments is crucial for predicting transport phenomena (mass, momentum, heat, etc.) and mixing characteristics (dilution, entrainment, etc.).
+          During my PhD, I conducted laboratory experiments and numerical simulations to study the dynamics of turbulent jets and fountains. These free shear flows are widely observed in nature, from volcanic eruptions (forced plume) to hydrothermal vents, and in industrial applications like HVAC systems. Jets are purely momentum-driven, whereas fountains are opposed by buoyancy forces that eventually halt their vertical motion, causing them to reverse direction and spread laterally. Figure 1 shows the different classes of turbulent fountains which is determined by the comparative magnitude of buoyancy and momentum fluxes at the fountain source, governed through Froude number. Understanding their interaction in complex environments is crucial for predicting transport phenomena (mass, momentum, heat, etc.) and mixing characteristics (dilution, entrainment, etc.).
         </p>
 
         <div style="width: 70%; margin: 0 auto; text-align: center;">
@@ -43,7 +43,7 @@ horizontal: false
         </div>
 
         <p>
-          In particular, I was working on impinging line fountains where the confinement (distance between the fountain source and the impingement surface) adds further complexity to the flow physics. Under such circumstances, the fountain structure is affected not only by the competition between momentum and buoyancy, but also through quantifying how the domain height (see video 1 below) compares against a <a href="https://pubs.aip.org/aip/pof/article-abstract/19/11/117101/932437/Impinging-axisymmetric-turbulent-fountains?redirectedFrom=fulltext">momentum length scale</a>.
+          In particular, I was working on impinging line fountains where the confinement (distance between the fountain source and the impingement surface) adds further complexity to the flow physics. Under such circumstances, the fountain structure is affected not only by the competition between momentum and buoyancy, but also through quantifying how the domain height (see video 1 below) compares against a <a href="https://pubs.aip.org/aip/pof/article-abstract/19/11/117101/932437/Impinging-axisymmetric-turbulent-fountains?redirectedFrom=fulltext">momentum length scale</a>. The video shows the spatiotemporal evolution of the scalar field which is supplied at the fountain source.The formation of shear-layer vortices is clearly evident, and the fountain fluid after impingement is significantly affected by buoyancy as it falls back towards the source.
         </p>
 
         <div style="width: 70%; margin: 0 auto; text-align: center;">
@@ -60,9 +60,9 @@ horizontal: false
           </div>
         </div>
 
-        <h3>Flow structures and fluid transport</h3>
+        <h3>Air curtains</h3>
         <p>
-          My research investigates the dynamics of turbulent fountains, particularly when subjected to a lateral density stratification. This configuration is directly relevant to engineering applications like air curtains and underwater bubble screens. Using a synergistic approach of experiments and high-fidelity numerical simulations, I explore how lateral buoyancy alters flow structures and the associated fluid transport. We have observed that the interaction between the fountain and the stratified ambient creates unique structural asymmetries that significantly impact the spreading behavior. I am also interested to look at the transport characteristics from a Lagrangian perspective where the motion of individual fluid particle is tracked, giving insights into the mechanism of fluid motion.
+          Turbulent fountains when subjected to a lateral density stratification, are directly relevant to specific engineering applications such as air curtains and underwater bubble screens. I explored how the lateral buoyancy difference alters the flow structures and the associated fluid transport. We observed that the interaction between the fountain and the stratified ambient creates unique structural asymmetries that significantly impact the spreading behavior. I have also been exploring these transport characteristics from a Lagrangian perspective where the motion of individual fluid particle is tracked, giving insights into the mechanism of fluid motion. This approach provides useful insights into the maximum sealing effectiveness of air curtains.
         </p>
 
         <div style="width: 70%; margin: 0 auto; text-align: center;">
