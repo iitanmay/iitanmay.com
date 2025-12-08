@@ -17,7 +17,7 @@ horizontal: false
       <h2 class="mb-0">
         <button class="btn btn-link btn-block text-left collapsed text-decoration-none" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
           <span style="font-size: 1.5rem; color: var(--global-theme-color); text-transform: none;">
-            &bull; &nbsp; Free shear flows (jets, fountains)
+            &bull; &nbsp; Free shear flows
           </span>
         </button>
       </h2>
@@ -27,8 +27,20 @@ horizontal: false
       <div class="card-body">
 
         <p>
-          Turbulent jets and fountains are free shear flows observed widely in nature, from volcanic eruptions to hydrothermal vents, and in industrial applications like HVAC systems. While jets are purely momentum-driven, fountains possess an opposing buoyancy flux that eventually halts their vertical motion, causing them to reverse direction and spread laterally. Understanding their interaction with complex environments is crucial for predicting mass transport and mixing characteristics.
+          During my PhD, I conducted laboratory experiments and numerical simulations to study the dynamics of turbulent jets and fountains. These free shear flows are widely observed in nature, from volcanic eruptions (forced plume) to hydrothermal vents, and in industrial applications like HVAC systems. Jets are purely momentum-driven, whereas fountains are opposed by buoyancy forces that eventually halt their vertical motion, causing them to reverse direction and spread laterally. Figure 1 shows the different classes of fountains which is determined by the comparative magnitude of buoyancy and momentum fluxes at the fountain souce. Understanding their interaction in complex environments is crucial for predicting transport phenomena (mass, momentum, heat, etc.) and mixing characteristics (dilution, entrainment, etc.).
         </p>
+
+        <div style="width: 70%; margin: 0 auto; text-align: center;">
+          {% include figure.liquid
+             path="assets/img/Fountains_Classification.png"
+             class="img-fluid rounded z-depth-1"
+             title="Different types of turbulent fountains"
+             alt="Images showing fountain dynamics"
+          %}
+          <div class="caption">
+            Images of five aqueous-saline fountains at their initial rise heights. The forcing at the source is successively increased from panel a to panel e. The shape of the fountains shown is typical of their respective class: (a) very weak, (b) weak, (c) intermediate, (d ) forced, and (e) highly forced. Figure adapted from [Burridge & Hunt (2012)](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/abs/rise-heights-of-low-and-highfroudenumber-turbulent-axisymmetric-fountains/ED467BA194491296A527D385D793CD8B).
+          </div>
+        </div>
 
         <div style="width: 70%; margin: 0 auto; text-align: center;">
           {% include video.liquid
