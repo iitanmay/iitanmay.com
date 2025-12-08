@@ -73,13 +73,12 @@ horizontal: false
              alt="Research results showing fountain dynamics"
           %}
           <div class="caption">
-            FIg. 2: Influence of a lateral density stratification on the fountain trajectory. Subscripts $d$ and $l$ represent dense and light fluids.
+            Fig. 2: Influence of a lateral density stratification on the fountain trajectory. Subscripts $d$ and $l$ represent dense and light fluids.
           </div>
         </div>
 
-        <h3>Statistics and entrainment dynamics</h3>
         <p>
-          A key focus of my work is characterizing the statistical behavior and entrainment dynamics of these flows. We specifically look at the entrainment behavior of turbulent fountains as a function of the source Froude number ($Fr_0$). Our results reveal that when a lateral stratification is imposed, it enhances the fluid entrainment by up to 20% compared to uniform environments. This increase is driven by the the lateral forcing which modifies the volume flux along the trajectory of the fountain.
+          A key focus of my work was to characterize the statistical behavior and entrainment dynamics of air curtain flows. I conducted time-resolved particle image velocimetry (PIV) measurements and supported them with high-fidelity LES data to obtain an ensemble of flow dynamics at various operating conditions. Our results revealed that when a lateral density stratification is imposed on an impinging line fountains, it enhances the fluid entrainment by up to 20% as compared to uniform environments. This increase is driven by the the lateral forcing which modifies the volume flux along the trajectory of the fountain.
         </p>
 
       </div>
