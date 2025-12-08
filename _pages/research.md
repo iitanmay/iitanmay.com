@@ -62,7 +62,8 @@ horizontal: false
 
         <h3>Air curtains</h3>
         <p>
-          Turbulent fountains subjected to a lateral density stratification are directly relevant to engineering applications such as air curtains and underwater bubble screens. My PhD thesis explored how the lateral buoyancy difference alters the flow structures and the associated fluid transport. We observed that the interaction between the fountain and the stratified ambient creates unique structural asymmetries that significantly impact the spreading behavior. This is shown below in figure 2, where the fountain (green) is deflected sideways due to the horizontal static pressure gradient induced by the density difference between the light and dense fluid. I have also been exploring these transport characteristics from a Lagrangian perspective, where the motion of individual fluid particles is tracked, giving insights into the mechanism of fluid motion. This approach provides useful insights into the maximum sealing effectiveness of air curtains.
+          Turbulent fountains subjected to a lateral density stratification are directly relevant to engineering applications such as air curtains and underwater bubble screens. My PhD thesis explored how the lateral buoyancy difference alters the flow structures and the
+          <a href="https://link.springer.com/article/10.1007/s10652-023-09948-8">associated fluid transport</a>. We observed that the interaction between the fountain and the stratified ambient creates unique structural asymmetries that significantly impact the spreading behavior. This is shown below in figure 2, where the fountain (green) is deflected sideways due to the horizontal static pressure gradient induced by the density difference between the light and dense fluid. I have also been exploring these transport characteristics from a Lagrangian perspective, where the motion of individual fluid particles is tracked, giving insights into the mechanism of fluid motion. This approach provides useful insights into the maximum sealing effectiveness of air curtains.
         </p>
 
         <div style="width: 70%; margin: 0 auto; text-align: center;">
@@ -101,7 +102,7 @@ horizontal: false
       <div class="card-body">
 
         <p>
-          Gravity currents are buoyancy-driven flows where a fluid of one density spreads horizontally into a fluid of a different density. Ubiquitous in nature, manifesting as sea-breeze fronts, turbidity currents, or avalanches, these flows play a vital role in environmental mass transport. The fundamental "lock-exchange" configuration serves as a canonical model to study the propagation dynamics and the complex turbulent mixing that occurs at the interface of the two fluids.
+          Stratified turbulence is a ubiquitous phenomenon in geophysical fluid dynamics, occurring when turbulent fluid motion interacts with a stable background density stratification. This vertical density gradient introduces a powerful buoyancy force that continually resists vertical movements and mixing. The competition between inertial forces (driving turbulence) and buoyancy forces (suppressing vertical motion) fundamentally changes the flow dynamics, causing the flow to become highly anisotropic and dominated by horizontal structures and internal waves. Understanding the mechanisms of turbulent dissipation and mixing in such flows is essential for accurate modeling of large-scale natural systems, particularly those featuring buoyancy-driven motions like gravity currents, which are the focus of my research. These currents are found in environments ranging from atmospheric sea-breeze fronts to deep-ocean turbidity flows and are commonly studied using the lock-exchange configuration, which serves as a canonical model for investigating propagation dynamics and the complex turbulent mixing that occurs at the fluid interface. Video 2 (a simulation conducted using SOMAR) clearly illustrates the development of the Kelvin-Helmholtz (KH) instability at this interface, a crucial mechanism whose roll-up and subsequent collapse drive the majority of mass and momentum exchange within the mixing layer.
         </p>
 
         <div style="width: 70%; margin: 0 auto; text-align: center;">
@@ -114,7 +115,7 @@ horizontal: false
              muted=true
           %}
           <div class="caption">
-            Evolution of a typical gravity current in a finite-sized domain.
+            Video 2: Evolution of a gravity current in a finite-sized domain. Colored fluid is dense.
           </div>
         </div>
 
