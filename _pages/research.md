@@ -17,7 +17,7 @@ horizontal: false
       <h2 class="mb-0">
         <button class="btn btn-link btn-block text-left collapsed text-decoration-none" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
           <span style="font-size: 1.5rem; color: var(--global-theme-color); text-transform: none;">
-            &bull; &nbsp; Free shear flows
+            &bull; &nbsp; free shear flows
           </span>
         </button>
       </h2>
@@ -43,7 +43,7 @@ horizontal: false
         </div>
 
         <p>
-          In particular, I was working on impinging line fountains where the confinement (distance between the fountain source and the impingement surface) adds further complexity to the flow physics. Under such circumstances, the fountain structure is affected not only by the competition between momentum and buoyancy, but also through quantifying how the domain height (see video 1 below) compares against a <a href="https://pubs.aip.org/aip/pof/article-abstract/19/11/117101/932437/Impinging-axisymmetric-turbulent-fountains?redirectedFrom=fulltext">momentum length scale</a>. The video shows the spatiotemporal evolution of the scalar field which is supplied at the fountain source.The formation of shear-layer vortices is clearly evident, and the fountain fluid after impingement is significantly affected by buoyancy as it falls back towards the source.
+          In particular, I focused on impinging line fountains, where the confinement (distance between the fountain source and the impingement surface) adds further complexity to the flow physics. Under such circumstances, the fountain structure is affected not only by the competition between momentum and buoyancy, but also through quantifying how the domain height (see video 1 below) compares against a <a href="https://pubs.aip.org/aip/pof/article-abstract/19/11/117101/932437/Impinging-axisymmetric-turbulent-fountains?redirectedFrom=fulltext">momentum length scale</a>. The video shows the spatiotemporal evolution of the scalar field supplied at the fountain source. The formation of shear-layer vortices is clearly evident, and the fountain fluid after impingement is significantly affected by buoyancy as it falls back toward the source.
         </p>
 
         <div style="width: 70%; margin: 0 auto; text-align: center;">
@@ -62,7 +62,7 @@ horizontal: false
 
         <h3>Air curtains</h3>
         <p>
-          Turbulent fountains when subjected to a lateral density stratification, are directly relevant to specific engineering applications such as air curtains and underwater bubble screens. My PhD thesis explored how the lateral buoyancy difference alters the flow structures and the associated fluid transport. We observed that the interaction between the fountain and the stratified ambient creates unique structural asymmetries that significantly impact the spreading behavior. This is shown below in figure 2 where the fountain (shown as green) is deflected sideways due to the horizontal static pressure gradient which is induced due to the density difference between the light and dense fluid. I have also been exploring these transport characteristics from a Lagrangian perspective where the motion of individual fluid particle is tracked, giving insights into the mechanism of fluid motion. This approach provides useful insights into the maximum sealing effectiveness of air curtains.
+          Turbulent fountains subjected to a lateral density stratification are directly relevant to engineering applications such as air curtains and underwater bubble screens. My PhD thesis explored how the lateral buoyancy difference alters the flow structures and the associated fluid transport. We observed that the interaction between the fountain and the stratified ambient creates unique structural asymmetries that significantly impact the spreading behavior. This is shown below in figure 2, where the fountain (green) is deflected sideways due to the horizontal static pressure gradient induced by the density difference between the light and dense fluid. I have also been exploring these transport characteristics from a Lagrangian perspective, where the motion of individual fluid particles is tracked, giving insights into the mechanism of fluid motion. This approach provides useful insights into the maximum sealing effectiveness of air curtains.
         </p>
 
         <div style="width: 70%; margin: 0 auto; text-align: center;">
@@ -78,7 +78,7 @@ horizontal: false
         </div>
 
         <p>
-          A key focus of my work was to characterize the statistical behavior and entrainment dynamics of air curtain flows. I conducted time-resolved particle image velocimetry (PIV) measurements and supported them with high-fidelity LES data to obtain an ensemble of flow dynamics at various operating conditions. Our results revealed that when a lateral density stratification is imposed on an impinging line fountains, it enhances the fluid entrainment by up to 20% as compared to uniform environments. This increase is driven by the the lateral forcing which modifies the volume flux along the trajectory of the fountain.
+          A key focus of my work was to characterize the statistical behavior and entrainment dynamics of air curtain flows. I conducted time-resolved Particle Image Velocimetry (PIV) measurements and supported them with high-fidelity Large Eddy Simulation (LES) data to obtain an ensemble of flow dynamics at various operating conditions. Our results revealed that when a lateral density stratification is imposed on an impinging line fountain, it enhances the fluid entrainment by up to 20% compared to uniform environments. This increase is driven by the lateral forcing, which modifies the volume flux along the trajectory of the fountain.
         </p>
 
       </div>
@@ -91,7 +91,7 @@ horizontal: false
       <h2 class="mb-0">
         <button class="btn btn-link btn-block text-left collapsed text-decoration-none" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
           <span style="font-size: 1.5rem; color: var(--global-theme-color); text-transform: none;">
-            &bull; &nbsp; Stratified turbulence (gravity currents, mixing)
+            &bull; &nbsp; stratified turbulence
           </span>
         </button>
       </h2>
@@ -150,7 +150,7 @@ horizontal: false
       <h2 class="mb-0">
         <button class="btn btn-link btn-block text-left collapsed text-decoration-none" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
           <span style="font-size: 1.5rem; color: var(--global-theme-color); text-transform: none;">
-            &bull; &nbsp; Wall-bounded flows (channel flow, impinging jets)
+            &bull; &nbsp; wall-bounded flows
           </span>
         </button>
       </h2>
