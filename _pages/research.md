@@ -34,7 +34,7 @@ horizontal: false
           {% include figure.liquid
              path="assets/img/Fountains_Classification.png"
              class="img-fluid rounded z-depth-1"
-             title="Different types of turbulent fountains"
+             title="Effect of Froude number on turbulent fountains"
              alt="Images showing fountain dynamics"
           %}
           <div class="caption">
@@ -62,18 +62,18 @@ horizontal: false
 
         <h3>Air curtains</h3>
         <p>
-          Turbulent fountains when subjected to a lateral density stratification, are directly relevant to specific engineering applications such as air curtains and underwater bubble screens. I explored how the lateral buoyancy difference alters the flow structures and the associated fluid transport. We observed that the interaction between the fountain and the stratified ambient creates unique structural asymmetries that significantly impact the spreading behavior. I have also been exploring these transport characteristics from a Lagrangian perspective where the motion of individual fluid particle is tracked, giving insights into the mechanism of fluid motion. This approach provides useful insights into the maximum sealing effectiveness of air curtains.
+          Turbulent fountains when subjected to a lateral density stratification, are directly relevant to specific engineering applications such as air curtains and underwater bubble screens. My PhD thesis explored how the lateral buoyancy difference alters the flow structures and the associated fluid transport. We observed that the interaction between the fountain and the stratified ambient creates unique structural asymmetries that significantly impact the spreading behavior. This is shown below in figure 2 where the fountain (shown as green) is deflected sideways due to the horizontal static pressure gradient which is induced due to the density difference between the light and dense fluid. I have also been exploring these transport characteristics from a Lagrangian perspective where the motion of individual fluid particle is tracked, giving insights into the mechanism of fluid motion. This approach provides useful insights into the maximum sealing effectiveness of air curtains.
         </p>
 
         <div style="width: 70%; margin: 0 auto; text-align: center;">
           {% include figure.liquid
              path="assets/img/Research_Fountain_1.png"
              class="img-fluid rounded z-depth-1"
-             title="Research Figure: Buoyant Jets"
+             title="Trajectory of an air curtain"
              alt="Research results showing fountain dynamics"
           %}
           <div class="caption">
-            Influence of a lateral density stratification on the fountain trajectory. Subscripts $d$ and $l$ represent dense and light fluids.
+            FIg. 2: Influence of a lateral density stratification on the fountain trajectory. Subscripts $d$ and $l$ represent dense and light fluids.
           </div>
         </div>
 
