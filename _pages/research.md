@@ -102,7 +102,7 @@ horizontal: false
       <div class="card-body">
 
         <p>
-          Stratified turbulence is a ubiquitous phenomenon in geophysical fluid dynamics, occurring when turbulent fluid motion interacts with a stable background density stratification. This vertical density gradient introduces a powerful buoyancy force that continually resists vertical movements and mixing. The competition between inertial forces (driving turbulence) and buoyancy forces (suppressing vertical motion) fundamentally changes the flow dynamics, causing the flow to become highly anisotropic and dominated by horizontal structures and internal waves. Understanding the mechanisms of turbulent dissipation and mixing in such flows is essential for accurate modeling of large-scale natural systems, particularly those featuring buoyancy-driven motions like gravity currents, which are the focus of my research. These currents are found in environments ranging from atmospheric sea-breeze fronts to deep-ocean turbidity flows and are commonly studied using the lock-exchange configuration, which serves as a canonical model for investigating propagation dynamics and the complex turbulent mixing that occurs at the fluid interface. Video 2 (a simulation conducted using SOMAR) clearly illustrates the development of the Kelvin-Helmholtz (KH) instability at this interface, a crucial mechanism whose roll-up and subsequent collapse drive the majority of mass and momentum exchange within the mixing layer.
+          Stratified turbulence is a ubiquitous phenomenon in geophysical fluid dynamics, occurring when a turbulent flow interacts with a background density stratification. The vertical density gradient introduces a buoyancy force that usually resists vertical motion and mixing. The competition between inertial forces (driving turbulence) and buoyancy forces (suppressing vertical motion) fundamentally changes the flow dynamics, causing the flow to become anisotropic and dominated by horizontal structures and internal waves. Understanding the mechanisms of turbulent dissipation and mixing in such flows is essential for accurate modeling of large-scale natural systems, particularly those featuring buoyancy-driven motions like gravity currents, which are the focus of my research. These currents are commonly observed in nature ranging from atmospheric sea-breeze fronts to deep-ocean turbidity flows and are generally studied using the lock-exchange configuration. Video 2 (a large-eddy simulation conducted using SOMAR) clearly illustrates the development of the Kelvin-Helmholtz (KH) instability at the interface of the two fluids, a crucial mechanism whose roll-up and subsequent collapse drive the majority of mass and momentum exchange within the mixing layer. During my MPhil, I utilized Molecular Tagging Velocimetry (MTV) and Thermometry (MTT) to obtain simultaneous, high-resolution measurements of velocity and density fields. Analyzing this data through the background potential energy (BPE) framework allowed us to quantify an irreversible mixing efficiency and postulate that these "vortical overturns" usually act as key precursors to high mixing efficiency events.
         </p>
 
         <div style="width: 70%; margin: 0 auto; text-align: center;">
@@ -135,11 +135,6 @@ horizontal: false
             Large Eddy Simulation (LES) of a buoyant gravity current in a stratified medium, showing density contours and the generation of internal waves (Agrawal et al., 2022).
           </div>
         </div>
-
-        <h3>Small-scale turbulent mixing</h3>
-        <p>
-          My work also focuses on the turbulent mixing within these currents using a dual approach of LES and advanced laboratory experiments. We utilized Molecular Tagging Velocimetry (MTV) and Thermometry (MTT) to obtain simultaneous, high-resolution measurements of velocity and density fields. Analyzing this data through the background potential energy (BPE) framework allowed us to quantify an irreversible mixing efficiency and identify that "vortical overturns" usually act as key precursors to high mixing efficiency events.
-        </p>
 
       </div>
     </div>
