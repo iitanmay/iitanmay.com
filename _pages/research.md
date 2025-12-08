@@ -27,7 +27,7 @@ horizontal: false
       <div class="card-body">
 
         <p>
-          During my PhD, I conducted laboratory experiments and numerical simulations to study the dynamics of turbulent jets and fountains. These free shear flows are widely observed in nature, from volcanic eruptions (forced plume) to hydrothermal vents, and in industrial applications like HVAC systems. Jets are purely momentum-driven, whereas fountains are opposed by buoyancy forces that eventually halt their vertical motion, causing them to reverse direction and spread laterally. Figure 1 shows the different classes of fountains which is determined by the comparative magnitude of buoyancy and momentum fluxes at the fountain souce. Understanding their interaction in complex environments is crucial for predicting transport phenomena (mass, momentum, heat, etc.) and mixing characteristics (dilution, entrainment, etc.).
+          During my PhD, I conducted laboratory experiments and numerical simulations to study the dynamics of turbulent jets and fountains. These free shear flows are widely observed in nature, from volcanic eruptions (forced plume) to hydrothermal vents, and in industrial applications like HVAC systems. Jets are purely momentum-driven, whereas fountains are opposed by buoyancy forces that eventually halt their vertical motion, causing them to reverse direction and spread laterally. Figure 1 shows the different classes of turbulent fountains which is determined by the comparative magnitude of buoyancy and momentum fluxes at the fountain souce. Understanding their interaction in complex environments is crucial for predicting transport phenomena (mass, momentum, heat, etc.) and mixing characteristics (dilution, entrainment, etc.).
         </p>
 
         <div style="width: 70%; margin: 0 auto; text-align: center;">
@@ -38,9 +38,13 @@ horizontal: false
              alt="Images showing fountain dynamics"
           %}
           <div class="caption">
-            Fig. 1: Images of five aqueous-saline fountains: the forcing at the source is successively increased from panel (a) very weak, (b) weak, (c) intermediate, (d ) forced, to (e) highly forced. Figure adapted from <a href="https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/abs/rise-heights-of-low-and-highfroudenumber-turbulent-axisymmetric-fountains/ED467BA194491296A527D385D793CD8B">Burridge & Hunt (2012)</a>.
+            Fig. 1: Images of five aqueous-saline fountains: the forcing at the source is successively increased from panel (a) very weak, (b) weak, (c) intermediate, (d) forced, to (e) highly forced. Figure adapted from <a href="https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/abs/rise-heights-of-low-and-highfroudenumber-turbulent-axisymmetric-fountains/ED467BA194491296A527D385D793CD8B">Burridge & Hunt (2012)</a>.
           </div>
         </div>
+
+        <p>
+          In particular, I was working on impinging line fountains where the confinement (distance between the fountain source and the impingement surface) adds further complexity to the flow physics. Under such circumstances, the fountain structure is affected not only by the competition between momentum and buoyancy, but also through quantifying how the domain height (see video 1 below) compares against a [momentum length scale](https://pubs.aip.org/aip/pof/article-abstract/19/11/117101/932437/Impinging-axisymmetric-turbulent-fountains?redirectedFrom=fulltext).
+        </p>
 
         <div style="width: 70%; margin: 0 auto; text-align: center;">
           {% include video.liquid
@@ -52,7 +56,7 @@ horizontal: false
              muted=true
           %}
           <div class="caption">
-            Evolution of a turbulent fountain (green) in a uniformly dense ambient. The data is from an LES computation conducted using SOMAR.
+            Video 1: Evolution of an impinging turbulent fountain (green) in a uniformly dense ambient. The data is from an LES computation conducted using SOMAR.
           </div>
         </div>
 
