@@ -38,7 +38,7 @@ horizontal: false
              alt="Images showing fountain dynamics"
           %}
           <div class="caption">
-            Images of five aqueous-saline fountains at their initial rise heights. The forcing at the source is successively increased from panel a to panel e. The shape of the fountains shown is typical of their respective class: (a) very weak, (b) weak, (c) intermediate, (d ) forced, and (e) highly forced. Figure adapted from [Burridge & Hunt (2012)](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/abs/rise-heights-of-low-and-highfroudenumber-turbulent-axisymmetric-fountains/ED467BA194491296A527D385D793CD8B).
+            Fig. 1: Images of five aqueous-saline fountains: the forcing at the source is successively increased from panel (a) very weak, (b) weak, (c) intermediate, (d ) forced, to (e) highly forced. Figure adapted from <a href="https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/abs/rise-heights-of-low-and-highfroudenumber-turbulent-axisymmetric-fountains/ED467BA194491296A527D385D793CD8B">Burridge & Hunt (2012)</a>.
           </div>
         </div>
 
