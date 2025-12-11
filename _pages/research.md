@@ -102,12 +102,13 @@ horizontal: false
       <div class="card-body">
 
         <p>
-          Stratified turbulence is a ubiquitous phenomenon in geophysical fluid dynamics, occurring when a turbulent flow interacts with a background density stratification. The vertical density gradient introduces a buoyancy force that usually resists vertical motion and mixing. The competition between inertial forces (driving turbulence) and buoyancy forces (suppressing vertical motion) fundamentally changes the flow dynamics, causing the flow to become anisotropic and dominated by horizontal structures and internal waves. Understanding the mechanisms of turbulent dissipation and mixing in such flows is essential for accurate modeling of large-scale natural systems, particularly those featuring buoyancy-driven motions like gravity currents, which are the focus of my research. These currents are commonly observed in nature ranging from atmospheric sea-breeze fronts to deep-ocean turbidity flows and are generally studied using the lock-exchange configuration. Video 2 (a large-eddy simulation conducted using SOMAR) clearly illustrates the development of the Kelvin-Helmholtz (KH) instability at the interface of the two fluids, a crucial mechanism whose roll-up and subsequent collapse drive the majority of mass and momentum exchange within the mixing layer. During my MPhil, I utilized Molecular Tagging Velocimetry (MTV) and Thermometry (MTT) to obtain simultaneous, high-resolution measurements of velocity and density fields. Analyzing this data through the background potential energy (BPE) framework allowed us to quantify an irreversible mixing efficiency and postulate that these "vortical overturns" usually act as key precursors to high mixing efficiency events.
+          Stratified turbulence is a ubiquitous phenomenon in geophysical fluid dynamics, occurring when a turbulent flow interacts with a background density stratification. The vertical density gradient introduces a buoyancy force that usually resists vertical motion and mixing. The competition between inertial forces (driving turbulence) and buoyancy forces (suppressing vertical motion) fundamentally changes the flow dynamics, causing the flow to become anisotropic and dominated by horizontal structures and internal waves. Understanding the mechanisms of turbulent dissipation and mixing in such flows is essential for accurate modeling of large-scale natural systems, particularly those featuring buoyancy-driven motions like gravity currents, which are the focus of my research. These currents are commonly observed in nature ranging from atmospheric sea-breeze fronts to deep-ocean turbidity flows and are generally studied using the lock-exchange configuration. During my MPhil, I conducted dye-visualization experiments to observe gravity currents in controlled laboratory conditions (see video 2 which illustrates the development of the Kelvin-Helmholtz (KH) instability at the interface of the two fluids, a crucial mechanism whose roll-up and subsequent collapse drive the majority of mass and momentum exchange within the mixing layer). Subsequently, I utilized Molecular Tagging Velocimetry (MTV) and Thermometry (MTT) to obtain simultaneous, high-resolution measurements of velocity and density fields.
+          Analyzing this data through the background potential energy (BPE) framework allowed us to quantify an irreversible mixing efficiency and postulate that these "vortical overturns" usually act as key precursors to high mixing efficiency events.
         </p>
 
         <div style="width: 70%; margin: 0 auto; text-align: center;">
           {% include video.liquid
-             path="assets/video/Gravity_Current.mp4"
+             path="assets/video/GC_Visual.mp4"
              class="img-fluid rounded z-depth-1"
              controls=true
              autoplay=false
@@ -115,7 +116,21 @@ horizontal: false
              muted=true
           %}
           <div class="caption">
-            Video 2: Evolution of a gravity current in a finite-sized domain. Colored fluid is dense.
+            Video 2(a): Evolution of a gravity current in a lock-exchange setup. Heavy fluid is dyed blue. Images from three cameras stitched together to provide half-view of the flow facility.
+          </div>
+        </div>
+
+        <div style="width: 70%; margin: 0 auto; text-align: center; padding-top: 20px;">
+          {% include video.liquid
+             path="assets/video/KH_GC.mp4"
+             class="img-fluid rounded z-depth-1"
+             controls=true
+             autoplay=false
+             loop=true
+             muted=true
+          %}
+          <div class="caption">
+            Video 2(b): Visualization of Kelvin-Helmholtz instabilities at the interface. Fluorescein is mixed with the heavy fluid and the flow is illuminated using a continuous wave laser. 
           </div>
         </div>
 
