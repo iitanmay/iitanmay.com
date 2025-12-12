@@ -102,8 +102,7 @@ horizontal: false
       <div class="card-body">
 
         <p>
-          Stratified turbulence is a ubiquitous phenomenon in geophysical fluid dynamics, occurring when a turbulent flow interacts with a background density stratification. The vertical density gradient introduces a buoyancy force that usually resists vertical motion and mixing. The competition between inertial forces (driving turbulence) and buoyancy forces (suppressing vertical motion) fundamentally changes the flow dynamics, causing the flow to become anisotropic and dominated by horizontal structures and internal waves. Understanding the mechanisms of turbulent dissipation and mixing in such flows is essential for accurate modeling of large-scale natural systems, particularly those featuring buoyancy-driven motions like gravity currents, which are the focus of my research. These currents are commonly observed in nature ranging from atmospheric sea-breeze fronts to deep-ocean turbidity flows and are generally studied using the lock-exchange configuration. During my MPhil, I conducted dye-visualization experiments to observe gravity currents in controlled laboratory conditions (see video 2 which illustrates the development of the Kelvin-Helmholtz (KH) instability at the interface of the two fluids, a crucial mechanism whose roll-up and subsequent collapse drive the majority of mass and momentum exchange within the mixing layer). Subsequently, I utilized Molecular Tagging Velocimetry (MTV) and Thermometry (MTT) to obtain simultaneous, high-resolution measurements of velocity and density fields.
-          Analyzing this data through the background potential energy (BPE) framework allowed us to quantify an irreversible mixing efficiency and postulate that these "vortical overturns" usually act as key precursors to high mixing efficiency events.
+          Stratified turbulence is a ubiquitous phenomenon in geophysical fluid dynamics, occurring when a turbulent flow interacts with a background density stratification. The vertical density gradient introduces a buoyancy force that usually resists vertical motion and mixing. The competition between inertial forces (driving turbulence) and buoyancy forces (suppressing vertical motion) fundamentally changes the flow dynamics, causing the flow to become anisotropic and dominated by horizontal structures and internal waves. Understanding the mechanisms of turbulent dissipation and mixing in such flows is essential for accurate modeling of large-scale natural systems, particularly those featuring buoyancy-driven motions like gravity currents, which are the focus of my research. These currents are commonly observed in nature ranging from atmospheric sea-breeze fronts to deep-ocean turbidity flows and are generally studied using the <a href="https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/abs/gravity-currents-produced-by-lock-exchange/3B431E47B2F0508F7798BE183D3AABD0">lock-exchange configuration</a>. During my MPhil, I conducted dye-visualization experiments to observe gravity currents in controlled laboratory conditions. Video 2(a) shows a typical gravity current produced using the lock-exchange setup. Here, I had heated the fluid on one side of the lock (thereby reducing its density) and mixed a colored dye with the denser fluid. Video 2(b) illustrates the development of Kelvin-Helmholtz (KH) instabilities at the interface of the two fluids, a crucial mechanism whose roll-up and subsequent collapse drive the majority of mass and momentum exchange within the mixing layer.
         </p>
 
         <div style="width: 70%; margin: 0 auto; text-align: center;">
@@ -116,7 +115,7 @@ horizontal: false
              muted=true
           %}
           <div class="caption">
-            Video 2(a): Evolution of a gravity current in a lock-exchange setup. Heavy fluid is dyed blue. Images from three cameras stitched together to provide half-view of the flow facility.
+            Video 2(a): Gravity current formed using a lock-exchange setup. Images from three cameras stitched together to provide half-view of the flow facility. Heavy fluid is dyed blue. Clear fluid is warmer than the blue fluid.
           </div>
         </div>
 
@@ -130,11 +129,15 @@ horizontal: false
              muted=true
           %}
           <div class="caption">
-            Video 2(b): Visualization of Kelvin-Helmholtz instabilities at the interface. Fluorescein is mixed with the heavy fluid and the flow is illuminated using a continuous wave laser. 
+            Video 2(b): Visualization of KH instabilities at the interface. Fluorescein is mixed with the heavy fluid and the flow is illuminated using a continuous wave laser.
           </div>
         </div>
 
-        <h3>Propagation characteristics</h3>
+        <h3> Mixing in gravity currents </h3>
+        <p>
+          Quantifying irreversible turbulent mixing is important for accurate modeling of stratified flows. To estimate this, I employed <a href="https://www.egr.msu.edu/tmual/MTV.html">Molecular Tagging Velocimetry</a> (MTV) and <a href="https://iopscience.iop.org/article/10.1088/0957-0233/17/6/S06/meta">Molecular Tagging Thermometry</a> (MTT) to obtain simultaneous, high-resolution measurements of velocity and temperature (density) fields. Analyzing the experimental data through the <a href="https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/abs/available-potential-energy-and-mixing-in-densitystratified-fluids/A45F1A40521FF0A0DC82BC705AD398DA">background potential energy (BPE) framework</a> allowed us to quantify the mixing efficiency in gravity currents. Based on these measurements, we postulated that the "vortical overturns" usually act as key precursors to high mixing efficiency events.
+        </p>
+
         <p>
           I investigate how ambient stratification alters the flow dynamics and propagation speed of these currents. We established the flow regimes as either supercritical (characterized by solitary wave generation) or subcritical (dominated by internal waves) which is governed by the interplay between the current's buoyancy and the ambient stratification strength. These findings, validated against dye visualization experiments, provide robust scaling laws for predicting propagation speeds in complex, stratified environments.
         </p>
