@@ -135,11 +135,7 @@ horizontal: false
 
         <h3> Mixing in gravity currents </h3>
         <p>
-          Quantifying irreversible turbulent mixing is important for accurate modeling of stratified flows. To estimate this, I employed <a href="https://www.egr.msu.edu/tmual/MTV.html">Molecular Tagging Velocimetry</a> (MTV) and <a href="https://iopscience.iop.org/article/10.1088/0957-0233/17/6/S06/meta">Molecular Tagging Thermometry</a> (MTT) to obtain simultaneous, high-resolution measurements of velocity and temperature (density) fields. Analyzing the experimental data through the <a href="https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/abs/available-potential-energy-and-mixing-in-densitystratified-fluids/A45F1A40521FF0A0DC82BC705AD398DA">background potential energy (BPE) framework</a> allowed us to quantify the mixing efficiency in gravity currents. Based on these measurements, we postulated that the "vortical overturns" usually act as key precursors to high mixing efficiency events.
-        </p>
-
-        <p>
-          I investigate how ambient stratification alters the flow dynamics and propagation speed of these currents. We established the flow regimes as either supercritical (characterized by solitary wave generation) or subcritical (dominated by internal waves) which is governed by the interplay between the current's buoyancy and the ambient stratification strength. These findings, validated against dye visualization experiments, provide robust scaling laws for predicting propagation speeds in complex, stratified environments.
+          Quantifying irreversible turbulent mixing is important for accurate modeling of stratified flows. To estimate this, I employed <a href="https://www.egr.msu.edu/tmual/MTV.html">Molecular Tagging Velocimetry</a> (MTV) and <a href="https://iopscience.iop.org/article/10.1088/0957-0233/17/6/S06/meta">Molecular Tagging Thermometry</a> (MTT) to obtain simultaneous, high-resolution measurements of velocity and temperature (density) fields. Analyzing the experimental data through the <a href="https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/abs/available-potential-energy-and-mixing-in-densitystratified-fluids/A45F1A40521FF0A0DC82BC705AD398DA">background potential energy (BPE) framework</a> allowed us to quantify the mixing efficiency in gravity currents. Based on these measurements, <a href="https://pubs.aip.org/aip/pof/article-abstract/33/1/016605/1061197/Probing-the-high-mixing-efficiency-events-in-a?redirectedFrom=fulltext">we postulated</a> that the "vortical overturns" usually act as key precursors to high mixing efficiency events. More recently, I investigated how ambient stratification alters the flow dynamics and propagation speed of these currents. We established the flow regimes as either supercritical (characterized by solitary wave generation) or subcritical (dominated by internal waves) which is governed by the interplay between the current's buoyancy and the ambient stratification strength. Figure 3 shows the development of internal waves when a buoyant (light) gravity-current propagates in a stratified ambient. <a href="https://pubs.aip.org/aip/pof/article-abstract/34/7/076605/2847554/Dynamics-of-a-buoyant-gravity-current-propagating?redirectedFrom=fulltext">These findings</a>, validated against dye visualization experiments, provide robust scaling laws for predicting propagation speeds in complex, stratified environments.
         </p>
 
         <div style="width: 70%; margin: 0 auto; text-align: center;">
@@ -150,7 +146,7 @@ horizontal: false
              alt="LES simulation of gravity current"
           %}
           <div class="caption">
-            Large Eddy Simulation (LES) of a buoyant gravity current in a stratified medium, showing density contours and the generation of internal waves (Agrawal et al., 2022).
+            Fig. 3: Large Eddy Simulation (LES) of a buoyant gravity current in a stratified medium, showing density contours and the generation of internal waves.
           </div>
         </div>
 
