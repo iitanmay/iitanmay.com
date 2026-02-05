@@ -170,12 +170,12 @@ horizontal: false
       <div class="card-body">
 
         <p>
-          Wall-bounded flows are a class of fluid flows where the presence of a solid boundary significantly influences the flow physics, primarily through the no-slip condition and the formation of boundary layers. My research explores the turbulent statistics and structural characteristics of these flows using high-fidelity experimental techniques.
+          Wall-bounded flows are a particular class of fluid flows where the presence of a solid boundary significantly influences the flow physics, primarily through the imposition of a no-slip condition and thus resulting in the formation of boundary layers. My research explores the turbulent statistics and structural characteristics of these flows using high-fidelity experimental techniques.
         </p>
 
         <h3>Turbulent channel flow</h3>
         <p>
-          I have conducted extensive research on fully developed turbulent channel flows to validate and apply the <strong>Single-component Molecular Tagging Velocimetry (1c-MTV)</strong> technique. Experiments were performed in a large-scale water channel facility (aspect ratio > 12) to ensure two-dimensionality. We measured high-resolution streamwise velocity statistics across a range of friction Reynolds numbers ($Re_\tau \approx 360 - 1680$). The non-intrusive nature and high spatial resolution of MTV allowed us to resolve the viscous sublayer and capture near-wall turbulence statistics with high accuracy. The inner-normalized mean velocity and RMS profiles showed excellent agreement with Direct Numerical Simulation (DNS) data, confirming the efficacy of MTV for probing wall-bounded turbulence.
+          I have studied fully developed turbulent channel flows to validate and apply the <strong>Single-component Molecular Tagging Velocimetry (1c-MTV)</strong> technique. The experiments were performed in a large-scale water channel facility located at The University of Melbourne. The channel had an aspect ratio > 12 which ensured two-dimensionality of the flow at the test section. We measured high-resolution streamwise velocity statistics across a range of friction Reynolds numbers ($Re_\tau \approx 360 - 1680$). The non-intrusive nature and high spatial resolution of MTV allowed us to resolve the viscous sublayer and capture near-wall turbulence statistics with high accuracy. The inner-normalized mean velocity and RMS profiles showed excellent agreement with Direct Numerical Simulation (DNS) data, confirming the efficacy of MTV for probing wall-bounded turbulence.
         </p>
 
         <div style="width: 70%; margin: 0 auto; text-align: center;">
@@ -186,13 +186,13 @@ horizontal: false
              alt="Turbulent channel flow velocity profiles"
           %}
           <div class="caption">
-            Inner-normalized mean velocity profiles measured using 1c-MTV at various Reynolds numbers, compared against DNS data (dashed lines).
+            An example deformed image that is processed to obtain the velocity profile. Solid line indicates the nominal position of the wall and the horizontal velocity component is obtained at every pixel location.
           </div>
         </div>
 
         <h3>Impinging jets</h3>
         <p>
-          Impinging jets represent a complex flow configuration where a free jet strikes a solid surface, creating a stagnation zone followed by the development of a wall jet. These flows are critical in engineering applications requiring high rates of heat and mass transfer, such as the cooling of gas turbine blades and electronic components. My interest lies in understanding the flow structure in the stagnation region and the transition to turbulence in the wall jet, where the interaction between large-scale coherent structures and the solid boundary drives efficient transport.
+          Impinging jets represent a complex flow configuration where a stream of fluid (jet) strikes on to a solid surface, creating a stagnation zone followed by the development of a wall jet in the lateral/radial direction. These flows are critical in engineering applications requiring high rates of heat and mass transfer, such as the cooling of gas turbine blades and electronic components. My interest lies in understanding the flow structure in the stagnation region and the transition to turbulence in the wall jet, where the interaction between large-scale coherent structures and the solid boundary drives efficient transport.
         </p>
 
       </div>
