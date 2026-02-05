@@ -70,6 +70,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/phd_defense/";
+            },},{id: "news-i-joined-the-university-of-oxford-as-a-postdoctoral-research-fellow",
+          title: 'I joined the University of Oxford as a Postdoctoral Research Fellow',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/oxford_joining/";
             },},{
         id: 'social-github',
         title: 'GitHub',
