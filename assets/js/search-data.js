@@ -65,13 +65,13 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/animesh_internship/";
-            },},{id: "news-i-defended-my-phd-thesis-at-iit-delhi",
-          title: 'I defended my PhD thesis at IIT Delhi',
+            },},{id: "news-tanmay-defended-his-phd-thesis-at-iit-delhi",
+          title: 'Tanmay defended his PhD thesis at IIT Delhi',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/phd_defense/";
             },},{id: "news-i-joined-the-university-of-oxford-as-a-postdoctoral-research-fellow",
-          title: 'I joined the University of Oxford as a postdoctoral research fellow',
+          title: 'I joined the University of Oxford as a Postdoctoral Research Fellow',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/oxford_joining/";
