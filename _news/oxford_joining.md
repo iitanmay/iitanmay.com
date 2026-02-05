@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I joined the University of Oxford as a postdoctoral research fellow
+title: Position update: Postdoctoral research fellow at University of Oxford
 date: 2026-01-26
 inline: false
 related_posts: false
