@@ -55,26 +55,31 @@ ninja.data = [{
             window.location.href = "/blog/2015/code/";
           
         },
-      },{id: "news-measurements-conducted-in-vande-bharat-to-assess-thermal-comfort-and-iaq",
-          title: 'Measurements conducted in Vande Bharat to assess thermal comfort and IAQ',
+      },{id: "news-measurements-conducted-in-vande-bharat-train-to-assess-thermal-comfort-and-iaq",
+          title: 'Measurements conducted in Vande Bharat train to assess thermal comfort and IAQ',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/vande_bharat_iaq/";
-            },},{id: "news-animesh-completed-his-internship-in-the-fluid-mechanics-lab",
-          title: 'Animesh completed his internship in the fluid mechanics lab',
+            },},{id: "news-a-preliminary-numerical-study-of-viscosity-stratified-jets",
+          title: 'A preliminary numerical study of viscosity-stratified jets',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/animesh_internship/";
-            },},{id: "news-i-defended-my-phd-thesis-at-iit-delhi",
-          title: 'I defended my PhD thesis at IIT Delhi',
+            },},{id: "news-phd-thesis-defense-at-iit-delhi",
+          title: 'PhD thesis defense at IIT Delhi',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/phd_defense/";
-            },},{id: "news-i-joined-the-university-of-oxford-as-a-postdoctoral-research-fellow",
-          title: 'I joined the University of Oxford as a postdoctoral research fellow',
+            },},{id: "news-joined-university-of-oxford-as-a-postdoctoral-research-fellow",
+          title: 'Joined University of Oxford as a postdoctoral research fellow',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/oxford_joining/";
+            },},{id: "news-new-insights-into-stratified-line-fountains-published-in-jfm",
+          title: 'New insights into stratified line fountains published in JFM',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/jfm_fountains_2026/";
             },},{
         id: 'social-github',
         title: 'GitHub',
