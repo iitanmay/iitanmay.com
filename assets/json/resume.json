@@ -73,6 +73,13 @@
   ],
   "publications": [
     {
+      "name": "Effects of lateral stratification on the dynamics of turbulent impinging line fountains",
+      "publisher": "Journal of Fluid Mechanics",
+      "releaseDate": "2026",
+      "url": "https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/abs/effects-of-lateral-stratification-on-the-dynamics-of-turbulent-impinging-line-fountains/60DFA4E51AE969281F27E811A6263DD4",
+      "summary": "Authors: Tanmay Agrawal, Vamsi K. Chalamalla and Narsing K. Jha"
+    },
+    {
       "name": "On the equivalence of top and bottom gravity currents in a linearly stratified channel",
       "publisher": "AGU Books (Book Chapter)",
       "releaseDate": "2025",
@@ -160,6 +167,13 @@
     }
   ],
   "work": [
+    {
+      "name": "University of Oxford",
+      "position": "Postdoctoral Research Fellow",
+      "startDate": "2026-01",
+      "summary": "Working with Prof. Thomas Aubry on experimental investigation of volcanic plumes under the NERC-funded PHOENIX project.",
+      "location": "Oxford, UK"
+    },
     {
       "name": "Indian Institute of Technology Delhi",
       "position": "Teaching Assistant",
