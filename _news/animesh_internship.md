@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Animesh completed his internship in the fluid mechanics lab
+title: A preliminary numerical study of viscosity-stratified jets
 date: 2025-07-14
 inline: false
 related_posts: false

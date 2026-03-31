@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I defended my PhD thesis at IIT Delhi
+title: PhD thesis defense at IIT Delhi
 date: 2025-09-03
 inline: false
 related_posts: false

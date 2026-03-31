@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Measurements conducted in Vande Bharat to assess thermal comfort and IAQ
+title: Measurements conducted in Vande Bharat train to assess thermal comfort and IAQ
 date: 2025-04-08
 inline: false
 related_posts: false

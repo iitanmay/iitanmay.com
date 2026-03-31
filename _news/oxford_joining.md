@@ -1,12 +1,12 @@
 ---
 layout: post
-title: I joined the University of Oxford as a postdoctoral research fellow
+title: Joined University of Oxford as a postdoctoral research fellow
 date: 2026-01-26
 inline: false
 related_posts: false
 ---
 
-New year, new beginnings! I have joined the University of Oxford to work on the PHOENIX project ("Influence of complex source and wind conditions on Eruptive Plume Height").
+New year, new beginnings! I have joined the University of Oxford to work on the PHOENIX project ("Influence of compleX sOurce and wiNd conditions on Eruptive Plume Height").
 
 The project aims to transform the understanding of how complex source geometry and vertically varying atmospheric winds impact volcanic plume height. This is critical because current models often fail to accurately simulate complex real-world plumes, resulting in a limited understanding of volcanic hazards and climate impacts.
 
