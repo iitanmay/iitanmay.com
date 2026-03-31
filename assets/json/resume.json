@@ -296,6 +296,11 @@
   ],
   "references": [
     {
+      "name": "Prof. Thomas J. Aubry",
+      "icon": "fa-solid fa-envelope",
+      "reference": "University of Oxford: thomas.aubry[at]earth[dot]ox[dot]ac[dot]uk"
+    },
+    {
       "name": "Prof. Narsing K. Jha",
       "icon": "fa-solid fa-envelope",
       "reference": "Indian Institute of Technology Delhi: narsingjha[at]am[dot]iitd[dot]ac[dot]in"
