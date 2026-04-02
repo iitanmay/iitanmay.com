@@ -9,13 +9,7 @@ A part of my PhD research, which focused on turbulent line fountains, has now be
 
 While the dynamics of fountains in uniform environments are well-documented, their interaction with lateral stratification remained an open problem. By combining high-fidelity Large Eddy Simulations (LES) with time-resolved Particle Image Velocimetry (PIV) experiments, we uncovered some surprising behaviors. Most notably, we discovered a new scaling law for the fountain's trajectory that follows a steep power law, driven by a unique bidirectional forcing and adverse pressure gradient at the impingement surface.
 
-<div class="text-center">
-  {% include figure.liquid
-     path="assets/img/jfm2026_fig5.png"
-     width="75%"
-     caption="Spatiotemporal evolution of fountains in uniform (left) vs. laterally stratified (right) ambients. The stratified case shows asymmetric wall jets and lateral deflection."
-  %}
-</div>
+{% include figure.liquid path="assets/img/jfm2026_fig5.png" width="75%" caption="Spatiotemporal evolution of fountains in uniform (left) vs. laterally stratified (right) ambients. The stratified case shows asymmetric wall jets and lateral deflection." class="mx-auto d-block" %}
 
 Perhaps the most exciting finding is that lateral stratification doesn't just alter the flow path; it actively energizes the fountain's natural flapping mode which was more prominent in experiments. This unsteadiness leads to a significant increase in fluid entrainment: up to 20% more than in uniform cases. These insights not only deepen our theoretical grasp of stratified turbulence but also offer practical implications for optimizing the sealing effectiveness of air curtains.
 
