@@ -75,8 +75,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/oxford_joining/";
-            },},{id: "news-new-insights-into-stratified-line-fountains-published-in-jfm",
-          title: 'New insights into stratified line fountains published in JFM',
+            },},{id: "news-new-insights-into-air-curtains-line-fountains-in-stratified-environments-published-in-jfm",
+          title: 'New Insights into Air Curtains: Line Fountains in Stratified Environments Published in JFM...',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/jfm_fountains_2026/";
