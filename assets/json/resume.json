@@ -207,6 +207,49 @@
       ]
     }
   ],
+  "teaching": [
+    {
+      "institution": "Self-developed Online Courses",
+      "location": "Online",
+      "period": "Ongoing",
+      "courses": [
+        "Understanding Turbulent Flows",
+        "Simulating Fluid Flows using Python",
+        "Introduction to Computational Fluid Dynamics using MATLAB",
+        "Basics of ANSYS Fluent"
+      ],
+      "summary": "Develop and deliver complete online courses independently, including curriculum design, recording, editing and ongoing learner support."
+    },
+    {
+      "institution": "Indian Institute of Technology Delhi",
+      "location": "India",
+      "period": "2021 - 2024",
+      "role": "Teaching Assistant",
+      "courses": [
+        "Fluid Mechanics (UG/PG)",
+        "Experimental Fluid Mechanics (UG)",
+        "Computational Fluid Dynamics (PG)",
+        "Environmental Fluid Mechanics (PG)",
+        "Engineering Mechanics (UG)"
+      ]
+    },
+    {
+      "institution": "The University of Melbourne",
+      "location": "Australia",
+      "period": "2018 - 2020",
+      "role": "Teaching Assistant",
+      "courses": ["Civil Hydraulics (PG)", "Fluid Mechanics (UG)"],
+      "summary": "Conducted workshops, tutorials and laboratory sessions."
+    },
+    {
+      "institution": "National Tsing Hua University",
+      "location": "Taiwan",
+      "period": "2015 - 2016",
+      "role": "Graduate Teaching Assistant",
+      "courses": ["Gas Dynamics (UG)"],
+      "summary": "Led tutorials and graded assignments and examinations."
+    }
+  ],
   "awards": [
     {
       "title": "Research Excellence Travel Award",
@@ -307,16 +350,6 @@
       "startDate": "2018",
       "endDate": "2020",
       "summary": "Organised technical workshops, outdoor trips and informal events to strengthen interaction among research groups in the department.",
-      "highlights": []
-    },
-    {
-      "organization": "YouTube",
-      "location": "",
-      "position": "Educator",
-      "url": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "Create and deliver educational content in thermofluids, fluid mechanics and engineering design for an audience of more than 16,000 subscribers.",
       "highlights": []
     },
     {
