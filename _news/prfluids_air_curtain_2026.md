@@ -1,11 +1,9 @@
 ---
-
 layout: post
 date: 2026-08-17
 title: Infiltration and transport dynamics in air curtains published in Physical Review Fluids
 inline: false
 related_posts: false
-
 ---
 
 The final chapter of my PhD thesis has now been published in _Physical Review Fluids_! In this work, we use large-eddy simulations (LES) together with a Lagrangian particle-tracking framework to investigate where infiltrating fluid originates and how it is transported across an air curtain.
