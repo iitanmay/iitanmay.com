@@ -9,9 +9,9 @@
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "New Delhi",
-      "countryCode": "IN",
-      "region": "India"
+      "city": "Oxford",
+      "countryCode": "UK",
+      "region": "England"
     },
     "profiles": [
       {
@@ -72,6 +72,13 @@
     }
   ],
   "publications": [
+    {
+      "name": "Infiltration and transport dynamics in air curtains",
+      "publisher": "Physical Review Fluids",
+      "releaseDate": "2026",
+      "url": "https://journals.aps.org/prfluids/abstract/10.1103/w685-jwvk",
+      "summary": "Authors: Tanmay Agrawal, Vamsi K. Chalamalla and Narsing K. Jha"
+    },
     {
       "name": "Effects of lateral stratification on the dynamics of turbulent impinging line fountains",
       "publisher": "Journal of Fluid Mechanics",
@@ -171,7 +178,7 @@
       "name": "University of Oxford",
       "position": "Postdoctoral Research Fellow",
       "startDate": "2026-01",
-      "summary": "Working with Prof. Thomas Aubry on experimental investigation of volcanic plumes under the NERC-funded PHOENIX project.",
+      "summary": "Working with Prof. Thomas Aubry on experimental and numerical investigations of buoyant plumes in stratified and sheared environments under the NERC-funded PHOENIX project.",
       "location": "United Kingdom"
     },
     {
@@ -292,38 +299,6 @@
       "language": "Hindi",
       "fluency": "Native speaker",
       "icon": ""
-    }
-  ],
-  "references": [
-    {
-      "name": "Prof. Thomas J. Aubry",
-      "icon": "fa-solid fa-envelope",
-      "reference": "University of Oxford: thomas.aubry[at]earth[dot]ox[dot]ac[dot]uk"
-    },
-    {
-      "name": "Prof. Narsing K. Jha",
-      "icon": "fa-solid fa-envelope",
-      "reference": "Indian Institute of Technology Delhi: narsingjha[at]am[dot]iitd[dot]ac[dot]in"
-    },
-    {
-      "name": "Prof. Vamsi K. Chalamalla",
-      "icon": "fa-solid fa-envelope",
-      "reference": "Indian Institute of Technology Delhi: vchalama[at]am[dot]iitd[dot]ac[dot]in"
-    },
-    {
-      "name": "Prof. Joe Klewicki",
-      "icon": "fa-solid fa-envelope",
-      "reference": "The University of Melbourne, Australia: klewicki[at]unimelb[dot]edu[dot]au"
-    },
-    {
-      "name": "Prof. Jimmy Philip",
-      "icon": "fa-solid fa-envelope",
-      "reference": "The University of Melbourne, Australia: jimmyp[at]unimelb[dot]edu[dot]au"
-    },
-    {
-      "name": "Prof. Chao-An Lin",
-      "icon": "fa-solid fa-envelope",
-      "reference": "National Tsing Hua University, Taiwan: calin[at]pme[dot]nthu[dot]edu[dot]tw"
     }
   ]
 }
