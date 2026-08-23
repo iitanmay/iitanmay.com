@@ -80,6 +80,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/jfm_fountains_2026/";
+            },},{id: "news-infiltration-and-transport-dynamics-in-air-curtains-published-in-physical-review-fluids",
+          title: 'Infiltration and transport dynamics in air curtains published in Physical Review Fluids',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/prfluids_air_curtain_2026/";
             },},{
         id: 'social-github',
         title: 'GitHub',
