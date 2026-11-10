@@ -27,5 +27,23 @@ $max-content-width: {{ site.max_width }};
 //
 // CUSTOM STYLES
 //
-// (Previously held .research h2.category and .research .card img rules that
-// targeted _includes/research.liquid, which no page renders. Removed as dead.)
+
+// Centred figure/video block on the research page. Replaces the inline
+// style="width: 70%; margin: 0 auto; text-align: center;" that was repeated
+// around every figure. Full width on phones, where 70% is unreadable.
+.research-figure {
+  width: 70%;
+  margin: 2rem auto;
+  text-align: center;
+
+  video {
+    width: 100%;
+    height: auto;
+  }
+}
+
+@media (max-width: 768px) {
+  .research-figure {
+    width: 100%;
+  }
+}

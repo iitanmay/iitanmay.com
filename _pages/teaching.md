@@ -39,12 +39,12 @@ I develop and teach open-access courses in fluid mechanics and computational met
 <div class="col-sm-12 col-md-6 col-lg-3 mb-4">
   <div class="card h-100 border-0 bg-transparent">
     <a href="https://www.youtube.com/watch?v=VwGFw_TWZQA&list=PLieOygzXkXb7XQO9574i5b9TqG5V7tCg_" target="_blank">
-      <img src="https://img.youtube.com/vi/VwGFw_TWZQA/hqdefault.jpg" class="card-img-top rounded z-depth-1" alt="MATLAB CFD course">
+      <img src="https://img.youtube.com/vi/VwGFw_TWZQA/hqdefault.jpg" class="card-img-top rounded z-depth-1" alt="Introduction to CFD using MATLAB course">
     </a>
     <div class="card-body p-2 text-center">
       <h5 class="card-title mb-0">
         <a href="https://www.youtube.com/watch?v=VwGFw_TWZQA&list=PLieOygzXkXb7XQO9574i5b9TqG5V7tCg_" target="_blank" class="text-decoration-none">
-          Using MATLAB for Fluid Dynamics
+          Introduction to CFD using MATLAB
         </a>
       </h5>
     </div>
@@ -59,7 +59,7 @@ I develop and teach open-access courses in fluid mechanics and computational met
     <div class="card-body p-2 text-center">
       <h5 class="card-title mb-0">
         <a href="https://www.youtube.com/watch?v=omI4e2LA18k&list=PLieOygzXkXb5CA659aEu9IXYu_kyjk22n" target="_blank" class="text-decoration-none">
-          Simulating Fluid Flows Using Python
+          Simulating Fluid Flows using Python
         </a>
       </h5>
     </div>
@@ -69,12 +69,12 @@ I develop and teach open-access courses in fluid mechanics and computational met
 <div class="col-sm-12 col-md-6 col-lg-3 mb-4">
   <div class="card h-100 border-0 bg-transparent">
     <a href="https://www.youtube.com/watch?v=2u1j0b5nKwA&list=PLieOygzXkXb593Jz6qj_7C3A9S7Q5q5_" target="_blank">
-      <img src="https://img.youtube.com/vi/2u1j0b5nKwA/hqdefault.jpg" class="card-img-top rounded z-depth-1" alt="ANSYS Fluent tutorials">
+      <img src="https://img.youtube.com/vi/2u1j0b5nKwA/hqdefault.jpg" class="card-img-top rounded z-depth-1" alt="Basics of ANSYS Fluent course">
     </a>
     <div class="card-body p-2 text-center">
       <h5 class="card-title mb-0">
         <a href="https://www.youtube.com/watch?v=2u1j0b5nKwA&list=PLieOygzXkXb593Jz6qj_7C3A9S7Q5q5_" target="_blank" class="text-decoration-none">
-          Tutorials on ANSYS Fluent
+          Basics of ANSYS Fluent
         </a>
       </h5>
     </div>
@@ -92,17 +92,18 @@ I develop and teach open-access courses in fluid mechanics and computational met
 
 **Teaching Assistant, 2021–2024**
 
-- **2024** — Experimental Fluid Mechanics (APL390)
-- **2023** — Applied Fluid Mechanics (AML713)
-- **2022** — Computational Fluid Dynamics (APL720)
-- **2021** — Fluid Mechanics (APL107)
+- Fluid Mechanics (UG/PG)
+- Experimental Fluid Mechanics (UG)
+- Computational Fluid Dynamics (PG)
+- Environmental Fluid Mechanics (PG)
+- Engineering Mechanics (UG)
 
 ### The University of Melbourne
 
 **Teaching Assistant, 2018–2020**
 
-- **2018–2020** — Civil Hydraulics (CVEN90051)
-- **2018–2019** — Fluid Mechanics (ENGR30002)
+- Civil Hydraulics (PG)
+- Fluid Mechanics (UG)
 
 Conducted workshops, tutorials, and laboratory sessions.
 
@@ -110,6 +111,6 @@ Conducted workshops, tutorials, and laboratory sessions.
 
 **Graduate Teaching Assistant, 2015–2016**
 
-- Gas Dynamics
+- Gas Dynamics (UG)
 
 Led tutorials and graded assignments and examinations.

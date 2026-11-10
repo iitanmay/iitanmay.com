@@ -8,7 +8,7 @@ The short version: your _content_ is strong — 13 publications, a substantial r
 
 ---
 
-## 1. Your best material is invisible — **[PROPOSED]**
+## 1. Your best material is invisible — **[FIXED]**
 
 `_pages/research.md` builds a Bootstrap accordion whose three sections all render **collapsed** (`class="collapse"`, `aria-expanded="false"`). A first-time visitor to `/research/` sees three bullet headings and nothing else.
 
@@ -31,23 +31,31 @@ Two things make the current setup worse than it looks:
 - The videos have **no `preload` attribute and no `poster`**, so all ~20 MB is fetched with the page even though the content is collapsed.
 - `_includes/video.liquid` **already supports `poster`** (line 50) but **not `preload`**. Note that `poster` is interpolated without `relative_url`, so the path must be root-relative.
 
-**Proposed:** convert the accordion to always-open sections; one lead figure per area visible immediately; add `poster` + `preload="none"` (a ~3-line addition to `video.liquid`); replace the repeated inline `style="width: 70%; margin: 0 auto; text-align: center;"` with one reusable class.
+**Done:** the accordion is gone; all four areas render open with their figures and videos visible. Each video now has a `poster` still and `preload="none"` (`preload` added to `video.liquid`, and `poster` now passed through `relative_url`, which it was not before). The repeated inline `style="width: 70%; …"` is replaced by a single `.research-figure` class that also goes full-width on phones.
 
-## 2. Volcanic plumes — your current work — is not a research area — **[NEEDS YOU]**
+Measured effect: `/research/` fully scrolled now transfers **~2.1 MB**, against roughly 20 MB before, because the three videos no longer download until played.
+
+A `toc: sidebar: left` was also added, giving a sticky section list beside the content — the same mechanism `/cv/` already uses. Note I could not watch it populate locally: this sandbox blocks the CDNs that serve jQuery and bootstrap-toc, so those scripts never loaded in my test browser. The markup it needs is all present (nav element, four `<h2>`s with IDs). Worth a glance when you next load the site.
+
+## 2. Volcanic plumes — your current work — is not a research area — **[FIXED]**
 
 The three areas on `/research/` are all retrospective: free shear flows, stratified turbulence, wall-bounded flows. The Oxford PHOENIX project appears only in homepage prose and one news item.
 
 This is the thing a prospective collaborator is most likely to be searching for, and it is the work you can actually take on new people for. It should be a first-class research area.
 
-Blocked on figures, rig photos, or a few paragraphs from you. I will not invent results or diagrams.
+**Done**, using the two images you supplied: the analogue plume facility, and a time-averaged image of a plume in a sheared, stratified crossflow. It is now the **first** section on `/research/`, ahead of the retrospective areas.
 
-## 3. Your papers are unreadable without a subscription — **[NEEDS YOU]**
+I kept the description to what the photograph and your own CV/news entries support, and left a `TODO` in the page source where two or three sentences on the rig itself — tank dimensions, how the stratification is set, how the crossflow is driven, what you measure — would help. I did not guess at those. PHOENIX is also left unlinked, since I could not verify a project URL from here.
+
+## 3. Your papers are unreadable without a subscription — **[DEFERRED — your call]**
 
 All 13 entries in `_bibliography/papers.bib` carry only an `html` field pointing at a paywalled publisher page. None of `pdf`, `arxiv`, `code`, `data`, `slides`, `poster` or `video` is used anywhere — even though `_layouts/bib.liquid` already renders buttons for every one of them.
 
 For reach and citations this is the highest-leverage change available to you. Someone who cannot read the paper cannot cite it, and most people will not email for a copy.
 
-Check your publishing agreements — most (Cambridge/JFM, APS, AIP, Elsevier, Springer) permit posting the **author-accepted manuscript** after an embargo. Send me the PDFs or arXiv links and I will wire them in; the template work is already done.
+You have asked to park this while you track down the accepted PDFs, and you have nothing on arXiv. Leaving it here as the biggest outstanding win rather than closing it.
+
+Check your publishing agreements — most (Cambridge/JFM, APS, AIP, Elsevier, Springer) permit posting the **author-accepted manuscript** after an embargo. When you have them, the template work is already done: `bib.liquid` renders `pdf`, `arxiv`, `code`, `data`, `slides` and `poster` buttons, so each one is a single extra field in `papers.bib`.
 
 ## 4. The site told Google it was a theme — **[FIXED]**
 
@@ -132,7 +140,7 @@ Also on this page:
 - The thumbnails **hot-link `img.youtube.com`** with no local fallback; they break if a playlist's first video is removed or renumbered.
 - **Nothing for Oxford.** No current teaching, supervision or outreach, although `resume.json` lists "Self-developed Online Courses — Ongoing".
 
-## 13. Teaching page and CV contradict each other — **[NEEDS YOU]**
+## 13. Teaching page and CV contradict each other — **[FIXED]**
 
 `_pages/teaching.md` and `assets/json/resume.json` disagree about what you taught:
 
@@ -142,7 +150,7 @@ Also on this page:
 | MATLAB course title | "Using MATLAB for Fluid Dynamics"              | "Introduction to CFD using MATLAB"                                      |
 | Fluent course title | "Tutorials on ANSYS Fluent"                    | "Basics of ANSYS Fluent"                                                |
 
-Two public pages on your own site making different claims about your teaching record. Tell me which is right and I will make them agree. (Ideally the YouTube titles should match the actual playlist titles exactly, so people searching either way find you.)
+**Resolved** in favour of `resume.json`, per your instruction that course names beat course codes. `/teaching/` now lists the six IIT Delhi courses by name with UG/PG markers, and Melbourne and NTHU follow the same convention. The two YouTube cards were also renamed to **Introduction to CFD using MATLAB** and **Basics of ANSYS Fluent** to match.
 
 ## 14. A news item has been promising a link for 11 months — **[NEEDS YOU]**
 
@@ -192,12 +200,11 @@ Worth knowing: six purpose-made topic images sit unused in `assets/img/` — `Ai
 
 ---
 
-## What I need from you, in priority order
+## Still outstanding
 
-1. **Accepted-manuscript PDFs or arXiv links** for as many of the 13 papers as your agreements allow. Biggest single win available.
-2. **PHOENIX / Oxford material** — figures, rig photos, a few paragraphs — so your current work becomes a research area.
-3. **YouTube stats** — subscribers, total views, episode counts per playlist.
-4. **Oxford departmental profile URL**, office and postal address.
-5. **Which teaching list is correct**, `teaching.md` or `resume.json`.
-6. **Total YouTube views and per-playlist episode counts.**
-7. **Go/no-go on the design and homepage rework** above.
+1. **Accepted-manuscript PDFs** for as many of the 13 papers as your agreements allow. Parked at your request; still the biggest single win available.
+2. **Total YouTube views and per-playlist episode counts**, to go alongside the subscriber figure.
+3. **Two or three sentences on the plume facility** — see the `TODO` in `_pages/research.md`.
+4. **A PHOENIX project or NERC grant URL**, if one exists.
+5. **Office and postal address** to finish the contact block.
+6. **Feedback on the research page**, then a decision on the accent colour, heading typeface and homepage rework.

@@ -15,6 +15,11 @@
     },
     "profiles": [
       {
+        "network": "University of Oxford",
+        "username": "",
+        "url": "https://www.earth.ox.ac.uk/people/tanmay-agrawal"
+      },
+      {
         "network": "LinkedIn",
         "username": "",
         "url": "https://www.linkedin.com/in/tanmay-agrawal-65422b2a7"
