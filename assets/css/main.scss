@@ -47,3 +47,71 @@ $max-content-width: {{ site.max_width }};
     width: 100%;
   }
 }
+
+// Homepage section headings (news / selected publications).
+// Each section gets a hairline rule above it, matching the <hr> dividers used
+// on the research and teaching pages, plus a "see all" link on the right. The
+// heading itself was already a link but carried color: inherit inline, so it
+// read as plain text and nobody would have clicked it.
+.section-head {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-top: 3.5rem;
+  margin-bottom: 1rem;
+  padding-top: 1.25rem;
+  border-top: 1px solid var(--global-divider-color);
+
+  h2 {
+    margin: 0;
+
+    a {
+      color: var(--global-text-color);
+
+      &:hover {
+        color: var(--global-hover-color);
+      }
+    }
+  }
+
+  .section-more {
+    flex: none;
+    font-size: 0.85rem;
+    color: var(--global-text-color-light);
+    white-space: nowrap;
+
+    &:hover {
+      color: var(--global-hover-color);
+    }
+  }
+}
+
+@media (max-width: 576px) {
+  .section-head {
+    margin-top: 2.5rem;
+
+    .section-more {
+      font-size: 0.8rem;
+    }
+  }
+}
+
+// Social row on the homepage. The default icons are oversized for a row of
+// seven, several of which (ORCID, Scholar) are not self-evident glyphs.
+.social {
+  margin-top: 3.5rem;
+  padding-top: 1.75rem;
+  border-top: 1px solid var(--global-divider-color);
+
+  .contact-icons {
+    font-size: 2.4rem; // theme default is 4rem
+    line-height: 1.9;
+  }
+
+  .contact-note {
+    margin-top: 0.5rem;
+    font-size: 0.9rem;
+    color: var(--global-text-color-light);
+  }
+}

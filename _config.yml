@@ -6,8 +6,8 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Tanmay
 middle_name:
 last_name: Agrawal
-# contact_note: >
-#  You can even add a little note about which of these is the best way to reach you.
+contact_note: >
+  Email is the most reliable way to reach me.
 # NOTE: ">-" folds the lines AND strips the trailing newline. Do not change this
 # to a bare ">": the trailing \n it leaves is an illegal control character inside
 # the Schema.org JSON-LD string built in _includes/metadata.liquid, which silently
