@@ -44,18 +44,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/contact/";
           },
-        },{id: "post-a-post-with-code",
-        
-          title: "a post with code",
-        
-        description: "an example of a blog post with some code",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2015/code/";
-          
-        },
-      },{id: "news-measurements-conducted-in-vande-bharat-train-to-assess-thermal-comfort-and-iaq",
+        },{id: "news-measurements-conducted-in-vande-bharat-train-to-assess-thermal-comfort-and-iaq",
           title: 'Measurements conducted in Vande Bharat train to assess thermal comfort and IAQ',
           description: "",
           section: "News",handler: () => {
@@ -86,6 +75,13 @@ ninja.data = [{
           section: "News",handler: () => {
               window.location.href = "/news/prfluids_air_curtain_2026/";
             },},{
+        id: 'social-email',
+        title: 'email',
+        section: 'Socials',
+        handler: () => {
+          window.open("mailto:%69%69%74%61%6E%6D%61%79@%70%72%6F%74%6F%6E.%6D%65", "_blank");
+        },
+      },{
         id: 'social-github',
         title: 'GitHub',
         section: 'Socials',
@@ -100,11 +96,25 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/tanmay-agrawal-65422b2a7", "_blank");
         },
       },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/0000-0002-0777-2527", "_blank");
+        },
+      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=Jum9p6sAAAAJ", "_blank");
+        },
+      },{
+        id: 'social-work',
+        title: 'Work',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.earth.ox.ac.uk/people/tanmay-agrawal", "_blank");
         },
       },{
         id: 'social-youtube',
