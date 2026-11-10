@@ -6,7 +6,24 @@ nav: true
 nav_order: 5
 ---
 
-Have a question or want to get in touch? Please fill out the form below, and I'll get back to you as soon as I can.
+<!-- TODO(tanmay): add your department and office address below the role line.
+     Left deliberately blank rather than guessed. A full postal affiliation is
+     what people copy into grant applications and paper acknowledgements. -->
+
+**Tanmay Agrawal**<br>
+Postdoctoral Research Fellow, University of Oxford
+
+Email: <a href="mailto:{{ site.data.socials.email | encode_email }}">iitanmay [at] proton [dot] me</a>
+
+<!-- The href is percent-encoded by `encode_email` (jekyll-email-protect) so the
+     address is not sitting in the source as plain text; the visible label is the
+     human-readable form rather than the encoded one. -->
+
+I am always glad to hear from people working on buoyant plumes, air curtains,
+stratified flows or related problems — whether that is a possible collaboration,
+a question about one of the papers, or a student looking for a project.
+
+You can email me directly, or use the form below.
 
 <form action="https://formspree.io/f/mpwovedq" method="POST">
   <div class="form-group">

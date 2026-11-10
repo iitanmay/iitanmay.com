@@ -12,18 +12,13 @@ On September 3 2025, I successfully defended my PhD thesis titled **"Role of flu
 
 #### PhD Defense Slides
 
-<iframe
-  src="/assets/pdf/PhD_Defense_Slides.pdf"
-  width="100%"
-  height="500px"
-  frameborder="0"
->
-This browser does not support PDFs. Please download the PDF to view it:
-</iframe>
-
-<a href="/assets/pdf/phd_slides.pdf" target="_blank" rel="noopener noreferrer">
-[Download Slides (PDF)]
+<a href="/assets/pdf/PhD_Defense_Slides.pdf" target="_blank" rel="noopener noreferrer">
+  {% include figure.liquid path="assets/img/phd_defense_slides_cover.png" width="75%" class="mx-auto d-block rounded z-depth-1" alt="Title slide: Role of fluid transport on sealing effectiveness of air curtains" %}
 </a>
+
+<p class="text-center">
+  <a href="/assets/pdf/PhD_Defense_Slides.pdf" target="_blank" rel="noopener noreferrer">Download the slides (PDF, 19&nbsp;MB)</a>
+</p>
 
 ---
 

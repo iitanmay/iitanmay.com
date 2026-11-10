@@ -1,34 +1,54 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+# Recurring co-authors, keyed by lowercase last name.
+# Matched in _layouts/bib.liquid against the parsed first name, so list every
+# variant that appears across _bibliography/papers.bib (full name and initials).
+# Only add a `url` you have actually verified — an entry without one simply
+# renders the name unlinked, which is the correct fallback.
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"chalamalla":
+  - firstname: ["Vamsi Krishna", "Vamsi K.", "Vamsi", "V. K.", "V."]
+    url: https://sites.google.com/site/vkchalama/
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"jha":
+  - firstname: ["Narsing Kumar", "Narsing K.", "Narsing", "N. K.", "N."]
+    url: https://narsingjha.github.io/
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"klewicki":
+  - firstname: ["Joseph C", "Joseph C.", "Joseph", "Joe", "J. C.", "J."]
+    url: https://findanexpert.unimelb.edu.au/profile/370500-joseph-klewicki
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"philip":
+  - firstname: ["Jimmy", "J."]
+    url: https://findanexpert.unimelb.edu.au/profile/382360-jimmy-philip
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
-
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
-
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"lin":
+  - firstname: ["Chao-An", "C.-A.", "C. A."]
+    url: https://pme.site.nthu.edu.tw/p/406-1308-73995,r4027.php?Lang=en
+# Co-authors without a verified profile URL. Listed for completeness so the
+# names are easy to find when a link becomes available; they render unlinked.
+# "ungarish":
+#   - firstname: ["Marius", "M."]
+#     url:
+# "agarwal":
+#   - firstname: ["Shresth", "S."]
+#     url:
+# "peddada":
+#   - firstname: ["Siva Heramb", "S. H."]
+#     url:
+# "ramesh":
+#   - firstname: ["Bhaarath", "B."]
+#     url:
+# "zimmerman":
+#   - firstname: ["Spencer J", "Spencer", "S. J.", "S."]
+#     url:
+# "shi":
+#   - firstname: ["Xiaolei", "X."]
+#     url:
+# "hwang":
+#   - firstname: ["Feng-Nan", "F.-N."]
+#     url:
+# "chiu":
+#   - firstname: ["Tzu-Hsuan", "T.-H."]
+#     url:
+# "kumar":
+#   - firstname: ["Anoop", "A."]
+#     url:

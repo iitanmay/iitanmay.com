@@ -27,18 +27,5 @@ $max-content-width: {{ site.max_width }};
 //
 // CUSTOM STYLES
 //
-
-// Style research category headings for better separation
-.research h2.category {
-  margin-top: 3rem !important;      // Adds significant space *above* the title
-  margin-bottom: 1.5rem !important;  // Adds space *below* the title (before the cards)
-  padding-bottom: 0.5rem !important; // Adds space between text and the new border
-  border-bottom: 2px solid var(--global-divider-color); // Adds a clean horizontal line
-}
-
-// Force all research thumbnails to the same height
-.research .card img {
-  width: 100%;       // Make sure it fills the card horizontally
-  height: 200px;      // Set a fixed height for all thumbnails
-  object-fit: cover;  // Crop the image to fit (no stretching)
-}
+// (Previously held .research h2.category and .research .card img rules that
+// targeted _includes/research.liquid, which no page renders. Removed as dead.)

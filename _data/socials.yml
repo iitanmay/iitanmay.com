@@ -10,7 +10,11 @@
 # bluesky_url: # your bluesky URL
 # dblp_url: # your DBLP profile url
 # discord_id: # your discord id (18-digit unique numerical identifier)
-# email: iitanmay [at] proton [dot] me # your email address
+# NOTE: store the real address here. social.liquid and metadata.liquid pass it
+# through the `encode_email` filter (jekyll-email-protect), which does the
+# scraper obfuscation at build time. A hand-obfuscated "x [at] y [dot] z"
+# string would be emitted verbatim into mailto: and produce a broken link.
+email: iitanmay@proton.me # your email address
 # facebook_id: # your facebook id
 # flickr_id: # your flickr id
 github_username: iitanmay # your GitHub user name
@@ -27,7 +31,9 @@ github_username: iitanmay # your GitHub user name
 linkedin_username: tanmay-agrawal-65422b2a7 # your LinkedIn user name
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
-# orcid_id: # your ORCID ID
+# TODO(tanmay): add your ORCID iD here — it is the one identifier publishers,
+# funders and ORCID-aware search tools key on, and the site currently has none.
+# orcid_id: 0000-0000-0000-0000 # your ORCID ID
 # osf_id: # your OSF ID
 # pinterest_id: # your pinterest id
 # publons_id: # your ID on Publons
@@ -46,6 +52,7 @@ scholar_userid: Jum9p6sAAAAJ # your Google Scholar ID
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 # wikidata_id: # your wikidata id
 # wikipedia_id: # your wikipedia id (Case sensitive)
+# TODO(tanmay): add your University of Oxford departmental profile page URL.
 # work_url: # work page URL
 # x_username: # your X handle
 youtube_id: TanmayAgrawal7 # your youtube channel id (youtube.com/@<youtube_id>)
