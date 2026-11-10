@@ -11,7 +11,12 @@ nav_order: 4
 
 ## YouTube Courses
 
-I develop and teach open-access courses in fluid mechanics and computational methods, covering topics from turbulence and computational fluid dynamics to scientific programming and flow simulation. The full collection is available on my [YouTube Channel](https://www.youtube.com/@TanmayAgrawal7/).
+I develop and teach open-access courses in fluid mechanics and computational methods, covering topics from turbulence and computational fluid dynamics to scientific programming and flow simulation. The full collection is available on my [YouTube channel](https://www.youtube.com/@TanmayAgrawal7), which has **16.4k subscribers**.
+
+<!-- TODO(tanmay): subscriber count is a point-in-time figure — refresh it when
+     you next touch this page, or drop the number if you would rather not
+     maintain it. Total view count and per-playlist episode counts would
+     strengthen this section further. -->
 
 <div class="container">
   <div class="row">

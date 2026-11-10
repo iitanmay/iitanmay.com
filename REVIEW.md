@@ -106,9 +106,10 @@ One trap worth flagging: the commented value was `iitanmay [at] proton [dot] me`
 
 **[NEEDS YOU]:**
 
-- Your **ORCID iD** — the identifier publishers, funders and ORCID-aware search tools key on. The site has none. `TODO` marker left in `_data/socials.yml`.
-- Your **Oxford departmental profile URL** (`work_url`). Same file.
-- Your **department and office address** for `/contact/`. I left this blank rather than guessing — I know you work with Prof. Aubry at Oxford but not which department, and a wrong affiliation on a contact page is worse than a missing one.
+- ~~ORCID iD~~ — **[FIXED]** `0000-0002-0777-2527`, now in `_data/socials.yml` (icon in the social row) and in `resume.json` so it shows on `/cv/`.
+- ~~Department~~ — **[FIXED]** Department of Earth Sciences, University of Oxford, now on `/contact/`.
+- Your **Oxford departmental profile URL** (`work_url`) in `_data/socials.yml` — still outstanding.
+- Your **office/building and postal address**, so the contact block is complete enough to paste into a grant application.
 
 ## 11. 19 MB of unused assets — **[FIXED]**
 
@@ -122,7 +123,9 @@ Also removed two dead CSS rules in `assets/css/main.scss` targeting `.research h
 
 `/teaching/` asserts four YouTube courses and lists university TA work. What a reader cannot tell is whether any of it reached anyone — there is no subscriber count, no view count, no episode count per playlist, no student feedback.
 
-For a page whose job is to establish teaching reputation, that is the whole ballgame. "4,200 subscribers, 180k total views across four courses" is a completely different claim from four unannotated thumbnails.
+For a page whose job is to establish teaching reputation, that is the whole ballgame.
+
+**[PARTLY FIXED]** The channel's **16.4k subscribers** is now stated on the page — that is a strong, concrete number and it was previously invisible to any reader. Still worth adding: total view count and episode count per playlist. Note the subscriber figure is point-in-time and will drift; a `TODO` marker in the page source flags it.
 
 Also on this page:
 
@@ -194,6 +197,7 @@ Worth knowing: six purpose-made topic images sit unused in `assets/img/` — `Ai
 1. **Accepted-manuscript PDFs or arXiv links** for as many of the 13 papers as your agreements allow. Biggest single win available.
 2. **PHOENIX / Oxford material** — figures, rig photos, a few paragraphs — so your current work becomes a research area.
 3. **YouTube stats** — subscribers, total views, episode counts per playlist.
-4. **ORCID iD**, Oxford profile URL, department and office address.
+4. **Oxford departmental profile URL**, office and postal address.
 5. **Which teaching list is correct**, `teaching.md` or `resume.json`.
-6. **Go/no-go on the design and homepage rework** above.
+6. **Total YouTube views and per-playlist episode counts.**
+7. **Go/no-go on the design and homepage rework** above.

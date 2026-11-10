@@ -6,12 +6,12 @@ nav: true
 nav_order: 5
 ---
 
-<!-- TODO(tanmay): add your department and office address below the role line.
-     Left deliberately blank rather than guessed. A full postal affiliation is
-     what people copy into grant applications and paper acknowledgements. -->
+<!-- TODO(tanmay): add your office/building and postal address below, so the
+     block is complete enough to paste into a grant application. -->
 
 **Tanmay Agrawal**<br>
-Postdoctoral Research Fellow, University of Oxford
+Postdoctoral Research Fellow<br>
+Department of Earth Sciences, University of Oxford
 
 Email: <a href="mailto:{{ site.data.socials.email | encode_email }}">iitanmay [at] proton [dot] me</a>
 

@@ -31,9 +31,7 @@ github_username: iitanmay # your GitHub user name
 linkedin_username: tanmay-agrawal-65422b2a7 # your LinkedIn user name
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
-# TODO(tanmay): add your ORCID iD here — it is the one identifier publishers,
-# funders and ORCID-aware search tools key on, and the site currently has none.
-# orcid_id: 0000-0000-0000-0000 # your ORCID ID
+orcid_id: 0000-0002-0777-2527 # your ORCID ID
 # osf_id: # your OSF ID
 # pinterest_id: # your pinterest id
 # publons_id: # your ID on Publons
