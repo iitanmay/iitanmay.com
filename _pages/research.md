@@ -57,6 +57,8 @@ Figure 2 shows a time-averaged image of a plume released into a sheared, stratif
 
 Alongside the experiments, the project combines observational data from field sites such as Campi Flegrei with three-dimensional numerical models, with the aim of improving the one-dimensional plume models that operational forecasting relies on.
 
+This work is with Thomas Aubry at Oxford, together with the project's UK and international partners.
+
 <hr>
 
 ## free shear flows
@@ -112,6 +114,8 @@ Turbulent fountains subjected to a lateral density stratification are directly r
 
 A key focus of my work was to characterize the statistical behavior and entrainment dynamics of air curtain flows. I conducted time-resolved Particle Image Velocimetry (PIV) measurements and supported them with high-fidelity Large Eddy Simulation (LES) data to obtain an ensemble of flow dynamics at various operating conditions. Our results revealed that when a lateral density stratification is imposed on an impinging line fountain, it enhances the fluid entrainment by up to 20% compared to uniform environments. This increase is driven by the lateral forcing, which modifies the volume flux along the trajectory of the fountain.
 
+This work was done with Narsing Kumar Jha and Vamsi Krishna Chalamalla at IIT Delhi, with Shresth Agarwal contributing to the heavy air curtain study.
+
 <hr>
 
 ## stratified turbulence
@@ -166,6 +170,8 @@ Quantifying irreversible turbulent mixing is important for accurate modeling of 
   </div>
 </div>
 
+The molecular tagging measurements were made with Joe Klewicki, Jimmy Philip, Spencer Zimmerman and Bhaarath Ramesh at the University of Melbourne. The stratified gravity current work was done with Vamsi Krishna Chalamalla and Siva Heramb Peddada at IIT Delhi, and extended with Marius Ungarish at the Technion.
+
 <hr>
 
 ## wall-bounded flows
@@ -191,3 +197,5 @@ I have studied fully developed turbulent channel flows to validate and apply the
 ### Impinging jets
 
 Impinging jets represent a complex flow configuration where a stream of fluid (jet) strikes on to a solid surface, creating a stagnation zone followed by the development of a wall jet in the lateral/radial direction. These flows are critical in engineering applications requiring high rates of heat and mass transfer, such as the cooling of gas turbine blades and electronic components. My interest lies in understanding the flow structure in the stagnation region and the transition to turbulence in the wall jet, where the interaction between large-scale coherent structures and the solid boundary drives efficient transport.
+
+The channel flow measurements were made with Joe Klewicki, Jimmy Philip and Spencer Zimmerman at the University of Melbourne.

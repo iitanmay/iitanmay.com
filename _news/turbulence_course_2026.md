@@ -1,27 +1,33 @@
 ---
 layout: post
-title: Launched an open-access course on understanding turbulent flows
+title: Launched a course on understanding turbulent flows
 date: 2026-06-01
 inline: false
 related_posts: false
 ---
 
-<!-- TODO(tanmay): two things to fix here.
-     1. The date above is a placeholder for "June 2026" - set the actual
-        launch date.
-     2. Everything below is written from what the site already says about the
-        course. I could not open the playlist to check it: YouTube is blocked
-        from the environment I was working in, and a web search did not turn up
-        the lecture list either. So this post deliberately does not state how
-        many lectures there are, what each one covers, or what the
-        prerequisites are. Please add those, or tell me and I will. -->
+<!-- TODO(tanmay): the date above is a placeholder for "June 2026". Set the
+     actual launch date. Everything else here is taken from the live playlist. -->
 
-I have started a new course on my YouTube channel, [Understanding Turbulent Flows](https://www.youtube.com/watch?v=lSI9EJi3Ljo&list=PLKSR9A4mJH5o85J0iFEPbTwcSv9pQ5Gkz).
+I have put out a new course on my YouTube channel, [Understanding Turbulent Flows](https://www.youtube.com/playlist?list=PLKSR9A4mJH5o85J0iFEPbTwcSv9pQ5Gkz). It is free, and anyone can follow it.
 
-Turbulence is usually the point in a fluid mechanics course where the ground shifts. The equations stop being solvable in any ordinary sense, the reasoning turns statistical, and a student who was comfortable with laminar flow a fortnight ago can suddenly feel that the subject has been taken away from them. My aim with this course is to make that transition less abrupt: to build the ideas up in the order they actually make sense in, and to keep the physical picture in view rather than letting the notation carry everything.
+Turbulence is usually where a fluid mechanics course changes character. The equations stop yielding to the methods that worked for laminar flow, the reasoning turns statistical, and students who were comfortable a fortnight earlier often feel the subject has been taken away from them. What I have tried to do here is build the ideas in the order that makes them follow from one another, and keep the physical picture in view rather than letting the index notation carry everything.
 
-The lectures are free and open to anyone. They are aimed at senior undergraduates, master's and doctoral students meeting turbulence properly for the first time, and at people working in industry who use turbulence models day to day and would like a firmer sense of what sits underneath them.
+The course runs to ten lessons:
 
-The full playlist is [here](https://www.youtube.com/playlist?list=PLKSR9A4mJH5o85J0iFEPbTwcSv9pQ5Gkz), and the opening lecture is [here](https://www.youtube.com/watch?v=lSI9EJi3Ljo). The rest of my courses, covering computational fluid dynamics in MATLAB and Python and the basics of ANSYS Fluent, are on the [channel](https://www.youtube.com/@TanmayAgrawal7) and listed on my [teaching page]({{ '/teaching/' | relative_url }}).
+1. Transition to Turbulence
+2. Reynolds Decomposition and a prelude to RANS
+3. Reynolds Stresses and Turbulence
+4. Index Notation in Fluid Dynamics
+5. Derivation of Turbulent Kinetic Energy Budget in Index Notation
+6. TKE Budget: Physical Interpretation and the Energy Cascade
+7. Kolmogorov's Hypotheses, Microscales and the Structure Function
+8. Computing Turbulence Statistics from Real PIV Data in MATLAB
 
-If you are following along and something is unclear, please leave a comment on the video. The questions people ask shape what I cover next.
+alongside an [overview](https://www.youtube.com/watch?v=436HwwfMH4A) of what the course covers and an [introductory lecture](https://www.youtube.com/watch?v=lSI9EJi3Ljo).
+
+The last lesson is the one I was most keen to include. It takes real particle image velocimetry data and computes turbulence statistics from it in MATLAB, so that the quantities derived over the preceding lessons stop being symbols on a board and become numbers you have produced yourself from a measurement.
+
+It is aimed at senior undergraduates and postgraduate students meeting turbulence properly for the first time, and at people working in industry who use turbulence models routinely and would like a firmer sense of what sits underneath them.
+
+The rest of my courses, covering computational fluid dynamics in MATLAB and Python and the basics of ANSYS Fluent, are listed on my [teaching page]({{ '/teaching/' | relative_url }}). If you are following along and something is unclear, please leave a comment on the video; the questions people ask shape what I cover next.
