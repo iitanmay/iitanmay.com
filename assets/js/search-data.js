@@ -76,23 +76,23 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/oxford_joining/";
-            },},{id: "news-new-insights-into-air-curtains-line-fountains-in-stratified-environments-published-in-jfm",
-          title: 'New Insights into Air Curtains: Line Fountains in Stratified Environments Published in JFM...',
+            },},{id: "news-new-study-providing-insights-into-line-fountains-in-stratified-environments-published-in-journal-of-fluid-mechanics",
+          title: 'New study providing insights into line fountains in stratified environments published in Journal...',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/jfm_fountains_2026/";
-            },},{id: "news-launched-a-course-on-understanding-turbulent-flows",
-          title: 'Launched a course on understanding turbulent flows',
+            },},{id: "news-launched-a-youtube-course-aimed-to-introduce-turbulent-flows-to-absolute-beginners",
+          title: 'Launched a YouTube course aimed to introduce turbulent flows to absolute beginners',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/turbulence_course_2026/";
-            },},{id: "news-infiltration-and-transport-dynamics-in-air-curtains-published-in-physical-review-fluids",
-          title: 'Infiltration and transport dynamics in air curtains published in Physical Review Fluids',
+            },},{id: "news-paper-quantifying-the-infiltration-and-transport-dynamics-of-air-curtains-published-in-physical-review-fluids",
+          title: 'Paper quantifying the infiltration and transport dynamics of air curtains published in Physical...',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/prfluids_air_curtain_2026/";
-            },},{id: "news-presented-a-part-of-my-phd-research-at-the-uk-fluids-conference-2026-at-the-university-of-leeds-on-fluid-transport-across-air-curtains-viewed-from-a-lagrangian-perspective",
-          title: 'Presented a part of my PhD research at the UK Fluids Conference 2026...',
+            },},{id: "news-presented-a-part-of-my-phd-research-during-the-uk-fluids-conference-2026-at-the-university-of-leeds-on-elucidating-the-mechanisms-of-fluid-transport-across-air-curtains",
+          title: 'Presented a part of my PhD research during the UK Fluids Conference 2026...',
           description: "",
           section: "News",},{
         id: 'social-email',
