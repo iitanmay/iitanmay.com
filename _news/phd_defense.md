@@ -32,9 +32,6 @@ Much of this work is described in more detail on my [research page]({{ '/researc
 
 My thanks to Prof. Alakesh Chandra Mandal of IIT Kanpur, who examined the thesis, and to the committee at IIT Delhi: Prof. Anupam Dewan as chairperson, with Prof. Amitabh Bhattacharya and Prof. Krishnakant Agrawal as internal and external experts.
 
-<!-- TODO(tanmay): the committee names above are read off your title slide.
-     Worth checking the spellings and titles before this goes out. -->
-
 Any PhD defense is incomplete without a photo with the supervisors and the examiner!
 
 {% include figure.liquid path="assets/img/defense_photo.jpg" width="75%" caption="From left: Prof. Vamsi Chalamalla, Yours Truly, Prof. Narsing Kumar Jha, Prof. Alakesh Chandra Mandal (Examiner from IIT Kanpur)" %}

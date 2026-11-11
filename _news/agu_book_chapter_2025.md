@@ -6,12 +6,6 @@ inline: false
 related_posts: false
 ---
 
-<!-- TODO(tanmay): please confirm the date. Retailers list the volume as early
-     November 2025, but the chapter proof itself carries "© 2026 American
-     Geophysical Union. Published 2026 by John Wiley & Sons", and two library
-     catalogues record 2026. Note _bibliography/papers.bib currently says
-     year={2025}; if the book is a 2026 publication, that needs changing too. -->
-
 A chapter written with [Marius Ungarish](https://www.cs.technion.ac.il/) (Department of Computer Science, Technion, Haifa) and Vamsi Krishna Chalamalla (Department of Applied Mechanics, IIT Delhi) has appeared as Chapter 6 of _Particulate Gravity Currents: Theory, Experiments, and Environmental Applications_, Geophysical Monograph 291, published by Wiley for the American Geophysical Union.
 
 A gravity current in a linearly stratified tank can run along the floor, if it is denser than the ambient at the bottom, or along the ceiling, if it is lighter than the ambient at the top. These two configurations have largely been studied as separate problems. Our main point in this chapter is that they are not: under conditions we make precise, the top and bottom currents are equivalent, in the sense that they behave as mirror images of one another about the boundary they propagate along, with the same thickness and the same speed of propagation. The equivalence had been overlooked in earlier work, and it matters practically, because it means data, insight and theoretical predictions obtained for one configuration can be carried across to the other with confidence.
@@ -24,8 +18,10 @@ This work grew directly out of our earlier _Physics of Fluids_ paper on [buoyant
 
 It was a pleasure to work on this with Prof. Ungarish, whose shallow-water treatment of gravity currents much of the analysis rests on, and the collaboration ran between India, Israel and the UK. You can read the chapter [here](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/9781394216727.ch6).
 
-<!-- TODO(tanmay): a figure would help, and Figure 6.1 (the schematic of the top
-     and bottom currents with the rho-z diagram) is the obvious one. I extracted
-     it from the PDF you sent, but that copy carries the diagonal "REVISED
-     PROOFS" watermark across it, so I have not used it. Send a clean version
-     and I will place it here. -->
+{% comment %}
+TODO(tanmay): a figure would help, and Figure 6.1 (the schematic of the top
+and bottom currents with the rho-z diagram) is the obvious one. I extracted
+it from the PDF you sent, but that copy carries the diagonal "REVISED
+PROOFS" watermark across it, so I have not used it. Send a clean version
+and I will place it here.
+{% endcomment %}

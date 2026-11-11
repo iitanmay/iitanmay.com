@@ -6,9 +6,6 @@ nav: true
 nav_order: 6
 ---
 
-<!-- TODO(tanmay): add your office/building and postal address below, so the
-     block is complete enough to paste into a grant application. -->
-
 **Tanmay Agrawal**<br>
 Postdoctoral Research Fellow<br>
 Department of Earth Sciences, University of Oxford

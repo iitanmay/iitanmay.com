@@ -14,15 +14,17 @@ toc:
 
 ## volcanic plumes
 
-<!-- TODO(tanmay): if PHOENIX has a project page or a NERC grant page, link it on
-     the word "PHOENIX" below. I left it unlinked rather than point at a URL I
-     could not verify from here. -->
+{% comment %}
+TODO(tanmay): if PHOENIX has a project page or a NERC grant page, link it on
+the word "PHOENIX" below. I left it unlinked rather than point at a URL I
+could not verify from here.
+{% endcomment %}
 
 My current work at Oxford is part of PHOENIX, a NERC-funded project on the influence of complex source and wind conditions on eruptive plume height, led by [Prof. Thomas Aubry](https://sites.google.com/view/thomasjaubry/). An explosive eruption injects ash and gas into the atmosphere as a buoyant multiphase plume, and the height that plume reaches is the quantity operational models most need to get right: it sets the ash dispersal forecast that aviation depends on, and the amount of sulfur delivered to the stratosphere that drives the subsequent climate response.
 
 Most of the models in use were built for a plume rising through a still, horizontally uniform atmosphere. Real eruptions satisfy neither assumption. The source is rarely a simple circular vent, and the wind varies with height, so the plume is sheared as it rises. The result is that plume height is often poorly predicted precisely in the conditions where a forecast matters most.
 
-I am developing an analogue facility to reproduce these conditions in the laboratory, where the source and the ambient can both be controlled and measured.
+I am developing an analogue facility to reproduce these conditions in the laboratory, where the source and the ambient can both be controlled and measured. The present setup is a prototype tank, one metre long and thirty centimetres wide, in which a buoyant plume is released into a density-stratified ambient. Our interest is in how the plume rise height depends on the shear profile imposed on the ambient.
 
 <div class="research-figure">
   {% include figure.liquid
@@ -35,11 +37,6 @@ I am developing an analogue facility to reproduce these conditions in the labora
     Fig. 1: The analogue plume facility. The tank is filled with a density-stratified ambient, through which a buoyant plume is released from a source at the base.
   </div>
 </div>
-
-<!-- TODO(tanmay): worth two or three more sentences here on the facility itself
-     — tank dimensions, how the stratification is set up, how the crossflow is
-     driven, and what you measure. I have deliberately kept the description to
-     what the photograph shows rather than guessing at the rig. -->
 
 Figure 2 shows a time-averaged image of a plume released into a sheared, stratified crossflow. The plume rises under its own buoyancy, is progressively bent over by the crossflow, and then spreads laterally once it reaches a level where it is no longer buoyant relative to its surroundings. The height of that intrusion, and how it responds to the shear in the ambient, is what the integral models need to reproduce.
 

@@ -13,22 +13,24 @@ nav_order: 4
 
 I develop and teach open-access courses in fluid mechanics and computational methods, covering topics from turbulence and computational fluid dynamics to scientific programming and flow simulation. The full collection is available on my [YouTube channel](https://www.youtube.com/@TanmayAgrawal7), which has **16.4k subscribers**.
 
-<!-- TODO(tanmay): subscriber count is a point-in-time figure — refresh it when
-     you next touch this page, or drop the number if you would rather not
-     maintain it. Total view count and per-playlist episode counts would
-     strengthen this section further. -->
+{% comment %}
+TODO(tanmay): subscriber count is a point-in-time figure — refresh it when
+you next touch this page, or drop the number if you would rather not
+maintain it. Total view count and per-playlist episode counts would
+strengthen this section further.
+{% endcomment %}
 
 <div class="container">
   <div class="row">
 
 <div class="col-sm-12 col-md-6 col-lg-3 mb-4">
   <div class="card h-100 border-0 bg-transparent">
-    <a href="https://www.youtube.com/watch?v=VVqos9V-BAA&list=PLKSR9A4mJH5o85J0iFEPbTwcSv9pQ5Gkz" target="_blank">
-      <img src="https://img.youtube.com/vi/VVqos9V-BAA/hqdefault.jpg" class="card-img-top rounded z-depth-1" alt="Understanding Turbulent Flows course">
+    <a href="https://www.youtube.com/watch?v=436HwwfMH4A&list=PLKSR9A4mJH5o85J0iFEPbTwcSv9pQ5Gkz" target="_blank">
+      <img src="https://img.youtube.com/vi/436HwwfMH4A/hqdefault.jpg" class="card-img-top rounded z-depth-1" alt="Understanding Turbulent Flows course">
     </a>
     <div class="card-body p-2 text-center">
       <h5 class="card-title mb-0">
-        <a href="https://www.youtube.com/watch?v=VVqos9V-BAA&list=PLKSR9A4mJH5o85J0iFEPbTwcSv9pQ5Gkz" target="_blank" class="text-decoration-none">
+        <a href="https://www.youtube.com/watch?v=436HwwfMH4A&list=PLKSR9A4mJH5o85J0iFEPbTwcSv9pQ5Gkz" target="_blank" class="text-decoration-none">
           Understanding Turbulent Flows
         </a>
       </h5>
@@ -38,12 +40,12 @@ I develop and teach open-access courses in fluid mechanics and computational met
 
 <div class="col-sm-12 col-md-6 col-lg-3 mb-4">
   <div class="card h-100 border-0 bg-transparent">
-    <a href="https://www.youtube.com/watch?v=VwGFw_TWZQA&list=PLieOygzXkXb7XQO9574i5b9TqG5V7tCg_" target="_blank">
+    <a href="https://www.youtube.com/watch?v=VwGFw_TWZQA&list=PLKSR9A4mJH5rvt_Lf007xbmJISRWA0xYS" target="_blank">
       <img src="https://img.youtube.com/vi/VwGFw_TWZQA/hqdefault.jpg" class="card-img-top rounded z-depth-1" alt="Introduction to CFD using MATLAB course">
     </a>
     <div class="card-body p-2 text-center">
       <h5 class="card-title mb-0">
-        <a href="https://www.youtube.com/watch?v=VwGFw_TWZQA&list=PLieOygzXkXb7XQO9574i5b9TqG5V7tCg_" target="_blank" class="text-decoration-none">
+        <a href="https://www.youtube.com/watch?v=VwGFw_TWZQA&list=PLKSR9A4mJH5rvt_Lf007xbmJISRWA0xYS" target="_blank" class="text-decoration-none">
           Introduction to CFD using MATLAB
         </a>
       </h5>
@@ -53,12 +55,12 @@ I develop and teach open-access courses in fluid mechanics and computational met
 
 <div class="col-sm-12 col-md-6 col-lg-3 mb-4">
   <div class="card h-100 border-0 bg-transparent">
-    <a href="https://www.youtube.com/watch?v=omI4e2LA18k&list=PLieOygzXkXb5CA659aEu9IXYu_kyjk22n" target="_blank">
-      <img src="https://img.youtube.com/vi/omI4e2LA18k/hqdefault.jpg" class="card-img-top rounded z-depth-1" alt="Python CFD course">
+    <a href="https://www.youtube.com/watch?v=k8coAxkvk3c&list=PLKSR9A4mJH5o_fRTxgVciOg7HjZMnHZ1x" target="_blank">
+      <img src="https://img.youtube.com/vi/k8coAxkvk3c/hqdefault.jpg" class="card-img-top rounded z-depth-1" alt="Python CFD course">
     </a>
     <div class="card-body p-2 text-center">
       <h5 class="card-title mb-0">
-        <a href="https://www.youtube.com/watch?v=omI4e2LA18k&list=PLieOygzXkXb5CA659aEu9IXYu_kyjk22n" target="_blank" class="text-decoration-none">
+        <a href="https://www.youtube.com/watch?v=k8coAxkvk3c&list=PLKSR9A4mJH5o_fRTxgVciOg7HjZMnHZ1x" target="_blank" class="text-decoration-none">
           Simulating Fluid Flows using Python
         </a>
       </h5>
@@ -68,12 +70,12 @@ I develop and teach open-access courses in fluid mechanics and computational met
 
 <div class="col-sm-12 col-md-6 col-lg-3 mb-4">
   <div class="card h-100 border-0 bg-transparent">
-    <a href="https://www.youtube.com/watch?v=2u1j0b5nKwA&list=PLieOygzXkXb593Jz6qj_7C3A9S7Q5q5_" target="_blank">
+    <a href="https://www.youtube.com/watch?v=2u1j0b5nKwA&list=PLKSR9A4mJH5o_5uNywi684Y0KstwIV0iQ" target="_blank">
       <img src="https://img.youtube.com/vi/2u1j0b5nKwA/hqdefault.jpg" class="card-img-top rounded z-depth-1" alt="Basics of ANSYS Fluent course">
     </a>
     <div class="card-body p-2 text-center">
       <h5 class="card-title mb-0">
-        <a href="https://www.youtube.com/watch?v=2u1j0b5nKwA&list=PLieOygzXkXb593Jz6qj_7C3A9S7Q5q5_" target="_blank" class="text-decoration-none">
+        <a href="https://www.youtube.com/watch?v=2u1j0b5nKwA&list=PLKSR9A4mJH5o_5uNywi684Y0KstwIV0iQ" target="_blank" class="text-decoration-none">
           Basics of ANSYS Fluent
         </a>
       </h5>
