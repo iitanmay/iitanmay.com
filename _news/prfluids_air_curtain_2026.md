@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2026-08-17
-title: Infiltration and transport dynamics in air curtains published in Physical Review Fluids
+title: Paper quantifying the infiltration and transport dynamics of air curtains published in Physical Review Fluids
 inline: false
 related_posts: false
 ---

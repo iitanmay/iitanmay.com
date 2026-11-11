@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2026-03-31
-title: "New Insights into Air Curtains: Line Fountains in Stratified Environments Published in JFM"
+title: New study providing insights into line fountains in stratified environments published in Journal of Fluid Mechanics
 inline: false
 ---
 

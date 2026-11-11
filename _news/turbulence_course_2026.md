@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Launched a course on understanding turbulent flows
+title: Launched a YouTube course aimed to introduce turbulent flows to absolute beginners
 date: 2026-06-01
 inline: false
 related_posts: false
