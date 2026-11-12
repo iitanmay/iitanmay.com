@@ -115,3 +115,74 @@ $max-content-width: {{ site.max_width }};
     color: var(--global-text-color-light);
   }
 }
+
+// Homepage intro: photo and biography as two columns.
+// Replaces the theme's float-right profile, which let the first two paragraphs
+// wrap narrow beside the image and the rest run the full 930px, giving the text
+// a ragged right edge and two different line lengths in one block. As columns,
+// the text keeps one measure throughout and both edges stay straight.
+.about-intro {
+  display: flex;
+  align-items: flex-start;
+  gap: 2rem;
+  margin-bottom: 1rem;
+
+  .profile {
+    flex: 0 0 30%;
+    width: 30%;
+    margin: 0;
+    order: 2; // photo on the right by default
+  }
+
+  // Affiliation under the photo. The theme sets this in monospace and lays the
+  // lines out inline-block, which runs them together outside an .address block.
+  .more-info {
+    margin-top: 0.9rem;
+    font-family: inherit;
+    font-size: 0.85rem;
+    line-height: 1.5;
+    color: var(--global-text-color-light);
+
+    p {
+      display: block;
+      margin: 0;
+    }
+  }
+
+  .about-text {
+    flex: 1 1 auto;
+    min-width: 0; // let the text column shrink instead of overflowing
+    order: 1;
+
+    > p:first-child {
+      margin-top: 0;
+    }
+
+    > :last-child {
+      margin-bottom: 0;
+    }
+  }
+
+  // profile.align: left in the page front matter
+  &.about-intro-left {
+    .profile {
+      order: 1;
+    }
+    .about-text {
+      order: 2;
+    }
+  }
+}
+
+// Stack on phones, where two columns leave neither readable.
+@media (max-width: 575.98px) {
+  .about-intro {
+    display: block;
+
+    .profile {
+      width: 65%;
+      max-width: 240px;
+      margin: 0 auto 1.5rem;
+    }
+  }
+}
