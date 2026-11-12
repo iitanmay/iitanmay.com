@@ -71,13 +71,13 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/agu_book_chapter_2025/";
-            },},{id: "news-joined-university-of-oxford-as-a-postdoctoral-research-fellow",
-          title: 'Joined University of Oxford as a postdoctoral research fellow',
+            },},{id: "news-joined-department-of-earth-sciences-at-university-of-oxford-as-a-postdoctoral-research-fellow",
+          title: 'Joined Department of Earth Sciences at University of Oxford as a Postdoctoral Research...',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/oxford_joining/";
-            },},{id: "news-new-study-providing-insights-into-line-fountains-in-stratified-environments-published-in-journal-of-fluid-mechanics",
-          title: 'New study providing insights into line fountains in stratified environments published in Journal...',
+            },},{id: "news-new-study-providing-insights-into-turbulent-impinging-line-fountains-published-in-journal-of-fluid-mechanics",
+          title: 'New study providing insights into turbulent impinging line fountains published in Journal of...',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/jfm_fountains_2026/";
@@ -86,12 +86,12 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/turbulence_course_2026/";
-            },},{id: "news-paper-quantifying-the-infiltration-and-transport-dynamics-of-air-curtains-published-in-physical-review-fluids",
-          title: 'Paper quantifying the infiltration and transport dynamics of air curtains published in Physical...',
+            },},{id: "news-new-paper-investigating-the-maximum-sealing-effectiveness-of-air-curtains-published-in-physical-review-fluids",
+          title: 'New paper investigating the maximum sealing effectiveness of air curtains published in Physical...',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/prfluids_air_curtain_2026/";
-            },},{id: "news-presented-a-part-of-my-phd-research-during-the-uk-fluids-conference-2026-at-the-university-of-leeds-on-elucidating-the-mechanisms-of-fluid-transport-across-air-curtains",
+            },},{id: "news-presented-a-part-of-my-phd-research-during-the-uk-fluids-conference-2026-at-the-university-of-leeds-elucidating-the-mechanisms-of-fluid-transport-across-air-curtains",
           title: 'Presented a part of my PhD research during the UK Fluids Conference 2026...',
           description: "",
           section: "News",},{
