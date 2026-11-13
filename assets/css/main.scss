@@ -42,9 +42,62 @@ $max-content-width: {{ site.max_width }};
   }
 }
 
+// Figures run at one of three widths, chosen per figure by aspect ratio and by
+// the resolution of the source file, so a 5:1 panorama and a square frame are
+// not forced into the same box.
+.research-figure--wide {
+  width: 100%;
+}
+
+.research-figure--narrow {
+  width: 50%;
+}
+
 @media (max-width: 768px) {
-  .research-figure {
+  .research-figure,
+  .research-figure--wide,
+  .research-figure--narrow {
     width: 100%;
+  }
+}
+
+// Methods strip directly under each section heading.
+.section-methods {
+  margin-top: -0.35rem;
+  margin-bottom: 1.4rem;
+  font-size: 0.82rem;
+  letter-spacing: 0.01em;
+  color: var(--global-text-color-light);
+}
+
+// Papers for a section, at the end of it.
+.research-outputs {
+  margin: 2rem 0 0.5rem;
+  padding: 1rem 0 0;
+  border-top: 1px solid var(--global-divider-color);
+
+  .research-outputs-label {
+    margin-bottom: 0.6rem;
+    font-size: 0.78rem;
+    font-weight: 600;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--global-text-color-light);
+  }
+
+  ol {
+    margin-bottom: 0;
+    padding-left: 1.2rem;
+  }
+
+  li {
+    margin-bottom: 0.5rem;
+    font-size: 0.9rem;
+    line-height: 1.5;
+
+    &:last-child {
+      margin-bottom: 0;
+    }
   }
 }
 
