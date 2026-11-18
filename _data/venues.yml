@@ -7,3 +7,6 @@ Conference:
 "Book Chapter":
   color: "#FF9800" # Orange
   url: https://en.wikipedia.org/wiki/Book_chapter
+Thesis:
+  color: "#607D8B" # Blue grey
+  url: https://en.wikipedia.org/wiki/Thesis
