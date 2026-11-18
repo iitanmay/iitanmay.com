@@ -145,3 +145,16 @@ Conducted workshops, tutorials, and laboratory sessions.
 - Gas Dynamics (UG)
 
 Led tutorials and graded assignments and examinations.
+
+<hr>
+
+## Supervision and Mentoring
+
+### Master's students
+
+- **Jules Relyveld** (ongoing) — _Numerical modelling of inertial particles in stratified turbulent flows_. Eindhoven University of Technology, Netherlands.
+- **Diptanu Das** (completed) — _A numerical study of effectiveness of buoyant air curtains_. Indian Institute of Technology Delhi, India.
+
+### Undergraduate students
+
+Four students supervised to completion at IIT Delhi: two on semester exchange and two as summer interns. One of the summer projects, on [viscosity-stratified jets]({{ '/news/animesh_internship/' | relative_url }}), went on to be presented at the Fluid Mechanics and Fluid Power conference.
