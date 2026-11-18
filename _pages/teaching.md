@@ -11,20 +11,19 @@ nav_order: 4
 
 ## YouTube Courses
 
-I develop and teach open-access courses in fluid mechanics and computational methods, covering topics from turbulence and computational fluid dynamics to scientific programming and flow simulation. The full collection is available on my [YouTube channel](https://www.youtube.com/@TanmayAgrawal7), which has **16.4k subscribers**.
+I develop and teach open-access courses in fluid mechanics and computational methods, covering topics from turbulence and computational fluid dynamics to scientific programming and flow simulation. The full collection is available on my [YouTube channel](https://www.youtube.com/@TanmayAgrawal7), which has **16.4k subscribers** and has been watched over **1.8 million times**.
 
 {% comment %}
-TODO(tanmay): subscriber count is a point-in-time figure — refresh it when
-you next touch this page, or drop the number if you would rather not
-maintain it. Total view count and per-playlist episode counts would
-strengthen this section further.
+TODO(tanmay): the subscriber and view figures are point-in-time. Refresh them
+when you next touch this page, or drop them if you would rather not maintain
+them. Course playlist ids are listed in the cards below.
 {% endcomment %}
 
 <div class="container">
   <div class="row">
 
-<div class="col-sm-12 col-md-6 col-lg-3 mb-4">
-  <div class="card h-100 border-0 bg-transparent">
+<div class="col-sm-12 col-md-6 col-lg-4 mb-4">
+  <div class="card h-100 border-0 bg-transparent course-card">
     <a href="https://www.youtube.com/watch?v=436HwwfMH4A&list=PLKSR9A4mJH5o85J0iFEPbTwcSv9pQ5Gkz" target="_blank">
       <img src="https://img.youtube.com/vi/436HwwfMH4A/hqdefault.jpg" class="card-img-top rounded z-depth-1" alt="Understanding Turbulent Flows course">
     </a>
@@ -38,8 +37,8 @@ strengthen this section further.
   </div>
 </div>
 
-<div class="col-sm-12 col-md-6 col-lg-3 mb-4">
-  <div class="card h-100 border-0 bg-transparent">
+<div class="col-sm-12 col-md-6 col-lg-4 mb-4">
+  <div class="card h-100 border-0 bg-transparent course-card">
     <a href="https://www.youtube.com/watch?v=VwGFw_TWZQA&list=PLKSR9A4mJH5rvt_Lf007xbmJISRWA0xYS" target="_blank">
       <img src="https://img.youtube.com/vi/VwGFw_TWZQA/hqdefault.jpg" class="card-img-top rounded z-depth-1" alt="Introduction to CFD using MATLAB course">
     </a>
@@ -53,10 +52,10 @@ strengthen this section further.
   </div>
 </div>
 
-<div class="col-sm-12 col-md-6 col-lg-3 mb-4">
-  <div class="card h-100 border-0 bg-transparent">
+<div class="col-sm-12 col-md-6 col-lg-4 mb-4">
+  <div class="card h-100 border-0 bg-transparent course-card">
     <a href="https://www.youtube.com/watch?v=k8coAxkvk3c&list=PLKSR9A4mJH5o_fRTxgVciOg7HjZMnHZ1x" target="_blank">
-      <img src="https://img.youtube.com/vi/k8coAxkvk3c/hqdefault.jpg" class="card-img-top rounded z-depth-1" alt="Python CFD course">
+      <img src="https://img.youtube.com/vi/k8coAxkvk3c/hqdefault.jpg" class="card-img-top rounded z-depth-1" alt="Simulating Fluid Flows using Python course">
     </a>
     <div class="card-body p-2 text-center">
       <h5 class="card-title mb-0">
@@ -68,8 +67,8 @@ strengthen this section further.
   </div>
 </div>
 
-<div class="col-sm-12 col-md-6 col-lg-3 mb-4">
-  <div class="card h-100 border-0 bg-transparent">
+<div class="col-sm-12 col-md-6 col-lg-4 mb-4">
+  <div class="card h-100 border-0 bg-transparent course-card">
     <a href="https://www.youtube.com/watch?v=2u1j0b5nKwA&list=PLKSR9A4mJH5o_5uNywi684Y0KstwIV0iQ" target="_blank">
       <img src="https://img.youtube.com/vi/2u1j0b5nKwA/hqdefault.jpg" class="card-img-top rounded z-depth-1" alt="Basics of ANSYS Fluent course">
     </a>
@@ -77,6 +76,36 @@ strengthen this section further.
       <h5 class="card-title mb-0">
         <a href="https://www.youtube.com/watch?v=2u1j0b5nKwA&list=PLKSR9A4mJH5o_5uNywi684Y0KstwIV0iQ" target="_blank" class="text-decoration-none">
           Basics of ANSYS Fluent
+        </a>
+      </h5>
+    </div>
+  </div>
+</div>
+
+<div class="col-sm-12 col-md-6 col-lg-4 mb-4">
+  <div class="card h-100 border-0 bg-transparent course-card">
+    <a href="https://www.youtube.com/watch?v=OZ6AKMA7zFY&list=PLKSR9A4mJH5pIVFkkvDODPUnVafqXM_As" target="_blank">
+      <img src="https://img.youtube.com/vi/OZ6AKMA7zFY/hqdefault.jpg" class="card-img-top rounded z-depth-1" alt="Particle Image Velocimetry with MATLAB course">
+    </a>
+    <div class="card-body p-2 text-center">
+      <h5 class="card-title mb-0">
+        <a href="https://www.youtube.com/watch?v=OZ6AKMA7zFY&list=PLKSR9A4mJH5pIVFkkvDODPUnVafqXM_As" target="_blank" class="text-decoration-none">
+          Particle Image Velocimetry with MATLAB
+        </a>
+      </h5>
+    </div>
+  </div>
+</div>
+
+<div class="col-sm-12 col-md-6 col-lg-4 mb-4">
+  <div class="card h-100 border-0 bg-transparent course-card">
+    <a href="https://www.youtube.com/watch?v=cgzx1TXGps8&list=PLKSR9A4mJH5oxNZ8UVCaTtsnZZqGIknUQ" target="_blank">
+      <img src="https://img.youtube.com/vi/cgzx1TXGps8/hqdefault.jpg" class="card-img-top rounded z-depth-1" alt="Finite Difference Methods course">
+    </a>
+    <div class="card-body p-2 text-center">
+      <h5 class="card-title mb-0">
+        <a href="https://www.youtube.com/watch?v=cgzx1TXGps8&list=PLKSR9A4mJH5oxNZ8UVCaTtsnZZqGIknUQ" target="_blank" class="text-decoration-none">
+          Finite Difference Methods
         </a>
       </h5>
     </div>

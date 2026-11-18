@@ -239,3 +239,24 @@ $max-content-width: {{ site.max_width }};
     }
   }
 }
+
+// Course cards on the teaching page. Titles run to one or three lines, so the
+// text block is given a consistent height to keep the grid rows even.
+.course-card {
+  .card-img-top {
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
+  }
+
+  .card-title {
+    font-size: 1rem;
+    line-height: 1.35;
+  }
+
+  .card-body {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    min-height: 3.6rem;
+  }
+}
