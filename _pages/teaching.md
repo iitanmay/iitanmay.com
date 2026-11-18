@@ -11,7 +11,7 @@ nav_order: 4
 
 ## YouTube Courses
 
-I develop and teach open-access courses in fluid mechanics and computational methods, covering topics from turbulence and computational fluid dynamics to scientific programming and flow simulation. The full collection is available on my [YouTube channel](https://www.youtube.com/@TanmayAgrawal7), which has **16.4k subscribers** and has been watched over **1.8 million times**.
+I develop and teach open-access courses in fluid mechanics and computational methods, covering topics from turbulence and computational fluid dynamics to scientific programming and flow simulation. The full collection is available on my [YouTube channel](https://www.youtube.com/@TanmayAgrawal7), which has **16.4k subscribers** and has been watched over **2 million times**.
 
 {% comment %}
 TODO(tanmay): the subscriber and view figures are point-in-time. Refresh them
@@ -124,7 +124,6 @@ them. Course playlist ids are listed in the cards below.
 **Teaching Assistant, 2021–2024**
 
 - Fluid Mechanics (UG/PG)
-- Experimental Fluid Mechanics (UG)
 - Computational Fluid Dynamics (PG)
 - Environmental Fluid Mechanics (PG)
 - Engineering Mechanics (UG)
@@ -136,15 +135,11 @@ them. Course playlist ids are listed in the cards below.
 - Civil Hydraulics (PG)
 - Fluid Mechanics (UG)
 
-Conducted workshops, tutorials, and laboratory sessions.
-
 ### National Tsing Hua University
 
 **Graduate Teaching Assistant, 2015–2016**
 
 - Gas Dynamics (UG)
-
-Led tutorials and graded assignments and examinations.
 
 <hr>
 

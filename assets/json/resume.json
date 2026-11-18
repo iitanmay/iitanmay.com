@@ -235,13 +235,7 @@
       "location": "India",
       "period": "2021 - 2024",
       "role": "Teaching Assistant",
-      "courses": [
-        "Fluid Mechanics (UG/PG)",
-        "Experimental Fluid Mechanics (UG)",
-        "Computational Fluid Dynamics (PG)",
-        "Environmental Fluid Mechanics (PG)",
-        "Engineering Mechanics (UG)"
-      ]
+      "courses": ["Fluid Mechanics (UG/PG)", "Computational Fluid Dynamics (PG)", "Environmental Fluid Mechanics (PG)", "Engineering Mechanics (UG)"]
     },
     {
       "institution": "The University of Melbourne",
@@ -352,6 +346,42 @@
     }
   ],
   "volunteer": [
+    {
+      "organization": "Peer review",
+      "location": "",
+      "position": "Reviewer",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Reviewer for international journals and conferences in fluid mechanics and building engineering.",
+      "highlights": [
+        "Physics of Fluids (5 manuscripts)",
+        "Journal of Building Engineering (3 manuscripts)",
+        "Journal of Fluid Mechanics (1 manuscript)",
+        "International Journal of Heat and Mass Transfer (1 manuscript)",
+        "Fluid Mechanics and Fluid Power conference (2 manuscripts)"
+      ]
+    },
+    {
+      "organization": "Department of Earth Sciences, University of Oxford",
+      "location": "United Kingdom",
+      "position": "Events Coordinator",
+      "url": "",
+      "startDate": "2026",
+      "endDate": "",
+      "summary": "Coordinating departmental events.",
+      "highlights": []
+    },
+    {
+      "organization": "Indian Institute of Technology Delhi",
+      "location": "India",
+      "position": "Laboratory Safety Officer and Inventory Manager",
+      "url": "",
+      "startDate": "2022",
+      "endDate": "2025",
+      "summary": "Responsible for laboratory safety and inventory in the Fluid Mechanics laboratory.",
+      "highlights": []
+    },
     {
       "organization": "Mechanical Engineering Research Student Association (MERSA), The University of Melbourne",
       "location": "Australia",
