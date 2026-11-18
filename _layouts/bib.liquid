@@ -160,6 +160,7 @@
     {% else %}
       {% capture entrytype %}{% endcapture %}
     {% endif %}
+    {% assign entrymonth = '' %}
     {% if entry.month %}
       {% capture entrymonth %}{{ " " }}{{ entry.month | capitalize }}{% endcapture %}
     {% endif %}
@@ -176,6 +177,22 @@
     {% if hook_exists == 'true' %}
       {% include hook/bib.liquid %}
     {% endif %}
+    {% comment %}
+      Volume, issue and pages were present in papers.bib but never rendered, so
+      every citation line stopped at the journal name and could not actually be
+      used as a reference. Appended here as: Journal, volume(issue), pages.
+    {% endcomment %}
+    {% if entry.volume %}
+      {% capture entrytype %}{{ entrytype }}{{ ", " }}{{ entry.volume }}{% endcapture %}
+      {% if entry.number %}
+        {% capture entrytype %}{{ entrytype }}({{ entry.number }}){% endcapture %}
+      {% endif %}
+    {% endif %}
+    {% if entry.pages %}
+      {% assign entrypages = entry.pages | replace: '--', '&ndash;' %}
+      {% capture entrytype %}{{ entrytype }}{{ ", " }}{{ entrypages }}{% endcapture %}
+    {% endif %}
+
     {% assign entrytype_text = entrytype | strip_html | strip %}
     {% capture periodical %}{{ entrytype }}{% if entrytype_text != "" and entryyear != "" %}, {% endif %}{{ entrymonth }}{{ entryyear }}{% endcapture %}
     <div class="periodical">
@@ -358,7 +375,7 @@
       <div class="bibtex hidden">
         {% highlight bibtex %}
         {{- entry.bibtex | hideCustomBibtex -}}
-      {% endhighlight %}
+        {% endhighlight %}
       </div>
     {% endif %}
 
