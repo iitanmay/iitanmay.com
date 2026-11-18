@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Joined Department of Earth Sciences at University of Oxford as a Postdoctoral Research Fellow
+title: Joined Department of Earth Sciences at University of Oxford as a Postdoctoral Research Assistant
 date: 2026-01-26
 inline: false
 related_posts: false

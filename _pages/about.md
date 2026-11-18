@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Postdoctoral Research Fellow</p>
+    <p>Postdoctoral Research Assistant</p>
     <p>Department of Earth Sciences</p>
     <p>University of Oxford</p>
 
@@ -31,6 +31,6 @@ My research broadly focusses on environmental and geophysical fluid dynamics wit
 
 Most of my recent work has been on free shear flows, in particular on buoyant jets, turbulent fountains and plumes released into stratified and sheared environments. I employ a combination of laboratory experiments, large-eddy simulations and reduced-order models to study them, since each approach provides unique inputs towards addressing research questions. I also have interest in wall-bounded turbulence, where I have worked on high-resolution measurements of near-wall statistics.
 
-I am currently a Postdoctoral Research Fellow at the University of Oxford, investigating analogue volcanic plumes in laboratory and simulations, a research funded by NERC. Before this, I completed my [PhD in Applied Mechanics]({{ '/news/phd_defense/' | relative_url }}) at IIT Delhi, on transport and mixing in turbulent fountains in stratified ambients. Earlier, I pursued an MPhil at the University of Melbourne and an MS at National Tsing Hua University in Taiwan, and completed my undergraduate degree at NIT Hamirpur, India.
+I am currently a Postdoctoral Research Assistant at the University of Oxford, investigating analogue volcanic plumes in laboratory and simulations, a research funded by NERC. Before this, I completed my [PhD in Applied Mechanics]({{ '/news/phd_defense/' | relative_url }}) at IIT Delhi, on transport and mixing in turbulent fountains in stratified ambients. Earlier, I pursued an MPhil at the University of Melbourne and an MS at National Tsing Hua University in Taiwan, and completed my undergraduate degree at NIT Hamirpur, India.
 
 Alongside research, I am passionate about teaching and am currently delivering open-access courses in fluid mechanics and computational methods on YouTube. I welcome connections and collaborations from fellow researchers and students alike.

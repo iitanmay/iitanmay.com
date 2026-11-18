@@ -13,7 +13,7 @@ contact_note: >
 # the Schema.org JSON-LD string built in _includes/metadata.liquid, which silently
 # invalidates the whole structured-data block.
 description: >-
-  Tanmay Agrawal is a Postdoctoral Research Fellow at the University of Oxford working on
+  Tanmay Agrawal is a Postdoctoral Research Assistant at the University of Oxford working on
   environmental fluid dynamics: turbulent jets, fountains, air curtains, gravity currents,
   stratified turbulence and volcanic plumes, studied with laboratory experiments and
   large-eddy simulations.

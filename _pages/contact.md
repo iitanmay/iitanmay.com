@@ -7,7 +7,7 @@ nav_order: 6
 ---
 
 **Tanmay Agrawal**<br>
-Postdoctoral Research Fellow<br>
+Postdoctoral Research Assistant<br>
 Department of Earth Sciences, University of Oxford
 
 Email: <a href="mailto:{{ site.data.socials.email | encode_email }}">iitanmay [at] proton [dot] me</a>
