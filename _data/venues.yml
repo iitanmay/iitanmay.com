@@ -1,12 +1,37 @@
-Journal:
-  color: "#4CAF50" # Green
-  url: https://en.wikipedia.org/wiki/Academic_journal
-Conference:
-  color: "#2196F3" # Blue
-  url: https://en.wikipedia.org/wiki/Conference_paper
-"Book Chapter":
-  color: "#FF9800" # Orange
-  url: https://en.wikipedia.org/wiki/Book_chapter
-Thesis:
-  color: "#607D8B" # Blue grey
-  url: https://en.wikipedia.org/wiki/Thesis
+# Badge shown beside each publication. The key must match the entry's `abbr`
+# in papers.bib exactly, or bib.liquid finds no colour and the badge falls
+# back to the theme accent. Colour signals the kind of work; the acronym
+# names the venue.
+
+"PRF":
+  color: "#4CAF50" # Journal
+"JFM":
+  color: "#4CAF50" # Journal
+"EFM":
+  color: "#4CAF50" # Journal
+"C&F":
+  color: "#4CAF50" # Journal
+"PoF":
+  color: "#4CAF50" # Journal
+"JCP":
+  color: "#4CAF50" # Journal
+"JIE(I)":
+  color: "#4CAF50" # Journal
+"EFDC":
+  color: "#2196F3" # Conference
+"FMFP":
+  color: "#2196F3" # Conference
+"IHMTC":
+  color: "#2196F3" # Conference
+"APS DFD":
+  color: "#2196F3" # Conference
+"ETC":
+  color: "#2196F3" # Conference
+"AGU Books":
+  color: "#FF9800" # Book chapter
+"PhD Thesis":
+  color: "#607D8B" # Thesis
+"MPhil Thesis":
+  color: "#607D8B" # Thesis
+"MSc Thesis":
+  color: "#607D8B" # Thesis
