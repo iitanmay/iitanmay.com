@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-publications",
           title: "publications",
-          description: "publications in reversed chronological order.",
+          description: "Peer-reviewed work on environmental fluid dynamics, turbulence and computational methods, newest first.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
@@ -71,7 +71,7 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/agu_book_chapter_2025/";
-            },},{id: "news-joined-department-of-earth-sciences-at-university-of-oxford-as-a-postdoctoral-research-fellow",
+            },},{id: "news-joined-department-of-earth-sciences-at-university-of-oxford-as-a-postdoctoral-research-assistant",
           title: 'Joined Department of Earth Sciences at University of Oxford as a Postdoctoral Research...',
           description: "",
           section: "News",handler: () => {
