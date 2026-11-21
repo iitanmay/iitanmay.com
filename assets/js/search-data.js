@@ -81,8 +81,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/jfm_fountains_2026/";
-            },},{id: "news-launched-a-youtube-course-aimed-to-introduce-turbulent-flows-to-absolute-beginners",
-          title: 'Launched a YouTube course aimed to introduce turbulent flows to absolute beginners',
+            },},{id: "news-launched-a-new-course-on-youtube-explaining-turbulent-flows",
+          title: 'Launched a new course on YouTube explaining turbulent flows',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/turbulence_course_2026/";
