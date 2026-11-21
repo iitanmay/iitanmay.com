@@ -94,6 +94,9 @@ ninja.data = [{
             },},{id: "news-presented-a-part-of-my-phd-research-during-the-uk-fluids-conference-2026-at-the-university-of-leeds-elucidating-the-mechanisms-of-fluid-transport-across-air-curtains",
           title: 'Presented a part of my PhD research during the UK Fluids Conference 2026...',
           description: "",
+          section: "News",},{id: "news-delivered-an-invited-talk-turbulent-buoyant-jets-from-air-curtains-to-volcanic-plumes-at-the-department-of-applied-mathematics-and-theoretical-physics-university-of-cambridge",
+          title: 'Delivered an invited talk, “Turbulent buoyant jets: from air curtains to volcanic plumes”,...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
