@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Delivered an invited talk, "Turbulent buoyant jets: from air curtains to volcanic plumes", at the Department of Applied Mathematics and Theoretical Physics, University of Cambridge.
+Gave a talk titled "Turbulent buoyant jets: From air curtains to volcanic plumes" at DAMTP, University of Cambridge.
