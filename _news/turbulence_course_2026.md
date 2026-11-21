@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Launched a YouTube course aimed to introduce turbulent flows to absolute beginners
+title: Launched a new course on YouTube explaining turbulent flows
 date: 2026-06-01
 inline: false
 related_posts: false
 ---
 
-Finally, I have mustered the courage to take this undertaking and am now putting forward a new course on my YouTube channel. This one is called [Understanding Turbulent Flows](https://www.youtube.com/playlist?list=PLKSR9A4mJH5o85J0iFEPbTwcSv9pQ5Gkz) and is aimed at advanced undergraduates, postgraduates and anyone who wants to develop some mathematical and physical understanding of turbulence. The course would also be useful for people working in industry who use turbulence models routinely and would like a firmer sense of what sits underneath them. At the time of writing this, I cannot say how long it is going to run, but I anticipate around 40 lectures. As always, the course is free, and options for supporting the channel are available through a Patreon page, which also gives you additional content.
+Finally, I have mustered the courage to take this undertaking and am now putting forward a new course on my YouTube channel. This one is called [Understanding Turbulent Flows](https://www.youtube.com/playlist?list=PLKSR9A4mJH5o85J0iFEPbTwcSv9pQ5Gkz) and is aimed at advanced undergraduates, postgraduates and anyone who wants to develop some mathematical and physical understanding of turbulence. The course would also be useful for people working in industry who use turbulence models routinely and would like a firmer sense of what sits underneath them. At the time of writing this, I cannot say how long it is going to run, but I anticipate around 40 lectures. As always, the course is free, and options for supporting the channel are available through a [Patreon page](https://www.patreon.com/cw/TanmayAgrawal), which also gives you additional content.
 
 The definition of turbulence is not trivial, and it is usually attributed to a fluid flow that changes its character noticeably compared with a laminar state. The equations stop yielding to the methods that work for laminar flows, since the non-linear effects are pronounced; the reasoning turns statistical, so as to keep the mathematics manageable; and students who were comfortable a fortnight earlier often feel the subject has been taken away from them.
 
