@@ -66,8 +66,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/phd_defense/";
-            },},{id: "news-book-chapter-on-the-equivalence-of-top-and-bottom-gravity-currents",
-          title: 'Book chapter on the equivalence of top and bottom gravity currents',
+            },},{id: "news-article-revisiting-the-equivalence-of-top-and-bottom-gravity-currents-published-in-agu-books",
+          title: 'Article revisiting the equivalence of top and bottom gravity currents published in AGU...',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/agu_book_chapter_2025/";
