@@ -91,11 +91,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/prfluids_air_curtain_2026/";
-            },},{id: "news-presented-a-part-of-my-phd-research-during-the-uk-fluids-conference-2026-at-the-university-of-leeds-elucidating-the-mechanisms-of-fluid-transport-across-air-curtains",
-          title: 'Presented a part of my PhD research during the UK Fluids Conference 2026...',
+            },},{id: "news-presented-a-talk-titled-fluid-transport-across-a-turbulent-impinging-line-fountain-at-the-uk-fluids-conference-2026-university-of-leeds",
+          title: 'Presented a talk titled “Fluid transport across a turbulent impinging line fountain” at...',
           description: "",
-          section: "News",},{id: "news-delivered-an-invited-talk-turbulent-buoyant-jets-from-air-curtains-to-volcanic-plumes-at-the-department-of-applied-mathematics-and-theoretical-physics-university-of-cambridge",
-          title: 'Delivered an invited talk, “Turbulent buoyant jets: from air curtains to volcanic plumes”,...',
+          section: "News",},{id: "news-gave-a-talk-titled-turbulent-buoyant-jets-from-air-curtains-to-volcanic-plumes-at-damtp-university-of-cambridge",
+          title: 'Gave a talk titled “Turbulent buoyant jets: From air curtains to volcanic plumes”...',
           description: "",
           section: "News",},{
         id: 'social-email',
