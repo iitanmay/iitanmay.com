@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Courses and university teaching in fluid mechanics and computational methods",
+          description: "Online courses and university teaching, primarily in fluid mechanics and computational methods.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
