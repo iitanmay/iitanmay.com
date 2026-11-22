@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Courses and university teaching in fluid mechanics and computational methods
+description: Online courses and university teaching, primarily in fluid mechanics and computational methods.
 nav: true
 nav_order: 4
 ---
@@ -11,7 +11,7 @@ nav_order: 4
 
 ## YouTube Courses
 
-I develop and teach open-access courses in fluid mechanics and computational methods, covering topics from turbulence and computational fluid dynamics to scientific programming and flow simulation. The full collection is available on my [YouTube channel](https://www.youtube.com/@TanmayAgrawal7), which has **16.4k subscribers** and has been watched over **2 million times**.
+I develop and teach open-access courses in fluid mechanics and computational methods, covering topics from turbulence and fluid dynamics to scientific programming and fluid flow simulations. The full collection is available on my [YouTube channel](https://www.youtube.com/@TanmayAgrawal7), which has about **16.5k subscribers** at the time of writing and has been watched over **2 million times**.
 
 {% comment %}
 TODO(tanmay): the subscriber and view figures are point-in-time. Refresh them
@@ -147,9 +147,9 @@ them. Course playlist ids are listed in the cards below.
 
 ### Master's students
 
-- **Jules Relyveld** (ongoing) — _Numerical modelling of inertial particles in stratified turbulent flows_. Eindhoven University of Technology, Netherlands.
-- **Diptanu Das** (completed) — _A numerical study of effectiveness of buoyant air curtains_. Indian Institute of Technology Delhi, India.
+- **Jules Relyveld.** Thesis title: _Numerical modelling of inertial particles in stratified turbulent flows_. Eindhoven University of Technology, Netherlands. Primary supervisor: Matias Duran Matute.
+- **Diptanu Das.** Thesis title: _A numerical study of effectiveness of buoyant air curtains_. Indian Institute of Technology Delhi, India. Primary supervisors: Narsing K. Jha and Vamsi K. Chalamalla.
 
-### Undergraduate students
+### Undergraduate research projects and interns
 
-Four students supervised to completion at IIT Delhi: two on semester exchange and two as summer interns. One of the summer projects, on [viscosity-stratified jets]({{ '/news/animesh_internship/' | relative_url }}), went on to be presented at the Fluid Mechanics and Fluid Power conference.
+I have mentored four students during my PhD at IIT Delhi: two who were visiting for a semester exchange and two as summer interns. One of the summer projects, on [viscosity-stratified jets]({{ '/news/animesh_internship/' | relative_url }}), went on to be presented at the Fluid Mechanics and Fluid Power conference.
