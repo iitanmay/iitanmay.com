@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-publications",
           title: "publications",
-          description: "Peer-reviewed work on environmental fluid dynamics, turbulence and computational methods, newest first.",
+          description: "Peer-reviewed work till date, newest first.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
