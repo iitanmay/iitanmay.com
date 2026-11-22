@@ -14,19 +14,11 @@ toc:
 
 ## volcanic plumes
 
-<p class="section-methods">Laboratory experiments &middot; large-eddy simulation &middot; integral plume models</p>
+<p class="section-methods">Analogue laboratory experiments &middot; large-eddy simulation &middot; integral plume models</p>
 
-{% comment %}
-TODO(tanmay): if PHOENIX has a project page or a NERC grant page, link it on
-the word "PHOENIX" below. I left it unlinked rather than point at a URL I
-could not verify from here.
-{% endcomment %}
+My current work at Oxford looks at the influence of complex source and wind conditions on plume height of explosive volcanic eruptions. This is a NERC-funded project, led by [Thomas Aubry](https://sites.google.com/view/thomasjaubry/), and in collaboration with Eric Breard (Edinburgh), Helen Webster (Exeter) and Sam Engwell (BGS). An explosive eruption injects ash and hot gases into the atmosphere as a buoyant multiphase plume. The plume height is a key input for operational models as it sets the ash dispersal forecast that aviation hazard forecasting depends on, and the amount of sulfur delivered to the stratosphere that drives the subsequent climate response.
 
-My current work at Oxford is part of PHOENIX, a NERC-funded project on the influence of complex source and wind conditions on eruptive plume height, led by [Prof. Thomas Aubry](https://sites.google.com/view/thomasjaubry/). An explosive eruption injects ash and gas into the atmosphere as a buoyant multiphase plume, and the height that plume reaches is the quantity operational models most need to get right: it sets the ash dispersal forecast that aviation depends on, and the amount of sulfur delivered to the stratosphere that drives the subsequent climate response.
-
-Most of the models in use were built for a plume rising through a still, horizontally uniform atmosphere. Real eruptions satisfy neither assumption. The source is rarely a simple circular vent, and the wind varies with height, so the plume is sheared as it rises. The result is that plume height is often poorly predicted precisely in the conditions where a forecast matters most.
-
-I am developing an analogue facility to reproduce these conditions in the laboratory, where the source and the ambient can both be controlled and measured. The present setup is a prototype tank, one metre long and thirty centimetres wide, in which a buoyant plume is released into a density-stratified ambient. Our interest is in how the plume rise height depends on the shear profile imposed on the ambient.
+Many of the models in use earlier were built for a plume rising through a still, horizontally uniform atmosphere. Real eruptions satisfy neither assumption. The source is rarely a simple circular vent, and the wind generally varies with height, so the plume experiences a shearing atmosphere as it rises. The result is that the plume height is often poorly predicted in these conditions. I am developing an analogue facility to reproduce these conditions in the laboratory, where the source and the ambient can both be controlled and measured. The present setup is a prototype facility, 1 m long and 30 cm wide, in which a buoyant plume is released into a density-stratified ambient. Our interest is in quantifying how the plume rise height depends on the shear profile imposed on the ambient.
 
 <div class="research-figure">
   {% include figure.liquid
@@ -40,7 +32,7 @@ I am developing an analogue facility to reproduce these conditions in the labora
   </div>
 </div>
 
-Figure 2 shows a time-averaged image of a plume released into a sheared, stratified crossflow. The plume rises under its own buoyancy, is progressively bent over by the crossflow, and then spreads laterally once it reaches a level where it is no longer buoyant relative to its surroundings. The height of that intrusion, and how it responds to the shear in the ambient, is what the integral models need to reproduce.
+Figure 2 shows a time-averaged image of a plume released into a sheared, stratified crossflow. The plume rises under its own buoyancy, is progressively bent over by the crossflow, and then spreads laterally once it reaches a level where it is no longer buoyant relative to its surroundings. The height of that intrusion, and how it responds to the shear in the ambient, is what the integral models must reproduce.
 
 <div class="research-figure research-figure--wide">
   {% include figure.liquid
@@ -54,9 +46,9 @@ Figure 2 shows a time-averaged image of a plume released into a sheared, stratif
   </div>
 </div>
 
-Alongside the experiments, the project combines observational data from field sites such as Campi Flegrei with three-dimensional numerical models, with the aim of improving the one-dimensional plume models that operational forecasting relies on.
+Alongside these experiments, I am also conducting large-eddy simulations using [NGA2](https://github.com/desjardi/NGA2) to capture the effect of particle loading on the dynamics of a rising plume. These datasets will also be supported by 1D volcanic plume models, adapted as per the laboratory/simulation conditions.
 
-This work is with Thomas Aubry at Oxford, together with the project's UK and international partners.
+The experimental and modeling work is with Thomas Aubry at Oxford, whereas the simulations are being done with Eric Breard at Edinburgh.
 
 <hr>
 
