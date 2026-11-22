@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Peer-reviewed work on environmental fluid dynamics, turbulence and computational methods, newest first.
+description: Peer-reviewed work till date, newest first.
 nav: true
 nav_order: 2
 ---
@@ -21,7 +21,7 @@ block is not grouped by year, since a single forthcoming item does not need a
 year heading above it.
 {% endcomment %}
 
-## In press
+## Coming soon
 
 <div class="publications">
 

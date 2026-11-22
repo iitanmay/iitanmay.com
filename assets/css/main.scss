@@ -260,3 +260,12 @@ $max-content-width: {{ site.max_width }};
     min-height: 3.6rem;
   }
 }
+
+// Publications page: the status sections ("Coming soon", "Published") sat flush
+// against the entry above them. Give each heading that follows a list room to
+// breathe, and a hairline so the split is legible.
+.publications + h2 {
+  margin-top: 3.5rem;
+  padding-top: 1.75rem;
+  border-top: 1px solid var(--global-divider-color);
+}
