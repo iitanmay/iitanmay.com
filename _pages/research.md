@@ -54,7 +54,7 @@ The experimental and modeling work is with Thomas Aubry at Oxford, whereas the s
 
 ## jets and fountains
 
-<p class="section-methods">Time-resolved particle image velocimetry &middot; dye visualisation &middot; large-eddy simulation &middot; RANS &middot; Lagrangian particle tracking</p>
+<p class="section-methods">Large eddy simulation &middot; time-resolved particle image velocimetry &middot; dye visualisation &middot; Lagrangian particle tracking</p>
 
 During my PhD, I conducted laboratory experiments and numerical simulations to study the dynamics of turbulent jets and fountains. These free shear flows are widely observed in nature, from volcanic eruptions (forced plume) to hydrothermal vents, and in industrial applications like HVAC systems. Jets are purely momentum-driven, whereas fountains are opposed by buoyancy forces that eventually halt their vertical motion, causing them to reverse direction and spread laterally. Figure 3 shows the different classes of turbulent fountains which is determined by the comparative magnitude of buoyancy and momentum fluxes at the fountain source, governed through Froude number. Understanding their interaction in complex environments is crucial for predicting transport phenomena (mass, momentum, heat, etc.) and mixing characteristics (dilution, entrainment, etc.).
 
@@ -70,7 +70,7 @@ During my PhD, I conducted laboratory experiments and numerical simulations to s
   </div>
 </div>
 
-In particular, I focused on impinging line fountains, where the confinement (distance between the fountain source and the impingement surface) adds further complexity to the flow physics. Under such circumstances, the fountain structure is affected not only by the competition between momentum and buoyancy, but also through quantifying how the domain height (see video 1 below) compares against a <a href="https://pubs.aip.org/aip/pof/article-abstract/19/11/117101/932437/Impinging-axisymmetric-turbulent-fountains?redirectedFrom=fulltext">momentum length scale</a>. The video shows the spatiotemporal evolution of the scalar field supplied at the fountain source. The formation of shear-layer vortices is clearly evident, and the fountain fluid after impingement is significantly affected by buoyancy as it falls back toward the source.
+In particular, my work focused on impinging line fountains, where the confinement (distance between the fountain source and the impingement surface) adds further complexity to the flow physics. Under such circumstances, the fountain structure is affected not only by the competition between momentum and buoyancy, but also through quantifying how the domain height (see video 1 below) compares against a <a href="https://pubs.aip.org/aip/pof/article-abstract/19/11/117101/932437/Impinging-axisymmetric-turbulent-fountains?redirectedFrom=fulltext">momentum length scale</a>. The video shows the evolution of the scalar field supplied at the fountain source. The formation of shear-layer vortices is clearly evident, and the fountain fluid after impingement is significantly affected by buoyancy as it falls back toward the source.
 
 <div class="research-figure research-figure--wide">
   {% include video.liquid
@@ -88,8 +88,9 @@ In particular, I focused on impinging line fountains, where the confinement (dis
   </div>
 </div>
 
-Fountains subjected to a lateral density stratification are directly relevant to engineering applications such as aerodynamic sealing of doorways and underwater bubble screens. My PhD thesis explored how the lateral buoyancy difference alters the flow structures and the
-<a href="https://link.springer.com/article/10.1007/s10652-023-09948-8">associated fluid transport</a>. We observed that the interaction between the fountain and the stratified ambient creates unique structural asymmetries that significantly impact the spreading behavior. This is shown below in figure 4, where the fountain (green) is deflected sideways due to the horizontal static pressure gradient induced by the density difference between the light and dense fluid. I have also been exploring these transport characteristics from a Lagrangian perspective, where the motion of individual fluid particles is tracked, giving insights into the mechanism of fluid motion. This approach provides useful insights into the maximum sealing effectiveness that such a flow can achieve.
+Fountains subjected to a lateral density stratification are directly relevant to engineering applications such as aerodynamic sealing of doorways and underwater bubble screens. My PhD thesis explored how the lateral buoyancy difference alters the
+<a href="https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/abs/effects-of-lateral-stratification-on-the-dynamics-of-turbulent-impinging-line-fountains/60DFA4E51AE969281F27E811A6263DD4">flow structures</a> and the
+<a href="https://journals.aps.org/prfluids/abstract/10.1103/w685-jwvk">associated fluid transport</a>. We observed that the interaction between the fountain and the stratified ambient creates unique structural asymmetries that significantly impact the spreading behavior. This is shown below in figure 4, where the fountain (green) is deflected sideways due to the horizontal pressure gradient induced by the density difference between the light (white) and dense fluid (pink).
 
 <div class="research-figure research-figure--wide">
   {% include figure.liquid
@@ -103,9 +104,7 @@ Fountains subjected to a lateral density stratification are directly relevant to
   </div>
 </div>
 
-A key focus of my work was to characterize the statistical behavior and entrainment dynamics of these flows. I conducted time-resolved Particle Image Velocimetry (PIV) measurements and supported them with high-fidelity Large Eddy Simulation (LES) data to obtain an ensemble of flow dynamics at various operating conditions. Our results revealed that when a lateral density stratification is imposed on an impinging line fountain, it enhances the fluid entrainment by up to 20% compared to uniform environments. This increase is driven by the lateral forcing, which modifies the volume flux along the trajectory of the fountain.
-
-This work was done with Narsing Kumar Jha and Vamsi Krishna Chalamalla at IIT Delhi, with Shresth Agarwal contributing to the heavy jet study.
+This work was done with Narsing Kumar Jha and Vamsi Krishna Chalamalla at IIT Delhi.
 
 <div class="research-outputs">
   <p class="research-outputs-label">Research outputs</p>
@@ -159,9 +158,9 @@ These currents are generally studied using the <a href="https://www.cambridge.or
   </div>
 </div>
 
-Quantifying irreversible turbulent mixing is important for accurate modeling of stratified flows. To estimate this, I employed <a href="https://www.egr.msu.edu/tmual/MTV.html">Molecular Tagging Velocimetry</a> (MTV) and <a href="https://iopscience.iop.org/article/10.1088/0957-0233/17/6/S06/meta">Molecular Tagging Thermometry</a> (MTT) to obtain simultaneous, high-resolution measurements of velocity and temperature (density) fields. Analyzing the experimental data through the <a href="https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/abs/available-potential-energy-and-mixing-in-densitystratified-fluids/A45F1A40521FF0A0DC82BC705AD398DA">background potential energy (BPE) framework</a> allowed us to quantify the mixing efficiency in gravity currents. Based on these measurements, <a href="https://pubs.aip.org/aip/pof/article-abstract/33/1/016605/1061197/Probing-the-high-mixing-efficiency-events-in-a?redirectedFrom=fulltext">we postulated</a> that the "vortical overturns" usually act as key precursors to high mixing efficiency events.
+Quantifying irreversible turbulent mixing is important for accurate modeling of stratified flows. To estimate this, I employed <a href="https://www.egr.msu.edu/tmual/MTV.html">Molecular Tagging Velocimetry</a> (MTV) and <a href="https://iopscience.iop.org/article/10.1088/0957-0233/17/6/S06/meta">Molecular Tagging Thermometry</a> (MTT) to obtain simultaneous, high-resolution measurements of velocity and temperature (density) fields. Analyzing the experimental data through the <a href="https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/abs/available-potential-energy-and-mixing-in-densitystratified-fluids/A45F1A40521FF0A0DC82BC705AD398DA">background potential energy (BPE) framework</a> allowed us to quantify the mixing efficiency in gravity currents. Based on these measurements, <a href="https://pubs.aip.org/aip/pof/article-abstract/33/1/016605/1061197/Probing-the-high-mixing-efficiency-events-in-a?redirectedFrom=fulltext">we postulated</a> that these "vortical overturns" usually act as key precursors to high mixing efficiency events.
 
-More recently, I investigated how ambient stratification alters the flow dynamics and propagation speed of these currents. We established the flow regimes as either supercritical (characterized by solitary wave generation) or subcritical (dominated by internal waves) which is governed by the interplay between the current's buoyancy and the ambient stratification strength. Figure 5 shows the development of internal waves when a buoyant (light) gravity-current propagates in a stratified ambient. <a href="https://pubs.aip.org/aip/pof/article-abstract/34/7/076605/2847554/Dynamics-of-a-buoyant-gravity-current-propagating?redirectedFrom=fulltext">These findings</a>, validated against dye visualization experiments, provide robust scaling laws for predicting propagation speeds in complex, stratified environments.
+More recently, I investigated how ambient stratification alters the flow dynamics and propagation speed of these currents. We established the flow regimes as either supercritical (characterized by solitary wave generation) or subcritical (dominated by internal waves) which is governed by the interplay between the current's buoyancy and the ambient stratification strength. Figure 5 shows the development of internal waves when a buoyant (light) gravity-current propagates in a stratified ambient. <a href="https://pubs.aip.org/aip/pof/article-abstract/34/7/076605/2847554/Dynamics-of-a-buoyant-gravity-current-propagating?redirectedFrom=fulltext">These findings</a>, validated against shallow-water theory, provide robust scaling laws for predicting propagation speeds in complex, stratified environments.
 
 <div class="research-figure research-figure--wide">
   {% include figure.liquid
@@ -190,11 +189,11 @@ The molecular tagging measurements were made with Joe Klewicki, Jimmy Philip, Sp
 
 ## wall-bounded turbulence
 
-<p class="section-methods">Single-component molecular tagging velocimetry &middot; large-scale water channel facility</p>
+<p class="section-methods">Molecular tagging velocimetry &middot; turbulent channel flow</p>
 
-Wall-bounded flows are a particular class of fluid flows where the presence of a solid boundary significantly influences the flow physics, primarily through the imposition of a no-slip condition and thus resulting in the formation of boundary layers. My research explores the turbulent statistics and structural characteristics of these flows using high-fidelity experimental techniques. A related configuration that interests me is the impinging jet, where a stream of fluid strikes a solid surface and creates a stagnation zone followed by a wall jet spreading radially. These flows matter wherever high rates of heat and mass transfer are needed, such as the cooling of gas turbine blades and electronic components, and the open question I find most interesting is how large-scale coherent structures interact with the boundary to drive that transport.
+Wall-bounded flows are a particular class of fluid flows where the presence of a solid boundary significantly influences the flow physics, primarily through the imposition of a no-slip condition and thus resulting in the formation of boundary layers. My research explores the turbulent statistics and structural characteristics of these flows using high-fidelity experimental techniques. A related configuration that interests me is the impinging jet, where a stream of fluid strikes a solid surface and creates a stagnation zone followed by a wall jet spreading radially.
 
-I have studied fully developed turbulent channel flows to validate and apply the **Single-component Molecular Tagging Velocimetry (1c-MTV)** technique. The experiments were performed in a large-scale water channel facility located at The University of Melbourne. The channel had an aspect ratio > 12 which ensured two-dimensionality of the flow at the test section. We measured high-resolution streamwise velocity statistics across a range of friction Reynolds numbers ($Re_\tau \approx 360 - 1680$). The non-intrusive nature and high spatial resolution of MTV allowed us to resolve the viscous sublayer and capture near-wall turbulence statistics with high accuracy. The inner-normalized mean velocity and RMS profiles showed excellent agreement with Direct Numerical Simulation (DNS) data, confirming the efficacy of MTV for probing wall-bounded turbulence.
+I have studied fully developed turbulent channel flows to validate and apply the single-component Molecular Tagging Velocimetry (1c-MTV) technique. These experiments were performed in a recirculating water channel facility located at The University of Melbourne. The channel had an aspect ratio > 12 which ensured two-dimensionality of the flow at the test section. We measured high-resolution streamwise velocity statistics across a range of friction Reynolds numbers ($\delta^{+} = u_\tau \delta / \nu \approx$ 360, 580, 850 and 1680). The non-intrusive nature and high spatial resolution of 1c-MTV allowed us to resolve the viscous sublayer and capture near-wall turbulence statistics with high accuracy. The inner-normalized mean velocity and RMS profiles showed excellent agreement with Direct Numerical Simulation (DNS) data, confirming the efficacy of MTV for probing wall-bounded turbulence.
 
 <div class="research-figure">
   {% include figure.liquid
@@ -208,7 +207,7 @@ I have studied fully developed turbulent channel flows to validate and apply the
   </div>
 </div>
 
-The channel flow measurements were made with Joe Klewicki, Jimmy Philip and Spencer Zimmerman at the University of Melbourne.
+These measurements were made with Joe Klewicki and John Elsnab at the University of Melbourne.
 
 <hr>
 
